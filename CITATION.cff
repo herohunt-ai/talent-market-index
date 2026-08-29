@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: The AIRecruiter.co Talent Market Index
+message: >-
+  If you use this dataset, please cite it using the metadata below.
+type: dataset
+abstract: >-
+  A free, independent, primary-sourced index of how the world hires: 107
+  statistics on recruiting, hiring, and HR technology, each traced to a
+  verifiable primary source (208 sources cited, 194 with a direct link),
+  plus 6 long-run U.S. labor-market trackers built from BLS data via FRED
+  (2000-2026). Compiled and maintained by AIRecruiter.co, an independent
+  research publication published by HeroHunt.ai. Each figure carries an
+  as-of date and an honest confidence label (verified, reported, or
+  modeled); a figure with no resolvable primary source is not published.
+authors:
+  - name: AIRecruiter.co
+    website: https://airecruiter.co
+license: CC-BY-4.0
+url: https://airecruiter.co/data
+repository: https://github.com/herohunt-ai/talent-market-index
+keywords:
+  - recruiting
+  - hiring
+  - HR technology
+  - labor market
+  - talent acquisition
+  - open data
+date-released: 2026-08-28
+version: 2026-08-28
