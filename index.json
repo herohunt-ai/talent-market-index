@@ -4,7 +4,7 @@
   "url": "https://airecruiter.co/data",
   "methodology": "https://airecruiter.co/methodology",
   "sourceRegistry": "https://airecruiter.co/research/sources",
-  "dateModified": "2026-08-25",
+  "dateModified": "2026-09-24",
   "citation": "The AIRecruiter.co Index. AIRecruiter.co, accessed [date accessed]. https://airecruiter.co/data",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "licenseNote": "Free to cite and reuse with attribution to AIRecruiter.co and a link to the cited figure.",
@@ -12,7 +12,7 @@
   "counts": {
     "statistics": 107,
     "trackers": 6,
-    "reports": 14,
+    "reports": 15,
     "citedSources": 194,
     "confidence": {
       "verified": 42,
@@ -942,8 +942,8 @@
     {
       "id": "indeed-hiring-lab-1xwku",
       "publisher": "Indeed Hiring Lab",
-      "title": "US Labor Market Snapshot April 2026",
-      "url": "https://www.hiringlab.org/2026/05/14/us-labor-market-snapshot-april-2026",
+      "title": "US Labor Market Snapshot August 2026",
+      "url": "https://hiringlab.indeed.com/2026/08/24/us-labor-market-snapshot-august-2026/",
       "kind": "research",
       "year": "2026"
     },
@@ -2793,10 +2793,10 @@
     {
       "id": "ai-related-share-of-us-job-postings",
       "label": "AI-related share of US job postings",
-      "value": 5.4,
+      "value": 6.3,
       "unit": "%",
-      "formatted": "5.4%",
-      "asOf": "April 2026",
+      "formatted": "6.3%",
+      "asOf": "August 2026",
       "topic": "ai-in-hiring",
       "confidence": "reported",
       "context": "Well past the prior 3.3% peak in 2022, showing AI-building work climbing as entry-level demand falls.",
@@ -2805,8 +2805,8 @@
         {
           "id": "indeed-hiring-lab-1xwku",
           "publisher": "Indeed Hiring Lab",
-          "title": "US Labor Market Snapshot April 2026",
-          "url": "https://www.hiringlab.org/2026/05/14/us-labor-market-snapshot-april-2026",
+          "title": "US Labor Market Snapshot August 2026",
+          "url": "https://hiringlab.indeed.com/2026/08/24/us-labor-market-snapshot-august-2026/",
           "year": "2026"
         }
       ],
@@ -4050,7 +4050,7 @@
       "frequency": "Annual average, 2000-2025",
       "geo": "United States",
       "confidence": "verified",
-      "latestAsOf": "July 2026",
+      "latestAsOf": "August 2026",
       "latest": "4.1%",
       "source": {
         "id": "bls-fred-unrate",
@@ -4179,8 +4179,8 @@
       "frequency": "Annual average, 2000-2025",
       "geo": "United States",
       "confidence": "verified",
-      "latestAsOf": "July 2026",
-      "latest": "61.4%",
+      "latestAsOf": "August 2026",
+      "latest": "61.6%",
       "source": {
         "id": "bls-fred-civpart",
         "publisher": "U.S. Bureau of Labor Statistics, via FRED",
@@ -4294,7 +4294,7 @@
         },
         {
           "year": 2026,
-          "value": 61.4,
+          "value": 61.6,
           "partial": true
         }
       ]
@@ -4308,7 +4308,7 @@
       "frequency": "Annual average, 2001-2025",
       "geo": "United States",
       "confidence": "verified",
-      "latestAsOf": "June 2026",
+      "latestAsOf": "July 2026",
       "latest": "4.4%",
       "source": {
         "id": "bls-fred-jtsjor",
@@ -4433,8 +4433,8 @@
       "frequency": "Annual average, 2001-2025",
       "geo": "United States",
       "confidence": "verified",
-      "latestAsOf": "June 2026",
-      "latest": "2.0%",
+      "latestAsOf": "July 2026",
+      "latest": "1.9%",
       "source": {
         "id": "bls-fred-jtsqur",
         "publisher": "U.S. Bureau of Labor Statistics, JOLTS, via FRED",
@@ -4544,7 +4544,7 @@
         },
         {
           "year": 2026,
-          "value": 2,
+          "value": 1.9,
           "partial": true
         }
       ]
@@ -4558,8 +4558,8 @@
       "frequency": "Annual average, 2000-2025",
       "geo": "United States",
       "confidence": "verified",
-      "latestAsOf": "June 2026",
-      "latest": "2.50M",
+      "latestAsOf": "August 2026",
+      "latest": "2.52M",
       "source": {
         "id": "bls-fred-temphelps",
         "publisher": "U.S. Bureau of Labor Statistics, via FRED",
@@ -4673,7 +4673,7 @@
         },
         {
           "year": 2026,
-          "value": 2499.2,
+          "value": 2519.5,
           "partial": true
         }
       ]
@@ -4687,8 +4687,8 @@
       "frequency": "Annual average, 2000-2025",
       "geo": "United States",
       "confidence": "verified",
-      "latestAsOf": "July 2026",
-      "latest": "$32.40",
+      "latestAsOf": "August 2026",
+      "latest": "$32.53",
       "source": {
         "id": "bls-fred-ahetpi",
         "publisher": "U.S. Bureau of Labor Statistics, via FRED",
@@ -4802,7 +4802,7 @@
         },
         {
           "year": 2026,
-          "value": 32.4,
+          "value": 32.53,
           "partial": true
         }
       ]
@@ -4810,12 +4810,23 @@
   ],
   "reports": [
     {
+      "slug": "ai-recruiting-statistics-2026",
+      "title": "AI Recruiting Statistics 2026: The Definitive Index",
+      "url": "https://airecruiter.co/blog/ai-recruiting-statistics-2026",
+      "author": "AIRecruiter.co Research",
+      "datePublished": "2026-08-31",
+      "excerpt": "The definitive index of AI recruiting statistics for 2026: 75+ figures on adoption, ROI, the vendor market, fraud, and bias, each tied to a primary source.",
+      "readMinutes": 54,
+      "citation": "AIRecruiter.co Research (2026). AI Recruiting Statistics 2026: The Definitive Index. AIRecruiter.co. https://airecruiter.co/blog/ai-recruiting-statistics-2026",
+      "sources": []
+    },
+    {
       "slug": "skills-based-hiring-2026",
       "title": "Skills-Based Hiring: The 2026 Operator Playbook",
       "url": "https://airecruiter.co/blog/skills-based-hiring-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-07-13",
-      "dateModified": "2026-08-19",
+      "dateModified": "2026-09-04",
       "excerpt": "Roughly 70 to 85 percent of employers claim skills-based hiring, but fewer than 1 in 700 hires were actually affected. A first-principles operator guide.",
       "readMinutes": 59,
       "citation": "AIRecruiter.co Research (2026). Skills-Based Hiring: The 2026 Operator Playbook. AIRecruiter.co. https://airecruiter.co/blog/skills-based-hiring-2026",
@@ -4891,8 +4902,8 @@
       "url": "https://airecruiter.co/blog/eu-pay-transparency-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-07-13",
-      "dateModified": "2026-08-19",
-      "correction": "Refreshed the present-tense comp-intelligence outlook to name Google's Gemini 3.7 Flash, the current generally available frontier Flash tier (released August 13, 2026, superseding Gemini 3.6 Flash); Gemini 3.5 Pro remains not yet GA.",
+      "dateModified": "2026-09-04",
+      "correction": "Refreshed the present-tense comp-intelligence outlook to name Google's Gemini 3.8 Flash, the current generally available frontier Flash tier (released September 2, 2026, superseding Gemini 3.7 Flash); Gemini 3.5 Pro remains not yet GA.",
       "excerpt": "The EU Pay Transparency Directive just flipped two hiring norms at once. A first-principles guide to the comp-intelligence stack it forces on every employer.",
       "readMinutes": 60,
       "citation": "AIRecruiter.co Research (2026). Pay Transparency and Comp Intelligence 2026. AIRecruiter.co. https://airecruiter.co/blog/eu-pay-transparency-2026",
@@ -5161,8 +5172,8 @@
       "url": "https://airecruiter.co/blog/entry-level-hiring-collapse-ai-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-15",
-      "dateModified": "2026-08-19",
-      "correction": "Refreshed the closing frontier-model watch string to name Google's generally available Gemini 3.7 Flash (released August 13, 2026; Gemini 3.5 Pro is still not GA); the dated May 2026 I/O chronology is unchanged.",
+      "dateModified": "2026-09-04",
+      "correction": "Refreshed two current-state figures: the closing frontier-model watch string now names Google's generally available Gemini 3.8 Flash (released September 2, 2026, superseding Gemini 3.7 Flash; Gemini 3.5 Pro is still not GA), and the AI-related share of US job postings is updated to Indeed Hiring Lab's August 2026 reading of 6.3% (from 5.4% in April 2026); the dated May 2026 I/O chronology is unchanged.",
       "excerpt": "Entry-level hiring did not collapse uniformly in 2026. It split along an AI-exposure seam. A first-principles guide to the data, mechanism, and playbook.",
       "readMinutes": 65,
       "citation": "AIRecruiter.co Research (2026). The Entry-Level Hiring Collapse: AI and 2026. AIRecruiter.co. https://airecruiter.co/blog/entry-level-hiring-collapse-ai-2026",
@@ -5247,8 +5258,8 @@
         {
           "id": "indeed-hiring-lab-1xwku",
           "publisher": "Indeed Hiring Lab",
-          "title": "US Labor Market Snapshot April 2026",
-          "url": "https://www.hiringlab.org/2026/05/14/us-labor-market-snapshot-april-2026",
+          "title": "US Labor Market Snapshot August 2026",
+          "url": "https://hiringlab.indeed.com/2026/08/24/us-labor-market-snapshot-august-2026/",
           "year": "2026"
         },
         {

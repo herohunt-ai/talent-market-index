@@ -1,13 +1,26 @@
-# The Talent Market Index
+# The AIRecruiter.co Talent Market Index
 
-A free, openly-licensed, primary-sourced dataset quantifying how the world hires: **107 recruiting, hiring, and HR-technology statistics**, each row carrying a verifiable primary-source URL (**194 sources cited** across the full index), plus **6 long-run BLS trackers** (2000-2026) and **14 deep-dive research reports** on the source site.
+A free, openly-licensed, primary-sourced dataset quantifying how the world hires: **107 recruiting, hiring, and HR-technology statistics**, each row carrying a verifiable primary-source URL (**194 sources cited** across the full index), plus **6 long-run U.S. labor-market trackers** (2000-2026) and **15 deep-dive research reports** on the source site.
 
 Compiled and maintained by **[AIRecruiter.co](https://airecruiter.co/data?utm_source=github&utm_medium=repo&utm_campaign=distribution-2026-08)**, a primary-sourced talent-market research publication by [HeroHunt.ai](https://herohunt.ai).
 
-- **Explore the live, always-current Index:** https://airecruiter.co/data?utm_source=github&utm_medium=repo&utm_campaign=distribution-2026-08
+- **Explore the live Index:** https://airecruiter.co/data?utm_source=github&utm_medium=repo&utm_campaign=distribution-2026-08
 - **Methodology:** https://airecruiter.co/methodology
 - **Full source registry (194 sources):** https://airecruiter.co/research/sources
-- **License:** [CC-BY-4.0](./LICENSE) — reuse freely with attribution to AIRecruiter.co.
+- **License:** [CC-BY-4.0](./LICENSE). Reuse freely with attribution to AIRecruiter.co.
+
+## Latest tracker readings
+
+The six trackers are built from U.S. Bureau of Labor Statistics data (via FRED) and advance when BLS publishes a new month.
+
+| Tracker | Latest | As of | Primary source |
+|---|---|---|---|
+| Unemployment rate | 4.1% | August 2026 | [Unemployment Rate (UNRATE)](https://fred.stlouisfed.org/series/UNRATE) |
+| Labor force participation | 61.6% | August 2026 | [Labor Force Participation Rate (CIVPART)](https://fred.stlouisfed.org/series/CIVPART) |
+| Job openings rate | 4.4% | July 2026 | [Job Openings: Total Nonfarm, rate (JTSJOR)](https://fred.stlouisfed.org/series/JTSJOR) |
+| Quits rate | 1.9% | July 2026 | [Quits: Total Nonfarm, rate (JTSQUR)](https://fred.stlouisfed.org/series/JTSQUR) |
+| Staffing industry employment | 2.52M | August 2026 | [All Employees: Temporary Help Services (TEMPHELPS)](https://fred.stlouisfed.org/series/TEMPHELPS) |
+| Cost of talent | $32.53 | August 2026 | [Average Hourly Earnings, Production and Nonsupervisory (AHETPI)](https://fred.stlouisfed.org/series/AHETPI) |
 
 ## Why this dataset exists
 
@@ -19,11 +32,12 @@ It is published openly so that anyone (researchers, journalists, builders, and A
 
 | File | What it is |
 |---|---|
-| [`talent-market-index.csv`](./talent-market-index.csv) | One row per headline statistic (107 rows), with primary-source columns. The human- and spreadsheet-friendly form. |
-| [`index.json`](./index.json) | The full machine-readable Index: statistics, the 194-entry source registry, 6 trackers, 14 reports, topics, and confidence-tier counts. A snapshot of the live feed below. |
+| [`talent-market-index.csv`](./talent-market-index.csv) | One row per headline statistic (107 rows), with primary-source columns. The human- and spreadsheet-friendly form, identical to https://airecruiter.co/index.csv. |
+| [`index.json`](./index.json) | The full machine-readable Index: statistics, the 194-entry source registry, 6 trackers, 15 reports, topics, and confidence-tier counts. Same data and schema as https://airecruiter.co/index.json. |
+| [`CITATION.cff`](./CITATION.cff) | Machine-readable citation metadata. |
 | [`LICENSE`](./LICENSE) | CC-BY-4.0 legal text. |
 
-**Always current:** this repository is a snapshot. The canonical, continuously-updated feed lives at **https://airecruiter.co/index.json** (same schema as `index.json` here). Pull that URL if you need the freshest figures.
+**Freshness:** this repository is refreshed from the live feeds whenever the Index changes. The canonical, continuously-updated feeds are **https://airecruiter.co/index.json** and **https://airecruiter.co/index.csv**; pull those URLs if you need the figures as of today.
 
 ## CSV column dictionary
 
@@ -42,6 +56,9 @@ It is published openly so that anyone (researchers, journalists, builders, and A
 | `primary_source_title` | The primary source's title |
 | `primary_source_url` | Direct link to the primary source |
 | `primary_source_year` | The primary source's year |
+| `sources_json` | Every source behind the figure, as a JSON array of `{id, publisher, title, url, year}` |
+| `report_urls` | The AIRecruiter.co reports that use the figure, one URL per line |
+| `trend_note` | The change against the prior period, where the source reports one |
 
 ## Confidence tiers (read before citing)
 
@@ -51,7 +68,7 @@ Every row is labeled by how the figure was established:
 - **reported** (52 rows): reported by a credible source but without a fully resolvable underlying study.
 - **modeled** (13 rows): an estimate or projection.
 
-Temporal coverage: **2000/2026**. Last updated: **2026-08-25**.
+Temporal coverage: **2000/2026**. Data as of: **2026-09-24**.
 
 ## Quick start
 
@@ -69,7 +86,7 @@ print(verified[["statistic", "formatted", "primary_source_publisher", "primary_s
 
 ## How to cite
 
-> AIRecruiter.co Talent Market Index. AIRecruiter.co (an independent research publication by HeroHunt.ai), https://airecruiter.co/data. CC-BY-4.0.
+> The AIRecruiter.co Talent Market Index. AIRecruiter.co (an independent research publication by HeroHunt.ai), https://airecruiter.co/data. CC-BY-4.0. Data as of 2026-09-24.
 
 ## Disclosure
 
