@@ -4,7 +4,7 @@
   "url": "https://airecruiter.co/data",
   "methodology": "https://airecruiter.co/methodology",
   "sourceRegistry": "https://airecruiter.co/research/sources",
-  "dateModified": "2026-09-29",
+  "dateModified": "2026-10-01",
   "citation": "The AIRecruiter.co Index. AIRecruiter.co, accessed [date accessed]. https://airecruiter.co/data",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "licenseNote": "Free to cite and reuse with attribution to AIRecruiter.co and a link to the cited figure.",
@@ -4308,8 +4308,8 @@
       "frequency": "Annual average, 2001-2025",
       "geo": "United States",
       "confidence": "verified",
-      "latestAsOf": "July 2026",
-      "latest": "4.4%",
+      "latestAsOf": "August 2026",
+      "latest": "4.3%",
       "source": {
         "id": "bls-fred-jtsjor",
         "publisher": "U.S. Bureau of Labor Statistics, JOLTS, via FRED",
@@ -4419,7 +4419,7 @@
         },
         {
           "year": 2026,
-          "value": 4.4,
+          "value": 4.3,
           "partial": true
         }
       ]
@@ -4433,7 +4433,7 @@
       "frequency": "Annual average, 2001-2025",
       "geo": "United States",
       "confidence": "verified",
-      "latestAsOf": "July 2026",
+      "latestAsOf": "August 2026",
       "latest": "1.9%",
       "source": {
         "id": "bls-fred-jtsqur",

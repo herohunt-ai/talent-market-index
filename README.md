@@ -17,8 +17,8 @@ The six trackers are built from U.S. Bureau of Labor Statistics data (via FRED) 
 |---|---|---|---|
 | Unemployment rate | 4.1% | August 2026 | [Unemployment Rate (UNRATE)](https://fred.stlouisfed.org/series/UNRATE) |
 | Labor force participation | 61.6% | August 2026 | [Labor Force Participation Rate (CIVPART)](https://fred.stlouisfed.org/series/CIVPART) |
-| Job openings rate | 4.4% | July 2026 | [Job Openings: Total Nonfarm, rate (JTSJOR)](https://fred.stlouisfed.org/series/JTSJOR) |
-| Quits rate | 1.9% | July 2026 | [Quits: Total Nonfarm, rate (JTSQUR)](https://fred.stlouisfed.org/series/JTSQUR) |
+| Job openings rate | 4.3% | August 2026 | [Job Openings: Total Nonfarm, rate (JTSJOR)](https://fred.stlouisfed.org/series/JTSJOR) |
+| Quits rate | 1.9% | August 2026 | [Quits: Total Nonfarm, rate (JTSQUR)](https://fred.stlouisfed.org/series/JTSQUR) |
 | Staffing industry employment | 2.52M | August 2026 | [All Employees: Temporary Help Services (TEMPHELPS)](https://fred.stlouisfed.org/series/TEMPHELPS) |
 | Cost of talent | $32.53 | August 2026 | [Average Hourly Earnings, Production and Nonsupervisory (AHETPI)](https://fred.stlouisfed.org/series/AHETPI) |
 
@@ -68,7 +68,7 @@ Every row is labeled by how the figure was established:
 - **reported** (52 rows): reported by a credible source but without a fully resolvable underlying study.
 - **modeled** (13 rows): an estimate or projection.
 
-Temporal coverage: **2000/2026**. Data as of: **2026-09-29**.
+Temporal coverage: **2000/2026**. Data as of: **2026-10-01**.
 
 ## Quick start
 
@@ -86,7 +86,7 @@ print(verified[["statistic", "formatted", "primary_source_publisher", "primary_s
 
 ## How to cite
 
-> The AIRecruiter.co Talent Market Index. AIRecruiter.co (an independent research publication by HeroHunt.ai), https://airecruiter.co/data. CC-BY-4.0. Data as of 2026-09-29.
+> The AIRecruiter.co Talent Market Index. AIRecruiter.co (an independent research publication by HeroHunt.ai), https://airecruiter.co/data. CC-BY-4.0. Data as of 2026-10-01.
 
 ## Disclosure
 
