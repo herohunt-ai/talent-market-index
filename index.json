@@ -4,7 +4,7 @@
   "url": "https://airecruiter.co/data",
   "methodology": "https://airecruiter.co/methodology",
   "sourceRegistry": "https://airecruiter.co/research/sources",
-  "dateModified": "2026-10-01",
+  "dateModified": "2026-10-03",
   "citation": "The AIRecruiter.co Index. AIRecruiter.co, accessed [date accessed]. https://airecruiter.co/data",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "licenseNote": "Free to cite and reuse with attribution to AIRecruiter.co and a link to the cited figure.",
@@ -4050,8 +4050,8 @@
       "frequency": "Annual average, 2000-2025",
       "geo": "United States",
       "confidence": "verified",
-      "latestAsOf": "August 2026",
-      "latest": "4.1%",
+      "latestAsOf": "September 2026",
+      "latest": "4.2%",
       "source": {
         "id": "bls-fred-unrate",
         "publisher": "U.S. Bureau of Labor Statistics, via FRED",
@@ -4165,7 +4165,7 @@
         },
         {
           "year": 2026,
-          "value": 4.1,
+          "value": 4.2,
           "partial": true
         }
       ]
@@ -4179,8 +4179,8 @@
       "frequency": "Annual average, 2000-2025",
       "geo": "United States",
       "confidence": "verified",
-      "latestAsOf": "August 2026",
-      "latest": "61.6%",
+      "latestAsOf": "September 2026",
+      "latest": "61.8%",
       "source": {
         "id": "bls-fred-civpart",
         "publisher": "U.S. Bureau of Labor Statistics, via FRED",
@@ -4294,7 +4294,7 @@
         },
         {
           "year": 2026,
-          "value": 61.6,
+          "value": 61.8,
           "partial": true
         }
       ]
@@ -4558,8 +4558,8 @@
       "frequency": "Annual average, 2000-2025",
       "geo": "United States",
       "confidence": "verified",
-      "latestAsOf": "August 2026",
-      "latest": "2.52M",
+      "latestAsOf": "September 2026",
+      "latest": "2.49M",
       "source": {
         "id": "bls-fred-temphelps",
         "publisher": "U.S. Bureau of Labor Statistics, via FRED",
@@ -4673,7 +4673,7 @@
         },
         {
           "year": 2026,
-          "value": 2519.5,
+          "value": 2486.8,
           "partial": true
         }
       ]
@@ -4687,8 +4687,8 @@
       "frequency": "Annual average, 2000-2025",
       "geo": "United States",
       "confidence": "verified",
-      "latestAsOf": "August 2026",
-      "latest": "$32.53",
+      "latestAsOf": "September 2026",
+      "latest": "$32.60",
       "source": {
         "id": "bls-fred-ahetpi",
         "publisher": "U.S. Bureau of Labor Statistics, via FRED",
@@ -4802,7 +4802,7 @@
         },
         {
           "year": 2026,
-          "value": 32.53,
+          "value": 32.6,
           "partial": true
         }
       ]
