@@ -70,6 +70,20 @@ Every row is labeled by how the figure was established:
 
 Temporal coverage: **2000/2026**. Data as of: **2026-10-03**.
 
+## How the data is collected
+
+- **Read at the source.** Each statistic is read in its primary source, not copied from another list: the figure is recorded together with its publisher, title, URL and year, and the row's `context` states what the figure measures.
+- **Tiered by rule.** `verified` only when the figure resolves to a named primary study or official statistic; `reported` when a credible source states it but the underlying study cannot be fully resolved (this includes many vendor surveys); `modeled` for estimates and projections.
+- **Kept current.** The trackers advance each month the U.S. Bureau of Labor Statistics publishes (the Employment Situation and JOLTS releases), taken from BLS, the same series FRED republishes. The statistics and their links are re-checked in periodic audits for dead links, newer editions and figures that moved.
+
+## Limitations and known issues
+
+- **Not one survey.** The statistics come from many sources with different samples, years, regions and methods, so rows are not directly comparable with each other. Read each row's `context` and source before combining figures.
+- **Vendor research.** Many `reported` rows come from vendor surveys and reports. They are labeled as such, but they carry their publisher's incentives and sampling choices.
+- **Headline figures.** Each row is an aggregate figure as its source published it, not respondent- or observation-level data.
+- **Trackers are U.S.-only and revised.** Annual values are annual averages; the current year's point is the latest monthly reading (flagged `partial` in `index.json`), and BLS revises recent months, so the latest values can change.
+- **Coverage leans U.S. and English-language**, because that is where most published recruiting research comes from.
+
 ## Quick start
 
 ```python
