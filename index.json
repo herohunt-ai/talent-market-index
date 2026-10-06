@@ -4,19 +4,19 @@
   "url": "https://airecruiter.co/data",
   "methodology": "https://airecruiter.co/methodology",
   "sourceRegistry": "https://airecruiter.co/research/sources",
-  "dateModified": "2026-10-03",
+  "dateModified": "2026-10-05",
   "citation": "The AIRecruiter.co Index. AIRecruiter.co, accessed [date accessed]. https://airecruiter.co/data",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "licenseNote": "Free to cite and reuse with attribution to AIRecruiter.co and a link to the cited figure.",
   "temporalCoverage": "2000/2026",
   "counts": {
-    "statistics": 107,
+    "statistics": 116,
     "trackers": 6,
-    "reports": 15,
-    "citedSources": 194,
+    "reports": 16,
+    "citedSources": 200,
     "confidence": {
-      "verified": 42,
-      "reported": 52,
+      "verified": 52,
+      "reported": 51,
       "modeled": 13
     }
   },
@@ -181,13 +181,6 @@
       "title": "AI Hiring Startup Mercor Funding",
       "url": "https://www.cnbc.com/2025/10/27/ai-hiring-startup-mercor-funding.html",
       "kind": "news"
-    },
-    {
-      "id": "cogn-iq-bqobw",
-      "publisher": "Cogn-IQ",
-      "title": "Hiring Bias Statistics",
-      "url": "https://www.cogn-iq.org/blog/hiring-bias-statistics",
-      "kind": "research"
     },
     {
       "id": "coherent-market-insights-9oqzd",
@@ -505,6 +498,13 @@
       "publisher": "PR Newswire",
       "title": "ConverzAI Secures $16M Series A to Transform Recruitment with AI-Powered Virtual Recruiters",
       "url": "https://www.prnewswire.com/news-releases/converzai-secures-16m-series-a-to-transform-recruitment-with-ai-powered-virtual-recruiters-302373275.html",
+      "kind": "news"
+    },
+    {
+      "id": "pr-newswire-1xnw8",
+      "publisher": "PR Newswire",
+      "title": "Ashby Expands into AI Interviewing with Talent Llama Acquisition",
+      "url": "https://www.prnewswire.com/news-releases/ashby-expands-into-ai-interviewing-with-talent-llama-acquisition-302765977.html",
       "kind": "news"
     },
     {
@@ -1482,6 +1482,54 @@
       "year": "2018"
     },
     {
+      "id": "arxiv-voice-ai-in-firms-2026",
+      "publisher": "arXiv (Jabarian and Henkel)",
+      "title": "Voice AI in Firms: A Natural Field Experiment on Automated Job Interviews (v2)",
+      "url": "https://arxiv.org/abs/2607.28222",
+      "kind": "research",
+      "year": "2026"
+    },
+    {
+      "id": "sackett-2022-selection-validity",
+      "publisher": "Journal of Applied Psychology (Sackett, Zhang, Berry and Lievens)",
+      "title": "Revisiting Meta-Analytic Estimates of Validity in Personnel Selection (author manuscript)",
+      "url": "https://gwern.net/doc/statistics/meta-analysis/2021-sackett.pdf",
+      "kind": "research",
+      "year": "2022"
+    },
+    {
+      "id": "workday-10q-q3-fy2026",
+      "publisher": "Workday",
+      "title": "Workday Form 10-Q for the quarter ended October 31, 2025",
+      "url": "https://s21.q4cdn.com/950027458/files/doc_financials/2026/q3/WDAY-Workday-Inc-10-Q-2025-11-26-pdf_.pdf",
+      "kind": "company",
+      "year": "2025"
+    },
+    {
+      "id": "cesifo-asynchronous-interviews-2026",
+      "publisher": "CESifo (Avery, Ip, Leibbrandt and Vecci)",
+      "title": "A Brave New World of Hiring: A Natural Field Experiment on How Asynchronous Interviews and AI Assessment Reshape Recruitment",
+      "url": "https://ideas.repec.org/p/ces/ceswps/_12573.html",
+      "kind": "research",
+      "year": "2026"
+    },
+    {
+      "id": "arxiv-ai-assisted-recruitment-2026",
+      "publisher": "arXiv (Aka, Palikot, Ansari and Yazdani)",
+      "title": "Better Together: Quantifying the Benefits of AI-Assisted Recruitment (v2)",
+      "url": "https://arxiv.org/abs/2507.08029",
+      "kind": "research",
+      "year": "2026"
+    },
+    {
+      "id": "european-commission-ai-omnibus-2026",
+      "publisher": "European Commission",
+      "title": "AI Omnibus enters into force",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force",
+      "kind": "gov",
+      "year": "2026"
+    },
+    {
       "id": "bls-fred-unrate",
       "publisher": "U.S. Bureau of Labor Statistics, via FRED",
       "title": "Unemployment Rate (UNRATE)",
@@ -1998,25 +2046,33 @@
     {
       "id": "workday-paradox-acquisition",
       "label": "Workday acquisition of Paradox",
-      "value": 1,
+      "value": 1.1,
       "unit": "$B",
-      "formatted": "$1B",
+      "formatted": "$1.1B",
       "asOf": "2025",
       "topic": "recruiting-tech-market",
       "confidence": "verified",
-      "context": "Workday closed its roughly $1 billion all-cash acquisition of conversational-AI recruiter Paradox, a marquee consolidation move.",
+      "context": "Workday valued its acquisition of conversational-AI recruiter Paradox at $1.1 billion in its quarterly filing, $1.0 billion in cash plus a $20 million stake it already held, the largest disclosed price in AI candidate screening.",
+      "trendNote": "Reported at roughly $1B when announced in August 2025",
       "sources": [
         {
-          "id": "global-legal-chronicle-1fuhn",
-          "publisher": "Global Legal Chronicle",
-          "title": "Workday Acquires Paradox in $1 Billion Deal",
-          "url": "https://globallegalchronicle.com/workday-acquires-paradox-in-1-billion-deal"
+          "id": "workday-10q-q3-fy2026",
+          "publisher": "Workday",
+          "title": "Workday Form 10-Q for the quarter ended October 31, 2025",
+          "url": "https://s21.q4cdn.com/950027458/files/doc_financials/2026/q3/WDAY-Workday-Inc-10-Q-2025-11-26-pdf_.pdf",
+          "year": "2025"
         },
         {
           "id": "workday-1oo4m",
           "publisher": "Workday",
           "title": "Workday",
           "url": "https://newsroom.workday.com/2025-10-01-Workday-Completes-Acquisition-of-Paradox"
+        },
+        {
+          "id": "global-legal-chronicle-1fuhn",
+          "publisher": "Global Legal Chronicle",
+          "title": "Workday Acquires Paradox in $1 Billion Deal",
+          "url": "https://globallegalchronicle.com/workday-acquires-paradox-in-1-billion-deal"
         }
       ],
       "reports": [
@@ -2432,7 +2488,8 @@
         }
       ],
       "reports": [
-        "https://airecruiter.co/blog/time-to-hire-benchmarks-2026"
+        "https://airecruiter.co/blog/time-to-hire-benchmarks-2026",
+        "https://airecruiter.co/blog/ai-interviewers-2026"
       ]
     },
     {
@@ -3914,15 +3971,22 @@
     {
       "id": "structured-interview-predictive-validity",
       "label": "Structured-interview predictive validity",
-      "value": 0.51,
+      "value": 0.42,
       "unit": "",
-      "formatted": "0.51",
-      "asOf": "2016 meta-analysis",
+      "formatted": "0.42",
+      "asOf": "2022 meta-analysis",
       "topic": "assessment-interview",
-      "confidence": "reported",
-      "context": "The selection science recruiting mostly ignored in practice: structured interviews predict job performance at about 0.51, far above unstructured, and the gap between knowing that and enforcing it is the entire reason interview intelligence exists as a category.",
-      "trendNote": "vs ~0.38 unstructured; ~0.63 combined with a general-mental-ability test",
+      "confidence": "verified",
+      "context": "Structured interviews rank as the most predictive selection procedure in the 2022 re-analysis by Sackett and colleagues, with an operational validity of about 0.42, more than double the 0.19 for unstructured interviews.",
+      "trendNote": "Earlier corrections gave 0.51 (Schmidt and Hunter, 1998) and 0.58, level with unstructured interviews (Schmidt and Oh, 2016)",
       "sources": [
+        {
+          "id": "sackett-2022-selection-validity",
+          "publisher": "Journal of Applied Psychology (Sackett, Zhang, Berry and Lievens)",
+          "title": "Revisiting Meta-Analytic Estimates of Validity in Personnel Selection (author manuscript)",
+          "url": "https://gwern.net/doc/statistics/meta-analysis/2021-sackett.pdf",
+          "year": "2022"
+        },
         {
           "id": "university-of-baltimore-1d28b",
           "publisher": "University of Baltimore",
@@ -3937,20 +4001,21 @@
     {
       "id": "unstructured-interviews-as-the-default-f",
       "label": "Unstructured-interview predictive validity",
-      "value": 0.38,
+      "value": 0.19,
       "unit": "",
-      "formatted": "0.38",
-      "asOf": "2025",
+      "formatted": "0.19",
+      "asOf": "2022 meta-analysis",
       "topic": "assessment-interview",
-      "confidence": "reported",
-      "context": "Unstructured interviews, still the most common format, predict job performance at a validity of only about 0.38, well below the ~0.51 for structured interviews, which makes structure the strongest lever on interview quality.",
-      "trendNote": "vs ~0.51 for structured interviews",
+      "confidence": "verified",
+      "context": "Unstructured interviews predict job performance at a validity of only about 0.19 in the 2022 re-analysis, less than half the 0.42 for structured interviews, which makes structure the strongest single lever on interview quality.",
+      "trendNote": "0.38 in Schmidt and Hunter's 1998 estimate",
       "sources": [
         {
-          "id": "cogn-iq-bqobw",
-          "publisher": "Cogn-IQ",
-          "title": "Hiring Bias Statistics",
-          "url": "https://www.cogn-iq.org/blog/hiring-bias-statistics"
+          "id": "sackett-2022-selection-validity",
+          "publisher": "Journal of Applied Psychology (Sackett, Zhang, Berry and Lievens)",
+          "title": "Revisiting Meta-Analytic Estimates of Validity in Personnel Selection (author manuscript)",
+          "url": "https://gwern.net/doc/statistics/meta-analysis/2021-sackett.pdf",
+          "year": "2022"
         }
       ],
       "reports": [
@@ -4037,6 +4102,214 @@
       ],
       "reports": [
         "https://airecruiter.co/blog/interview-intelligence-deep-dive-2026"
+      ]
+    },
+    {
+      "id": "ai-interviewer-offer-lift",
+      "label": "Job-offer lift for AI-interviewed applicants",
+      "value": 12,
+      "unit": "%",
+      "formatted": "12%",
+      "asOf": "2025",
+      "topic": "assessment-interview",
+      "confidence": "verified",
+      "context": "In a pre-registered field experiment with 67,056 randomized applications for customer-service jobs, applicants interviewed by an AI voice agent were 12% more likely to receive a job offer than those interviewed by recruiters (9.73% vs 8.70%), with people still making every decision.",
+      "sources": [
+        {
+          "id": "arxiv-voice-ai-in-firms-2026",
+          "publisher": "arXiv (Jabarian and Henkel)",
+          "title": "Voice AI in Firms: A Natural Field Experiment on Automated Job Interviews (v2)",
+          "url": "https://arxiv.org/abs/2607.28222",
+          "year": "2026"
+        }
+      ],
+      "reports": [
+        "https://airecruiter.co/blog/ai-interviewers-2026"
+      ]
+    },
+    {
+      "id": "ai-interviewer-retention-lift",
+      "label": "One-month retention lift for AI-interviewed applicants",
+      "value": 18,
+      "unit": "%",
+      "formatted": "18%",
+      "asOf": "2025",
+      "topic": "assessment-interview",
+      "confidence": "verified",
+      "context": "5.89% of AI-interviewed applicants were still employed a month later against 4.98% of those interviewed by recruiters, a gap that held at two to four months with no difference in on-the-job productivity.",
+      "trendNote": "Earlier drafts and press coverage reported 16% to 17%",
+      "sources": [
+        {
+          "id": "arxiv-voice-ai-in-firms-2026",
+          "publisher": "arXiv (Jabarian and Henkel)",
+          "title": "Voice AI in Firms: A Natural Field Experiment on Automated Job Interviews (v2)",
+          "url": "https://arxiv.org/abs/2607.28222",
+          "year": "2026"
+        }
+      ],
+      "reports": [
+        "https://airecruiter.co/blog/ai-interviewers-2026"
+      ]
+    },
+    {
+      "id": "applicants-choosing-ai-interviewer",
+      "label": "Applicants who chose the AI interviewer when offered",
+      "value": 78.4,
+      "unit": "%",
+      "formatted": "78.4%",
+      "asOf": "2025",
+      "topic": "candidate-trust",
+      "confidence": "verified",
+      "context": "Offered the choice between an AI voice agent and a human recruiter, 78.41% of applicants picked the AI (81.63% of remote and 69.30% of walk-in applicants), though those who chose it scored lower on independent language and analytical tests.",
+      "sources": [
+        {
+          "id": "arxiv-voice-ai-in-firms-2026",
+          "publisher": "arXiv (Jabarian and Henkel)",
+          "title": "Voice AI in Firms: A Natural Field Experiment on Automated Job Interviews (v2)",
+          "url": "https://arxiv.org/abs/2607.28222",
+          "year": "2026"
+        }
+      ],
+      "reports": [
+        "https://airecruiter.co/blog/ai-interviewers-2026"
+      ]
+    },
+    {
+      "id": "ai-interviews-aborted-by-technical-failure",
+      "label": "AI-led interviews aborted by a technical failure",
+      "value": 7,
+      "unit": "%",
+      "formatted": "7%",
+      "asOf": "2025",
+      "topic": "assessment-interview",
+      "confidence": "verified",
+      "context": "In the same experiment 7% of AI-led interviews ended on a technical failure of the agent and in 5% the applicant refused to continue with an AI, the share of calls any deployment needs a human fallback for.",
+      "sources": [
+        {
+          "id": "arxiv-voice-ai-in-firms-2026",
+          "publisher": "arXiv (Jabarian and Henkel)",
+          "title": "Voice AI in Firms: A Natural Field Experiment on Automated Job Interviews (v2)",
+          "url": "https://arxiv.org/abs/2607.28222",
+          "year": "2026"
+        }
+      ],
+      "reports": [
+        "https://airecruiter.co/blog/ai-interviewers-2026"
+      ]
+    },
+    {
+      "id": "recruiters-expecting-worse-ai-interviews",
+      "label": "Recruiters expecting AI interviews to be lower quality",
+      "value": 61,
+      "unit": "%",
+      "formatted": "61%",
+      "asOf": "2025",
+      "topic": "ai-in-hiring",
+      "confidence": "verified",
+      "context": "Before results were known, 61% of the partner firm's recruiters expected AI-led interviews to be of lower quality; the AI arm then produced more offers, starts and retained hires than the human one.",
+      "sources": [
+        {
+          "id": "arxiv-voice-ai-in-firms-2026",
+          "publisher": "arXiv (Jabarian and Henkel)",
+          "title": "Voice AI in Firms: A Natural Field Experiment on Automated Job Interviews (v2)",
+          "url": "https://arxiv.org/abs/2607.28222",
+          "year": "2026"
+        }
+      ],
+      "reports": [
+        "https://airecruiter.co/blog/ai-interviewers-2026"
+      ]
+    },
+    {
+      "id": "job-seekers-interviewed-by-ai",
+      "label": "US job seekers who have had an AI interview",
+      "value": 63,
+      "unit": "%",
+      "formatted": "63%",
+      "asOf": "2026",
+      "topic": "ai-in-hiring",
+      "confidence": "verified",
+      "context": "Nearly two-thirds of US job seekers have now been interviewed by an AI, in a survey by the applicant-tracking vendor Greenhouse.",
+      "trendNote": "Up 13 points from six months earlier",
+      "sources": [
+        {
+          "id": "greenhouse-txr7j",
+          "publisher": "Greenhouse",
+          "title": "63% of Job Seekers Have Faced an AI Interview, Most Haven't Had a Good One Yet",
+          "url": "https://www.greenhouse.com/newsroom/63-of-job-seekers-have-faced-an-ai-interview-most-havent-had-a-good-one-yet"
+        }
+      ],
+      "reports": [
+        "https://airecruiter.co/blog/ai-interviewers-2026"
+      ]
+    },
+    {
+      "id": "candidates-not-told-ai-would-evaluate-them",
+      "label": "Candidates not told upfront that AI would evaluate them",
+      "value": 70,
+      "unit": "%",
+      "formatted": "70%",
+      "asOf": "2026",
+      "topic": "candidate-trust",
+      "confidence": "verified",
+      "context": "70% of US candidates were never clearly told upfront that AI would be evaluating them, and 21% found out only once the interview had started.",
+      "sources": [
+        {
+          "id": "greenhouse-txr7j",
+          "publisher": "Greenhouse",
+          "title": "63% of Job Seekers Have Faced an AI Interview, Most Haven't Had a Good One Yet",
+          "url": "https://www.greenhouse.com/newsroom/63-of-job-seekers-have-faced-an-ai-interview-most-havent-had-a-good-one-yet"
+        }
+      ],
+      "reports": [
+        "https://airecruiter.co/blog/ai-interviewers-2026"
+      ]
+    },
+    {
+      "id": "one-way-interview-continuation-drop",
+      "label": "Drop in applicants continuing after a one-way interview",
+      "value": 50,
+      "unit": "%",
+      "formatted": "50%",
+      "asOf": "2026",
+      "topic": "candidate-trust",
+      "confidence": "verified",
+      "context": "In a randomized field experiment with over 3,000 US tech applicants, asynchronous recorded interviews cut application continuation by over 50%, including among the most qualified applicants, with the largest decline among women.",
+      "trendNote": "The same study found the AI scoring predicted later employment better than recruiters",
+      "sources": [
+        {
+          "id": "cesifo-asynchronous-interviews-2026",
+          "publisher": "CESifo (Avery, Ip, Leibbrandt and Vecci)",
+          "title": "A Brave New World of Hiring: A Natural Field Experiment on How Asynchronous Interviews and AI Assessment Reshape Recruitment",
+          "url": "https://ideas.repec.org/p/ces/ceswps/_12573.html",
+          "year": "2026"
+        }
+      ],
+      "reports": [
+        "https://airecruiter.co/blog/ai-interviewers-2026"
+      ]
+    },
+    {
+      "id": "invited-candidates-skipping-ai-interview",
+      "label": "Invited candidates who did not finish an AI interview",
+      "value": 75,
+      "unit": "%",
+      "formatted": "75%",
+      "asOf": "2026",
+      "topic": "candidate-trust",
+      "confidence": "reported",
+      "context": "In two field experiments on micro1's platform, three in four candidates invited to an AI interview did not complete it, though shortlists informed by the interview passed a blind final interview 17.5 to 20 points more often; two of the four authors work for micro1.",
+      "sources": [
+        {
+          "id": "arxiv-ai-assisted-recruitment-2026",
+          "publisher": "arXiv (Aka, Palikot, Ansari and Yazdani)",
+          "title": "Better Together: Quantifying the Benefits of AI-Assisted Recruitment (v2)",
+          "url": "https://arxiv.org/abs/2507.08029",
+          "year": "2026"
+        }
+      ],
+      "reports": [
+        "https://airecruiter.co/blog/ai-interviewers-2026"
       ]
     }
   ],
@@ -4810,11 +5083,66 @@
   ],
   "reports": [
     {
+      "slug": "ai-interviewers-2026",
+      "title": "AI Interviewers: The 2026 Guide for Hiring Teams",
+      "url": "https://airecruiter.co/blog/ai-interviewers-2026",
+      "author": "AIRecruiter.co Research",
+      "datePublished": "2026-10-05",
+      "excerpt": "How AI interviewers work, what a 70,000-application field experiment found, what they cost, the 2026 laws, and how to pilot one without losing candidates.",
+      "readMinutes": 69,
+      "citation": "AIRecruiter.co Research (2026). AI Interviewers: The 2026 Guide for Hiring Teams. AIRecruiter.co. https://airecruiter.co/blog/ai-interviewers-2026",
+      "sources": [
+        {
+          "id": "greenhouse-txr7j",
+          "publisher": "Greenhouse",
+          "title": "63% of Job Seekers Have Faced an AI Interview, Most Haven't Had a Good One Yet",
+          "url": "https://www.greenhouse.com/newsroom/63-of-job-seekers-have-faced-an-ai-interview-most-havent-had-a-good-one-yet"
+        },
+        {
+          "id": "arxiv-voice-ai-in-firms-2026",
+          "publisher": "arXiv (Jabarian and Henkel)",
+          "title": "Voice AI in Firms: A Natural Field Experiment on Automated Job Interviews (v2)",
+          "url": "https://arxiv.org/abs/2607.28222",
+          "year": "2026"
+        },
+        {
+          "id": "cesifo-asynchronous-interviews-2026",
+          "publisher": "CESifo (Avery, Ip, Leibbrandt and Vecci)",
+          "title": "A Brave New World of Hiring: A Natural Field Experiment on How Asynchronous Interviews and AI Assessment Reshape Recruitment",
+          "url": "https://ideas.repec.org/p/ces/ceswps/_12573.html",
+          "year": "2026"
+        },
+        {
+          "id": "arxiv-ai-assisted-recruitment-2026",
+          "publisher": "arXiv (Aka, Palikot, Ansari and Yazdani)",
+          "title": "Better Together: Quantifying the Benefits of AI-Assisted Recruitment (v2)",
+          "url": "https://arxiv.org/abs/2507.08029",
+          "year": "2026"
+        },
+        {
+          "id": "workday-10q-q3-fy2026",
+          "publisher": "Workday",
+          "title": "Workday Form 10-Q for the quarter ended October 31, 2025",
+          "url": "https://s21.q4cdn.com/950027458/files/doc_financials/2026/q3/WDAY-Workday-Inc-10-Q-2025-11-26-pdf_.pdf",
+          "year": "2025"
+        },
+        {
+          "id": "european-commission-ai-omnibus-2026",
+          "publisher": "European Commission",
+          "title": "AI Omnibus enters into force",
+          "url": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force",
+          "year": "2026"
+        }
+      ]
+    },
+    {
       "slug": "ai-recruiting-statistics-2026",
       "title": "AI Recruiting Statistics 2026: The Definitive Index",
       "url": "https://airecruiter.co/blog/ai-recruiting-statistics-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-08-31",
+      "dateModified": "2026-10-06",
+      "correction": "Updated the interview-validity figures to the 2022 re-analysis by Sackett and colleagues (0.42 structured, 0.19 unstructured). The 0.51 and 0.38 we quoted before are Schmidt and Hunter's 1998 estimates, which the newer research revises.",
       "excerpt": "The definitive index of AI recruiting statistics for 2026: 75+ figures on adoption, ROI, the vendor market, fraud, and bias, each tied to a primary source.",
       "readMinutes": 54,
       "citation": "AIRecruiter.co Research (2026). AI Recruiting Statistics 2026: The Definitive Index. AIRecruiter.co. https://airecruiter.co/blog/ai-recruiting-statistics-2026",
@@ -5487,16 +5815,23 @@
           "year": "2025"
         },
         {
-          "id": "global-legal-chronicle-1fuhn",
-          "publisher": "Global Legal Chronicle",
-          "title": "Workday Acquires Paradox in $1 Billion Deal",
-          "url": "https://globallegalchronicle.com/workday-acquires-paradox-in-1-billion-deal"
+          "id": "workday-10q-q3-fy2026",
+          "publisher": "Workday",
+          "title": "Workday Form 10-Q for the quarter ended October 31, 2025",
+          "url": "https://s21.q4cdn.com/950027458/files/doc_financials/2026/q3/WDAY-Workday-Inc-10-Q-2025-11-26-pdf_.pdf",
+          "year": "2025"
         },
         {
           "id": "workday-1oo4m",
           "publisher": "Workday",
           "title": "Workday",
           "url": "https://newsroom.workday.com/2025-10-01-Workday-Completes-Acquisition-of-Paradox"
+        },
+        {
+          "id": "global-legal-chronicle-1fuhn",
+          "publisher": "Global Legal Chronicle",
+          "title": "Workday Acquires Paradox in $1 Billion Deal",
+          "url": "https://globallegalchronicle.com/workday-acquires-paradox-in-1-billion-deal"
         },
         {
           "id": "hro-today-hr-tech-report-10x9g",
@@ -5600,16 +5935,23 @@
           "url": "https://www.selectsoftwarereviews.com/blog/ai-recruiting-statistics"
         },
         {
-          "id": "global-legal-chronicle-1fuhn",
-          "publisher": "Global Legal Chronicle",
-          "title": "Workday Acquires Paradox in $1 Billion Deal",
-          "url": "https://globallegalchronicle.com/workday-acquires-paradox-in-1-billion-deal"
+          "id": "workday-10q-q3-fy2026",
+          "publisher": "Workday",
+          "title": "Workday Form 10-Q for the quarter ended October 31, 2025",
+          "url": "https://s21.q4cdn.com/950027458/files/doc_financials/2026/q3/WDAY-Workday-Inc-10-Q-2025-11-26-pdf_.pdf",
+          "year": "2025"
         },
         {
           "id": "workday-1oo4m",
           "publisher": "Workday",
           "title": "Workday",
           "url": "https://newsroom.workday.com/2025-10-01-Workday-Completes-Acquisition-of-Paradox"
+        },
+        {
+          "id": "global-legal-chronicle-1fuhn",
+          "publisher": "Global Legal Chronicle",
+          "title": "Workday Acquires Paradox in $1 Billion Deal",
+          "url": "https://globallegalchronicle.com/workday-acquires-paradox-in-1-billion-deal"
         },
         {
           "id": "techcrunch-145zp",
@@ -5991,21 +6333,24 @@
       "url": "https://airecruiter.co/blog/interview-intelligence-deep-dive-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-05-07",
+      "dateModified": "2026-10-06",
+      "correction": "Corrected the interview-validity figures. We had presented 0.51 (structured) and 0.38 (unstructured) as current and linked them to a 2016 update that in fact puts both formats at 0.58; those are Schmidt and Hunter's 1998 estimates. The guide now gives all three estimates and leads with the 2022 re-analysis by Sackett and colleagues (0.42 structured, 0.19 unstructured), and drops a 0.63 composite figure its linked source did not support.",
       "excerpt": "A deep dive on the fastest-consolidating assessment category and what it means for interview quality and fairness.",
       "readMinutes": 47,
       "citation": "AIRecruiter.co Research (2026). Interview Intelligence: Category Deep Dive. AIRecruiter.co. https://airecruiter.co/blog/interview-intelligence-deep-dive-2026",
       "sources": [
         {
+          "id": "sackett-2022-selection-validity",
+          "publisher": "Journal of Applied Psychology (Sackett, Zhang, Berry and Lievens)",
+          "title": "Revisiting Meta-Analytic Estimates of Validity in Personnel Selection (author manuscript)",
+          "url": "https://gwern.net/doc/statistics/meta-analysis/2021-sackett.pdf",
+          "year": "2022"
+        },
+        {
           "id": "university-of-baltimore-1d28b",
           "publisher": "University of Baltimore",
           "title": "The Validity and Utility of Selection Methods: 100 Years of Research (Schmidt and Oh)",
           "url": "https://home.ubalt.edu/tmitch/645/session%204/Schmidt%20&%20Oh%20validity%20and%20util%20100%20yrs%20of%20research%20Wk%20PPR%202016.pdf"
-        },
-        {
-          "id": "cogn-iq-bqobw",
-          "publisher": "Cogn-IQ",
-          "title": "Hiring Bias Statistics",
-          "url": "https://www.cogn-iq.org/blog/hiring-bias-statistics"
         },
         {
           "id": "sacra-1czrb",

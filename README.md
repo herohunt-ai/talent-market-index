@@ -1,12 +1,12 @@
 # The AIRecruiter.co Talent Market Index
 
-A free, openly-licensed, primary-sourced dataset quantifying how the world hires: **107 recruiting, hiring, and HR-technology statistics**, each row carrying a verifiable primary-source URL (**194 sources cited** across the full index), plus **6 long-run U.S. labor-market trackers** (2000-2026) and **15 deep-dive research reports** on the source site.
+A free, openly-licensed, primary-sourced dataset quantifying how the world hires: **116 recruiting, hiring, and HR-technology statistics**, each row carrying a verifiable primary-source URL (**200 sources cited** across the full index), plus **6 long-run U.S. labor-market trackers** (2000-2026) and **16 deep-dive research reports** on the source site.
 
 Compiled and maintained by **[AIRecruiter.co](https://airecruiter.co/data?utm_source=github&utm_medium=repo&utm_campaign=distribution-2026-08)**, a primary-sourced talent-market research publication by [HeroHunt.ai](https://herohunt.ai).
 
 - **Explore the live Index:** https://airecruiter.co/data?utm_source=github&utm_medium=repo&utm_campaign=distribution-2026-08
 - **Methodology:** https://airecruiter.co/methodology
-- **Full source registry (194 sources):** https://airecruiter.co/research/sources
+- **Full source registry (200 sources):** https://airecruiter.co/research/sources
 - **License:** [CC-BY-4.0](./LICENSE). Reuse freely with attribution to AIRecruiter.co.
 
 ## Latest tracker readings
@@ -32,8 +32,8 @@ It is published openly so that anyone (researchers, journalists, builders, and A
 
 | File | What it is |
 |---|---|
-| [`talent-market-index.csv`](./talent-market-index.csv) | One row per headline statistic (107 rows), with primary-source columns. The human- and spreadsheet-friendly form, identical to https://airecruiter.co/index.csv. |
-| [`index.json`](./index.json) | The full machine-readable Index: statistics, the 194-entry source registry, 6 trackers, 15 reports, topics, and confidence-tier counts. Same data and schema as https://airecruiter.co/index.json. |
+| [`talent-market-index.csv`](./talent-market-index.csv) | One row per headline statistic (116 rows), with primary-source columns. The human- and spreadsheet-friendly form, identical to https://airecruiter.co/index.csv. |
+| [`index.json`](./index.json) | The full machine-readable Index: statistics, the 200-entry source registry, 6 trackers, 16 reports, topics, and confidence-tier counts. Same data and schema as https://airecruiter.co/index.json. |
 | [`CITATION.cff`](./CITATION.cff) | Machine-readable citation metadata. |
 | [`LICENSE`](./LICENSE) | CC-BY-4.0 legal text. |
 
@@ -64,11 +64,11 @@ It is published openly so that anyone (researchers, journalists, builders, and A
 
 Every row is labeled by how the figure was established:
 
-- **verified** (42 rows): traceable to a named primary study or official statistic.
-- **reported** (52 rows): reported by a credible source but without a fully resolvable underlying study.
+- **verified** (52 rows): traceable to a named primary study or official statistic.
+- **reported** (51 rows): reported by a credible source but without a fully resolvable underlying study.
 - **modeled** (13 rows): an estimate or projection.
 
-Temporal coverage: **2000/2026**. Data as of: **2026-10-03**.
+Temporal coverage: **2000/2026**. Data as of: **2026-10-05**.
 
 ## How the data is collected
 
@@ -100,7 +100,7 @@ print(verified[["statistic", "formatted", "primary_source_publisher", "primary_s
 
 ## How to cite
 
-> The AIRecruiter.co Talent Market Index. AIRecruiter.co (an independent research publication by HeroHunt.ai), https://airecruiter.co/data. CC-BY-4.0. Data as of 2026-10-03.
+> The AIRecruiter.co Talent Market Index. AIRecruiter.co (an independent research publication by HeroHunt.ai), https://airecruiter.co/data. CC-BY-4.0. Data as of 2026-10-05.
 
 ## Disclosure
 
