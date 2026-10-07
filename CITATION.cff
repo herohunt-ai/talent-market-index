@@ -6,7 +6,7 @@ type: dataset
 abstract: >-
   A free, independent, primary-sourced index of how the world hires: 116
   statistics on recruiting, hiring, and HR technology, each traced to a
-  verifiable primary source (200 sources cited), plus 6
+  verifiable primary source (201 sources cited), plus 6
   long-run U.S. labor-market trackers built from BLS data via FRED
   (2000-2026). Compiled and maintained by AIRecruiter.co, an independent
   research publication published by HeroHunt.ai. Each figure carries an
@@ -25,5 +25,5 @@ keywords:
   - labor market
   - talent acquisition
   - open data
-date-released: 2026-10-05
-version: 2026-10-05
+date-released: 2026-10-07
+version: 2026-10-07

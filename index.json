@@ -4,7 +4,7 @@
   "url": "https://airecruiter.co/data",
   "methodology": "https://airecruiter.co/methodology",
   "sourceRegistry": "https://airecruiter.co/research/sources",
-  "dateModified": "2026-10-05",
+  "dateModified": "2026-10-07",
   "citation": "The AIRecruiter.co Index. AIRecruiter.co, accessed [date accessed]. https://airecruiter.co/data",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "licenseNote": "Free to cite and reuse with attribution to AIRecruiter.co and a link to the cited figure.",
@@ -13,7 +13,7 @@
     "statistics": 116,
     "trackers": 6,
     "reports": 16,
-    "citedSources": 200,
+    "citedSources": 201,
     "confidence": {
       "verified": 52,
       "reported": 51,
@@ -1527,6 +1527,14 @@
       "title": "AI Omnibus enters into force",
       "url": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force",
       "kind": "gov",
+      "year": "2026"
+    },
+    {
+      "id": "tezi-headway-acquisition-2026",
+      "publisher": "Tezi",
+      "title": "Headway acquires Tezi (Tezi's own announcement, archived; tezi.ai is offline)",
+      "url": "https://web.archive.org/web/20260422234640/https://tezi.ai/",
+      "kind": "company",
       "year": "2026"
     },
     {
@@ -5088,6 +5096,8 @@
       "url": "https://airecruiter.co/blog/ai-interviewers-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-10-05",
+      "dateModified": "2026-10-07",
+      "correction": "The cost table now states CodeSignal's rule that one credit is used per candidate who starts an assessment or AI interview, read on its pricing page on October 7, 2026; the other prices in the table were unchanged on that check.",
       "excerpt": "How AI interviewers work, what a 70,000-application field experiment found, what they cost, the 2026 laws, and how to pilot one without losing candidates.",
       "readMinutes": 69,
       "citation": "AIRecruiter.co Research (2026). AI Interviewers: The 2026 Guide for Hiring Teams. AIRecruiter.co. https://airecruiter.co/blog/ai-interviewers-2026",
@@ -5314,8 +5324,8 @@
       "url": "https://airecruiter.co/blog/agentic-ai-recruiters-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-07-13",
-      "dateModified": "2026-09-28",
-      "correction": "Updated the build-versus-buy section's frontier-model references to Anthropic's Claude Opus 5.5 (released September 22, 2026, succeeding Claude Opus 5) and OpenAI's GPT-6 Astra (introduced September 3, 2026, succeeding the GPT-5.6 family). An earlier correction (August 8, 2026) fixed HeroHunt.ai's headquarters (Amsterdam, not San Francisco) and clarified the publisher disclosure.",
+      "dateModified": "2026-10-07",
+      "correction": "Noted that Headway, a mental-health care company, acquired Tezi in early 2026, so its agent Max is no longer sold as a recruiting product. Earlier updates: on September 28, 2026 the build-versus-buy section's frontier-model references moved to Anthropic's Claude Opus 5.5 (released September 22, 2026) and OpenAI's GPT-6 Astra (introduced September 3, 2026); on August 8, 2026 a correction fixed HeroHunt.ai's headquarters (Amsterdam, not San Francisco) and clarified the publisher disclosure.",
       "excerpt": "A first-principles guide to autonomous AI recruiting agents in 2026: what they actually automate, the real players and funding, honest ROI, and where they break.",
       "readMinutes": 61,
       "citation": "AIRecruiter.co Research (2026). Agentic AI Recruiters: The 2026 Deep Guide. AIRecruiter.co. https://airecruiter.co/blog/agentic-ai-recruiters-2026",
@@ -6168,8 +6178,10 @@
       "url": "https://airecruiter.co/blog/sourcing-landscape-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-05-14",
+      "dateModified": "2026-10-07",
+      "correction": "Noted that Headway, a mental-health care company, acquired Tezi in early 2026, so its agent Max is no longer sold as a recruiting product. Fetcher's prices are now cited to its own pricing page, which also lists a one-seat Self-serve plan at $115 a month, so the accessible tier starts there rather than at $379.",
       "excerpt": "A side-by-side analysis of sourcing and candidate-discovery platforms, with selection criteria for in-house and agency teams.",
-      "readMinutes": 54,
+      "readMinutes": 55,
       "citation": "AIRecruiter.co Research (2026). The Sourcing Tools Landscape: 2026 Buyer Guide. AIRecruiter.co. https://airecruiter.co/blog/sourcing-landscape-2026",
       "sources": [
         {
@@ -6281,6 +6293,13 @@
           "publisher": "Fortune",
           "title": "Exclusive: Dex, AI-powered recruiting startup, raises seed round from Notion Capital",
           "url": "https://fortune.com/2026/04/28/exclusive-dex-ai-powered-recruiting-startup-raises-seed-round-notion-capital"
+        },
+        {
+          "id": "tezi-headway-acquisition-2026",
+          "publisher": "Tezi",
+          "title": "Headway acquires Tezi (Tezi's own announcement, archived; tezi.ai is offline)",
+          "url": "https://web.archive.org/web/20260422234640/https://tezi.ai/",
+          "year": "2026"
         },
         {
           "id": "the-hire-hub-1l933",
