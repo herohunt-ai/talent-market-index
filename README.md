@@ -1,5 +1,7 @@
 # The AIRecruiter.co Talent Market Index
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23250163.svg)](https://doi.org/10.5281/zenodo.23250163)
+
 A free, openly-licensed, primary-sourced dataset quantifying how the world hires: **116 recruiting, hiring, and HR-technology statistics**, each row carrying a verifiable primary-source URL (**201 sources cited** across the full index), plus **6 long-run U.S. labor-market trackers** (2000-2026) and **16 deep-dive research reports** on the source site.
 
 Compiled and maintained by **[AIRecruiter.co](https://airecruiter.co/data?utm_source=github&utm_medium=repo&utm_campaign=distribution-2026-08)**, a primary-sourced talent-market research publication by [HeroHunt.ai](https://herohunt.ai).
