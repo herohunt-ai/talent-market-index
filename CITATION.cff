@@ -27,3 +27,8 @@ keywords:
   - open data
 date-released: 2026-10-08
 version: 2026-10-08
+doi: 10.5281/zenodo.23250163
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23250163
+    description: Concept DOI of the Zenodo archive (resolves to the latest version)
