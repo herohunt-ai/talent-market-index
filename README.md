@@ -70,7 +70,7 @@ Every row is labeled by how the figure was established:
 - **reported** (51 rows): reported by a credible source but without a fully resolvable underlying study.
 - **modeled** (13 rows): an estimate or projection.
 
-Temporal coverage: **2000/2026**. Data as of: **2026-10-08**.
+Temporal coverage: **2000/2026**. Data as of: **2026-10-13**.
 
 ## How the data is collected
 
@@ -102,7 +102,7 @@ print(verified[["statistic", "formatted", "primary_source_publisher", "primary_s
 
 ## How to cite
 
-> The AIRecruiter.co Talent Market Index. AIRecruiter.co (an independent research publication by HeroHunt.ai), https://airecruiter.co/data. CC-BY-4.0. Data as of 2026-10-08. https://doi.org/10.5281/zenodo.23250163
+> The AIRecruiter.co Talent Market Index. AIRecruiter.co (an independent research publication by HeroHunt.ai), https://airecruiter.co/data. CC-BY-4.0. Data as of 2026-10-13. https://doi.org/10.5281/zenodo.23250163
 
 Dated, versioned snapshots of this dataset are archived on Zenodo: [doi.org/10.5281/zenodo.23250163](https://doi.org/10.5281/zenodo.23250163) always resolves to the latest version.
 

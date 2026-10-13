@@ -4,7 +4,7 @@
   "url": "https://airecruiter.co/data",
   "methodology": "https://airecruiter.co/methodology",
   "sourceRegistry": "https://airecruiter.co/research/sources",
-  "dateModified": "2026-10-08",
+  "dateModified": "2026-10-13",
   "citation": "The AIRecruiter.co Index. AIRecruiter.co, accessed [date accessed]. https://airecruiter.co/data. Archived: https://doi.org/10.5281/zenodo.23250163",
   "identifier": "https://doi.org/10.5281/zenodo.23250163",
   "archive": "https://zenodo.org/records/23250163",
@@ -856,10 +856,10 @@
     {
       "id": "stanford-digital-economy-lab-1r8jb",
       "publisher": "Stanford Digital Economy Lab",
-      "title": "Canaries in the Coal Mine: Six Facts About the Recent Employment Effects of Artificial Intelligence",
+      "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence",
       "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence",
       "kind": "research",
-      "year": "2025"
+      "year": "2026"
     },
     {
       "id": "shrm-1l12y",
@@ -2623,21 +2623,21 @@
     {
       "id": "relative-employment-decline-for-ai-expos",
       "label": "Relative employment decline for AI-exposed workers 22-25",
-      "value": 16,
+      "value": 19,
       "unit": "%",
-      "formatted": "16%",
-      "asOf": "2025",
+      "formatted": "19%",
+      "asOf": "June 2026",
       "topic": "talent-supply",
       "confidence": "reported",
-      "context": "Stanford's ADP payroll analysis shows the youngest cohort in the most AI-exposed occupations fell relative to older colleagues in identical roles.",
-      "trendNote": "as low as 13% in some specifications; older workers in same occupations stable or growing",
+      "context": "Stanford's ADP payroll analysis puts employment among workers aged 22-25 in highly AI-exposed occupations about 19% below where it would be had it kept pace with similarly aged workers in less-exposed occupations.",
+      "trendNote": "15% by the same measure at the July 2025 data vintage; experienced workers show no comparable gap",
       "sources": [
         {
           "id": "stanford-digital-economy-lab-1r8jb",
           "publisher": "Stanford Digital Economy Lab",
-          "title": "Canaries in the Coal Mine: Six Facts About the Recent Employment Effects of Artificial Intelligence",
+          "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence",
           "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence",
-          "year": "2025"
+          "year": "2026"
         }
       ],
       "reports": [
@@ -3051,13 +3051,13 @@
     {
       "id": "ai-in-recruitment-market-size",
       "label": "AI-in-HR market size",
-      "value": 5,
+      "value": 6.3,
       "unit": "$B",
-      "formatted": "$5B",
-      "asOf": "2025",
+      "formatted": "$6.3B",
+      "asOf": "2026",
       "topic": "recruiting-tech-market",
       "confidence": "modeled",
-      "context": "Grand View Research's sizing of the broader AI-in-HR market on its path to $15.24B by 2030, the scale that makes vendor liability a systemic rather than isolated concern.",
+      "context": "Grand View Research estimates the broader AI-in-HR market, which counts AI across every HR function and not hiring alone, at $6.3 billion for 2026, the scale that makes vendor liability a systemic rather than isolated concern.",
       "trendNote": "on a 24.8% CAGR from a 2023 base of $3.25B to $15.24B by 2030",
       "sources": [
         {
@@ -5513,10 +5513,10 @@
       "url": "https://airecruiter.co/blog/entry-level-hiring-collapse-ai-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-15",
-      "dateModified": "2026-10-08",
-      "correction": "The closing frontier-model watch string no longer waits on Gemini 3.5 Pro: on September 30, 2026 Google said it will not release that model and announced Argon, a larger top-tier model for its Gemini 4 generation that is so far tested only with select cybersecurity partners. Earlier updates: on September 28, 2026 the string moved to Anthropic's Claude Opus 5.5 (released September 22, 2026), OpenAI's GPT-6 Astra (introduced September 3, 2026) and Google's generally available Gemini 3.8 Flash, and the AI-related share of US job postings to Indeed Hiring Lab's August 2026 reading of 6.3%; the dated May 2026 I/O chronology is unchanged.",
+      "dateModified": "2026-10-12",
+      "correction": "The Stanford payroll figure now follows the paper's August 12, 2026 revision: employment among workers aged 22 to 25 in highly AI-exposed occupations stands about 19% below where it would be had it kept pace with less-exposed peers of the same age (payroll data through June 2026; 15% by the same measure a year earlier). This report previously gave the 16% relative decline from the paper's 2025 version. Earlier updates: on October 8, 2026 the closing frontier-model watch string stopped waiting on Gemini 3.5 Pro, after Google said on September 30, 2026 that it will not release that model and announced Argon, a larger top-tier model for its Gemini 4 generation that is so far tested only with select cybersecurity partners; on September 28, 2026 the string moved to Anthropic's Claude Opus 5.5 (released September 22, 2026), OpenAI's GPT-6 Astra (introduced September 3, 2026) and Google's generally available Gemini 3.8 Flash, and the AI-related share of US job postings to Indeed Hiring Lab's August 2026 reading of 6.3%; the dated May 2026 I/O chronology is unchanged.",
       "excerpt": "Entry-level hiring did not collapse uniformly in 2026. It split along an AI-exposure seam. A first-principles guide to the data, mechanism, and playbook.",
-      "readMinutes": 65,
+      "readMinutes": 66,
       "citation": "AIRecruiter.co Research (2026). The Entry-Level Hiring Collapse: AI and 2026. AIRecruiter.co. https://airecruiter.co/blog/entry-level-hiring-collapse-ai-2026",
       "sources": [
         {
@@ -5529,9 +5529,9 @@
         {
           "id": "stanford-digital-economy-lab-1r8jb",
           "publisher": "Stanford Digital Economy Lab",
-          "title": "Canaries in the Coal Mine: Six Facts About the Recent Employment Effects of Artificial Intelligence",
+          "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence",
           "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence",
-          "year": "2025"
+          "year": "2026"
         },
         {
           "id": "shrm-1l12y",
@@ -5688,7 +5688,8 @@
       "url": "https://airecruiter.co/blog/ai-hiring-liability-mobley-workday-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-15",
-      "dateModified": "2026-07-20",
+      "dateModified": "2026-10-13",
+      "correction": "The AI-in-HR market figure now quotes Grand View Research's own published estimate for 2026, $6.3 billion. This report previously gave about $5 billion for 2025, a value interpolated on the firm's growth path between its published 2023 and 2030 figures.",
       "excerpt": "Mobley v. Workday turns thousands of employer defendants into one nationwide vendor. How AI hiring liability migrated from buyer to builder, and what to do.",
       "readMinutes": 69,
       "citation": "AIRecruiter.co Research (2026). AI Hiring Liability After Mobley v. Workday. AIRecruiter.co. https://airecruiter.co/blog/ai-hiring-liability-mobley-workday-2026",
@@ -5792,7 +5793,7 @@
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-01",
       "excerpt": "A research-grade map of the recruiting technology landscape across ten categories, the consolidation wave reshaping it, the funding behind it, and a framework buyers can use to navigate it without overpaying or overbuying.",
-      "readMinutes": 50,
+      "readMinutes": 51,
       "citation": "AIRecruiter.co Research (2026). The Talent Acquisition Tech Market Map: 2026. AIRecruiter.co. https://airecruiter.co/blog/ta-market-map-2026",
       "sources": [
         {
