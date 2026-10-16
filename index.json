@@ -4,7 +4,7 @@
   "url": "https://airecruiter.co/data",
   "methodology": "https://airecruiter.co/methodology",
   "sourceRegistry": "https://airecruiter.co/research/sources",
-  "dateModified": "2026-10-13",
+  "dateModified": "2026-10-15",
   "citation": "The AIRecruiter.co Index. AIRecruiter.co, accessed [date accessed]. https://airecruiter.co/data. Archived: https://doi.org/10.5281/zenodo.23250163",
   "identifier": "https://doi.org/10.5281/zenodo.23250163",
   "archive": "https://zenodo.org/records/23250163",
@@ -5161,167 +5161,6 @@
       "sources": []
     },
     {
-      "slug": "skills-based-hiring-2026",
-      "title": "Skills-Based Hiring: The 2026 Operator Playbook",
-      "url": "https://airecruiter.co/blog/skills-based-hiring-2026",
-      "author": "AIRecruiter.co Research",
-      "datePublished": "2026-07-13",
-      "dateModified": "2026-10-08",
-      "correction": "The model-capability paragraph had listed Gemini 3.5 Pro as coming soon; on September 30, 2026 Google said it will not release it and announced Argon, a larger top-tier Gemini 4 model so far tested only with select cybersecurity partners. Earlier update: on September 28, 2026 the same paragraph moved to Anthropic's Claude Opus 5.5, OpenAI's GPT-6 Astra and Google's Gemini 3.8 Flash.",
-      "excerpt": "Roughly 70 to 85 percent of employers claim skills-based hiring, but fewer than 1 in 700 hires were actually affected. A first-principles operator guide.",
-      "readMinutes": 59,
-      "citation": "AIRecruiter.co Research (2026). Skills-Based Hiring: The 2026 Operator Playbook. AIRecruiter.co. https://airecruiter.co/blog/skills-based-hiring-2026",
-      "sources": [
-        {
-          "id": "the-burning-glass-institute-and-harvard-16pe5",
-          "publisher": "The Burning Glass Institute and Harvard Business School",
-          "title": "Skills-Based Hiring",
-          "url": "https://www.burningglassinstitute.org/research/skills-based-hiring-2024",
-          "year": "2024"
-        },
-        {
-          "id": "testgorilla-1v8tu",
-          "publisher": "TestGorilla",
-          "title": "State of Skills-Based Hiring 2025",
-          "url": "https://www.testgorilla.com/skills-based-hiring/state-of-skills-based-hiring-2025/",
-          "year": "2025"
-        },
-        {
-          "id": "codesignal-pr-newswire-xop1y",
-          "publisher": "CodeSignal (PR Newswire)",
-          "title": "CodeSignal Detection Systems Identify and Stop Record-High Cheating Attempts",
-          "url": "https://www.prnewswire.com/news-releases/codesignal-detection-systems-identify-and-stop-record-high-cheating-attempts-as-assessment-fraud-more-than-doubled-in-2025-302696534.html",
-          "year": "2025"
-        },
-        {
-          "id": "hackerrank-w74te",
-          "publisher": "HackerRank",
-          "title": "Stopping AI Cheating in Remote Tech Assessments",
-          "url": "https://www.hackerrank.com/writing/stopping-ai-cheating-remote-tech-assessments-2025-playbook-recruiters",
-          "year": "2025"
-        },
-        {
-          "id": "pwc-with-workday-1rssm",
-          "publisher": "PwC (with Workday)",
-          "title": "Workday Skills-Based Approach to Talent",
-          "url": "https://www.pwc.com/us/en/technology/alliances/library/workday-skills-based-approach-to-talent.html",
-          "year": "2025"
-        },
-        {
-          "id": "wecreateproblems-citing-ibm-58pqs",
-          "publisher": "WeCreateProblems (citing IBM)",
-          "title": "Skills-Based Hiring Trends and Statistics",
-          "url": "https://www.wecreateproblems.com/blog/skills-based-hiring-trends-statistics",
-          "year": "2025"
-        },
-        {
-          "id": "world-economic-forum-1dth0",
-          "publisher": "World Economic Forum",
-          "title": "The Future of Jobs Report 2025 (Skills Outlook)",
-          "url": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/in-full/3-skills-outlook/",
-          "year": "2025"
-        },
-        {
-          "id": "shrm-1jkz5",
-          "publisher": "SHRM",
-          "title": "AI in HR (2025 Talent Trends)",
-          "url": "https://www.shrm.org/topics-tools/research/2025-talent-trends/ai-in-hr",
-          "year": "2025"
-        },
-        {
-          "id": "national-association-of-colleges-and-emp-1ohm5",
-          "publisher": "National Association of Colleges and Employers",
-          "title": "Employer Use of Skills-Based Hiring Practices Grows",
-          "url": "https://www.naceweb.org/job-market/trends-and-predictions/employer-use-of-skills-based-hiring-practices-grows",
-          "year": "2026"
-        }
-      ]
-    },
-    {
-      "slug": "eu-pay-transparency-2026",
-      "title": "Pay Transparency and Comp Intelligence 2026",
-      "url": "https://airecruiter.co/blog/eu-pay-transparency-2026",
-      "author": "AIRecruiter.co Research",
-      "datePublished": "2026-07-13",
-      "dateModified": "2026-10-08",
-      "correction": "The comp-intelligence outlook now notes Argon, the larger top-tier Gemini 4 model Google announced on September 30, 2026 and so far tests only with select cybersecurity partners; Google also said it will not release Gemini 3.5 Pro, which the previous update had called not yet generally available. Earlier update: on September 28, 2026 the outlook moved to Anthropic's Claude Opus 5.5 (released September 22, 2026), OpenAI's GPT-6 Astra (introduced September 3, 2026) and Google's Gemini 3.8 Flash (generally available since September 2, 2026).",
-      "excerpt": "The EU Pay Transparency Directive just flipped two hiring norms at once. A first-principles guide to the comp-intelligence stack it forces on every employer.",
-      "readMinutes": 60,
-      "citation": "AIRecruiter.co Research (2026). Pay Transparency and Comp Intelligence 2026. AIRecruiter.co. https://airecruiter.co/blog/eu-pay-transparency-2026",
-      "sources": [
-        {
-          "id": "trusaic-kfutq",
-          "publisher": "Trusaic",
-          "title": "EU Pay Transparency Directive Member State Transposition Monitor",
-          "url": "https://trusaic.com/resources/resources-eu-pay-transparency-directive-member-state-transposition-monitor/",
-          "year": "2026"
-        },
-        {
-          "id": "eurostat-1iszt",
-          "publisher": "Eurostat",
-          "title": "Gender pay gap statistics",
-          "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Gender_pay_gap_statistics",
-          "year": "2024"
-        },
-        {
-          "id": "indeed-hiring-lab-r6215",
-          "publisher": "Indeed Hiring Lab",
-          "title": "Full salary transparency in Europe is still a distant prospect",
-          "url": "https://www.hiringlab.org/uk/blog/2026/05/07/full-salary-transparency-in-europe-is-still-a-distant-prospect/",
-          "year": "2026"
-        },
-        {
-          "id": "mercer-1jyzl",
-          "publisher": "Mercer",
-          "title": "Only half of US employers are prepared to meet pay-transparency compliance guidelines",
-          "url": "https://www.mercer.com/en-us/about/newsroom/only-half-of-us-employers-are-prepared-to-meet-pay-transparency-compliance-guidelines/",
-          "year": "2025"
-        },
-        {
-          "id": "mercer-1ujdm",
-          "publisher": "Mercer",
-          "title": "As pay transparency regulations come into force globally, only half of employers say they are prepared",
-          "url": "https://www.mercer.com/about/newsroom/as-pay-transparency-regulations-come-into-force-globally-only-half-of-employers-say-they-are-prepared-according-to-mercer/",
-          "year": "2026"
-        },
-        {
-          "id": "pinsent-masons-1dpoc",
-          "publisher": "Pinsent Masons",
-          "title": "EU Pay Transparency Directive: EU member states",
-          "url": "https://www.pinsentmasons.com/out-law/guides/eu-pay-transparency-directive-eu-member-states",
-          "year": "2026"
-        },
-        {
-          "id": "european-commission-qxame",
-          "publisher": "European Commission",
-          "title": "New EU rules on pay transparency explained",
-          "url": "https://commission.europa.eu/news-and-media/news/new-eu-rules-pay-transparency-explained-2026-06-05_en",
-          "year": "2026"
-        },
-        {
-          "id": "europe-hr-solutions-1df9j",
-          "publisher": "Europe HR Solutions",
-          "title": "EU Pay Transparency Directive: 5% Gap Compliance Steps",
-          "url": "https://europe-hr-solutions.com/resources/eu-pay-transparency-directive-5-gap-compliance-steps/",
-          "year": "2026"
-        },
-        {
-          "id": "legalclarity-rpz8j",
-          "publisher": "LegalClarity",
-          "title": "Colorado Pay Transparency Law: Requirements and Penalties",
-          "url": "https://legalclarity.org/colorado-pay-transparency-law-requirements-and-penalties/",
-          "year": "2025"
-        },
-        {
-          "id": "governing-1yp3m",
-          "publisher": "Governing",
-          "title": "How Colorado Became the Epicenter of Pay Transparency",
-          "url": "https://www.governing.com/finance/how-colorado-became-the-epicenter-of-pay-transparency",
-          "year": "2025"
-        }
-      ]
-    },
-    {
       "slug": "agentic-ai-recruiters-2026",
       "title": "Agentic AI Recruiters: The 2026 Deep Guide",
       "url": "https://airecruiter.co/blog/agentic-ai-recruiters-2026",
@@ -5412,98 +5251,267 @@
       ]
     },
     {
-      "slug": "hiring-fraud-deepfake-verification-stack-2026",
-      "title": "Hiring Fraud and the Verification Stack 2026",
-      "url": "https://airecruiter.co/blog/hiring-fraud-deepfake-verification-stack-2026",
+      "slug": "eu-pay-transparency-2026",
+      "title": "Pay Transparency and Comp Intelligence 2026",
+      "url": "https://airecruiter.co/blog/eu-pay-transparency-2026",
       "author": "AIRecruiter.co Research",
-      "datePublished": "2026-06-15",
-      "excerpt": "Hiring became a security problem in 2026. Inside the deepfake threat, the DPRK IT-worker pipeline, and the identity verification stack built in one quarter.",
-      "readMinutes": 67,
-      "citation": "AIRecruiter.co Research (2026). Hiring Fraud and the Verification Stack 2026. AIRecruiter.co. https://airecruiter.co/blog/hiring-fraud-deepfake-verification-stack-2026",
+      "datePublished": "2026-07-13",
+      "dateModified": "2026-10-08",
+      "correction": "The comp-intelligence outlook now notes Argon, the larger top-tier Gemini 4 model Google announced on September 30, 2026 and so far tests only with select cybersecurity partners; Google also said it will not release Gemini 3.5 Pro, which the previous update had called not yet generally available. Earlier update: on September 28, 2026 the outlook moved to Anthropic's Claude Opus 5.5 (released September 22, 2026), OpenAI's GPT-6 Astra (introduced September 3, 2026) and Google's Gemini 3.8 Flash (generally available since September 2, 2026).",
+      "excerpt": "The EU Pay Transparency Directive just flipped two hiring norms at once. A first-principles guide to the comp-intelligence stack it forces on every employer.",
+      "readMinutes": 60,
+      "citation": "AIRecruiter.co Research (2026). Pay Transparency and Comp Intelligence 2026. AIRecruiter.co. https://airecruiter.co/blog/eu-pay-transparency-2026",
       "sources": [
         {
-          "id": "unit-42-11sql",
-          "publisher": "Unit 42",
-          "title": "North Korean Synthetic Identity Creation",
-          "url": "https://unit42.paloaltonetworks.com/north-korean-synthetic-identity-creation"
+          "id": "trusaic-kfutq",
+          "publisher": "Trusaic",
+          "title": "EU Pay Transparency Directive Member State Transposition Monitor",
+          "url": "https://trusaic.com/resources/resources-eu-pay-transparency-directive-member-state-transposition-monitor/",
+          "year": "2026"
         },
         {
-          "id": "checkr-1b467",
-          "publisher": "Checkr",
-          "title": "The Hiring Hoax: What 3,000 Managers Revealed about Hiring Fraud",
-          "url": "https://checkr.com/resources/articles/hiring-hoax-manager-survey-2025"
+          "id": "eurostat-1iszt",
+          "publisher": "Eurostat",
+          "title": "Gender pay gap statistics",
+          "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Gender_pay_gap_statistics",
+          "year": "2024"
         },
         {
-          "id": "greenhouse-thiwf",
-          "publisher": "Greenhouse",
-          "title": "An AI Trust Crisis: 70% of Hiring Managers Trust AI, Only 8% of Job Seekers Call It Fair",
-          "url": "https://www.greenhouse.com/newsroom/an-ai-trust-crisis-70-of-hiring-managers-trust-ai-to-make-faster-and-better-hiring-decisions-only-8-of-job-seekers-call-it-fair"
+          "id": "indeed-hiring-lab-r6215",
+          "publisher": "Indeed Hiring Lab",
+          "title": "Full salary transparency in Europe is still a distant prospect",
+          "url": "https://www.hiringlab.org/uk/blog/2026/05/07/full-salary-transparency-in-europe-is-still-a-distant-prospect/",
+          "year": "2026"
         },
         {
-          "id": "gartner-19pet",
+          "id": "mercer-1jyzl",
+          "publisher": "Mercer",
+          "title": "Only half of US employers are prepared to meet pay-transparency compliance guidelines",
+          "url": "https://www.mercer.com/en-us/about/newsroom/only-half-of-us-employers-are-prepared-to-meet-pay-transparency-compliance-guidelines/",
+          "year": "2025"
+        },
+        {
+          "id": "mercer-1ujdm",
+          "publisher": "Mercer",
+          "title": "As pay transparency regulations come into force globally, only half of employers say they are prepared",
+          "url": "https://www.mercer.com/about/newsroom/as-pay-transparency-regulations-come-into-force-globally-only-half-of-employers-say-they-are-prepared-according-to-mercer/",
+          "year": "2026"
+        },
+        {
+          "id": "pinsent-masons-1dpoc",
+          "publisher": "Pinsent Masons",
+          "title": "EU Pay Transparency Directive: EU member states",
+          "url": "https://www.pinsentmasons.com/out-law/guides/eu-pay-transparency-directive-eu-member-states",
+          "year": "2026"
+        },
+        {
+          "id": "european-commission-qxame",
+          "publisher": "European Commission",
+          "title": "New EU rules on pay transparency explained",
+          "url": "https://commission.europa.eu/news-and-media/news/new-eu-rules-pay-transparency-explained-2026-06-05_en",
+          "year": "2026"
+        },
+        {
+          "id": "europe-hr-solutions-1df9j",
+          "publisher": "Europe HR Solutions",
+          "title": "EU Pay Transparency Directive: 5% Gap Compliance Steps",
+          "url": "https://europe-hr-solutions.com/resources/eu-pay-transparency-directive-5-gap-compliance-steps/",
+          "year": "2026"
+        },
+        {
+          "id": "legalclarity-rpz8j",
+          "publisher": "LegalClarity",
+          "title": "Colorado Pay Transparency Law: Requirements and Penalties",
+          "url": "https://legalclarity.org/colorado-pay-transparency-law-requirements-and-penalties/",
+          "year": "2025"
+        },
+        {
+          "id": "governing-1yp3m",
+          "publisher": "Governing",
+          "title": "How Colorado Became the Epicenter of Pay Transparency",
+          "url": "https://www.governing.com/finance/how-colorado-became-the-epicenter-of-pay-transparency",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "slug": "skills-based-hiring-2026",
+      "title": "Skills-Based Hiring: The 2026 Operator Playbook",
+      "url": "https://airecruiter.co/blog/skills-based-hiring-2026",
+      "author": "AIRecruiter.co Research",
+      "datePublished": "2026-07-13",
+      "dateModified": "2026-10-08",
+      "correction": "The model-capability paragraph had listed Gemini 3.5 Pro as coming soon; on September 30, 2026 Google said it will not release it and announced Argon, a larger top-tier Gemini 4 model so far tested only with select cybersecurity partners. Earlier update: on September 28, 2026 the same paragraph moved to Anthropic's Claude Opus 5.5, OpenAI's GPT-6 Astra and Google's Gemini 3.8 Flash.",
+      "excerpt": "Roughly 70 to 85 percent of employers claim skills-based hiring, but fewer than 1 in 700 hires were actually affected. A first-principles operator guide.",
+      "readMinutes": 59,
+      "citation": "AIRecruiter.co Research (2026). Skills-Based Hiring: The 2026 Operator Playbook. AIRecruiter.co. https://airecruiter.co/blog/skills-based-hiring-2026",
+      "sources": [
+        {
+          "id": "the-burning-glass-institute-and-harvard-16pe5",
+          "publisher": "The Burning Glass Institute and Harvard Business School",
+          "title": "Skills-Based Hiring",
+          "url": "https://www.burningglassinstitute.org/research/skills-based-hiring-2024",
+          "year": "2024"
+        },
+        {
+          "id": "testgorilla-1v8tu",
+          "publisher": "TestGorilla",
+          "title": "State of Skills-Based Hiring 2025",
+          "url": "https://www.testgorilla.com/skills-based-hiring/state-of-skills-based-hiring-2025/",
+          "year": "2025"
+        },
+        {
+          "id": "codesignal-pr-newswire-xop1y",
+          "publisher": "CodeSignal (PR Newswire)",
+          "title": "CodeSignal Detection Systems Identify and Stop Record-High Cheating Attempts",
+          "url": "https://www.prnewswire.com/news-releases/codesignal-detection-systems-identify-and-stop-record-high-cheating-attempts-as-assessment-fraud-more-than-doubled-in-2025-302696534.html",
+          "year": "2025"
+        },
+        {
+          "id": "hackerrank-w74te",
+          "publisher": "HackerRank",
+          "title": "Stopping AI Cheating in Remote Tech Assessments",
+          "url": "https://www.hackerrank.com/writing/stopping-ai-cheating-remote-tech-assessments-2025-playbook-recruiters",
+          "year": "2025"
+        },
+        {
+          "id": "pwc-with-workday-1rssm",
+          "publisher": "PwC (with Workday)",
+          "title": "Workday Skills-Based Approach to Talent",
+          "url": "https://www.pwc.com/us/en/technology/alliances/library/workday-skills-based-approach-to-talent.html",
+          "year": "2025"
+        },
+        {
+          "id": "wecreateproblems-citing-ibm-58pqs",
+          "publisher": "WeCreateProblems (citing IBM)",
+          "title": "Skills-Based Hiring Trends and Statistics",
+          "url": "https://www.wecreateproblems.com/blog/skills-based-hiring-trends-statistics",
+          "year": "2025"
+        },
+        {
+          "id": "world-economic-forum-1dth0",
+          "publisher": "World Economic Forum",
+          "title": "The Future of Jobs Report 2025 (Skills Outlook)",
+          "url": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/in-full/3-skills-outlook/",
+          "year": "2025"
+        },
+        {
+          "id": "shrm-1jkz5",
+          "publisher": "SHRM",
+          "title": "AI in HR (2025 Talent Trends)",
+          "url": "https://www.shrm.org/topics-tools/research/2025-talent-trends/ai-in-hr",
+          "year": "2025"
+        },
+        {
+          "id": "national-association-of-colleges-and-emp-1ohm5",
+          "publisher": "National Association of Colleges and Employers",
+          "title": "Employer Use of Skills-Based Hiring Practices Grows",
+          "url": "https://www.naceweb.org/job-market/trends-and-predictions/employer-use-of-skills-based-hiring-practices-grows",
+          "year": "2026"
+        }
+      ]
+    },
+    {
+      "slug": "ai-hiring-liability-mobley-workday-2026",
+      "title": "AI Hiring Liability After Mobley v. Workday",
+      "url": "https://airecruiter.co/blog/ai-hiring-liability-mobley-workday-2026",
+      "author": "AIRecruiter.co Research",
+      "datePublished": "2026-06-15",
+      "dateModified": "2026-10-13",
+      "correction": "The AI-in-HR market figure now quotes Grand View Research's own published estimate for 2026, $6.3 billion. This report previously gave about $5 billion for 2025, a value interpolated on the firm's growth path between its published 2023 and 2030 figures.",
+      "excerpt": "Mobley v. Workday turns thousands of employer defendants into one nationwide vendor. How AI hiring liability migrated from buyer to builder, and what to do.",
+      "readMinutes": 69,
+      "citation": "AIRecruiter.co Research (2026). AI Hiring Liability After Mobley v. Workday. AIRecruiter.co. https://airecruiter.co/blog/ai-hiring-liability-mobley-workday-2026",
+      "sources": [
+        {
+          "id": "proskauer-law-and-the-workplace-1gaab",
+          "publisher": "Proskauer (Law and the Workplace)",
+          "title": "AI Bias Lawsuit Against Workday Reaches Next Stage as Court Grants Conditional Certification of ADEA Claim",
+          "url": "https://www.lawandtheworkplace.com/2025/06/ai-bias-lawsuit-against-workday-reaches-next-stage-as-court-grants-conditional-certification-of-adea-claim",
+          "year": "2025"
+        },
+        {
+          "id": "grand-view-research-ai-hr",
+          "publisher": "Grand View Research",
+          "title": "Artificial Intelligence In HR Market Size & Share Report, 2030",
+          "url": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-hr-market-report"
+        },
+        {
+          "id": "gartner-ldpj8",
           "publisher": "Gartner",
-          "title": "Gartner Predicts 30% of Enterprises Will Consider Identity Verification Solutions Unreliable in Isolation Due to Deepfakes by 2026",
-          "url": "https://www.gartner.com/en/newsroom/press-releases/2024-02-01-gartner-predicts-30-percent-of-enterprises-will-consider-identity-verification-and-authentication-solutions-unreliable-in-isolation-due-to-deepfakes-by-2026"
+          "title": "Gartner Says AI Revolution and Cost Pressures Are Two Forces Driving the Top Four Trends for Talent Acquisition in 2026",
+          "url": "https://www.gartner.com/en/newsroom/press-releases/2025-10-07-gartner-says-ai-revolution-and-cost-pressures-are-two-forces-driving-the-top-four-trends-for-talent-acquisition-in-2026",
+          "year": "2025"
         },
         {
-          "id": "ftc-9adyi",
-          "publisher": "FTC",
-          "title": "New FTC Data Show a Big Jump in Reported Losses to Fraud in 2024",
-          "url": "https://www.ftc.gov/news-events/news/press-releases/2025/03/new-ftc-data-show-big-jump-reported-losses-fraud-125-billion-2024"
+          "id": "warden-ai-ucqpl",
+          "publisher": "Warden AI",
+          "title": "AI Bias in Hiring: What 150+ Bias Audits Reveal",
+          "url": "https://www.warden-ai.com/resources/bias-audits-hiring",
+          "year": "2026"
         },
         {
-          "id": "linkedin-rdf75",
-          "publisher": "LinkedIn",
-          "title": "LinkedIn Community Report",
-          "url": "https://about.linkedin.com/transparency/community-report"
+          "id": "university-of-washington-1r4hd",
+          "publisher": "University of Washington",
+          "title": "UW research finds racial and gender bias in AI tools ranking job applicants' names",
+          "url": "https://www.washington.edu/populationhealth/2024/12/12/uw-research-finds-racial-and-gender-bias-in-ai-tools-ranking-job-applicants-names",
+          "year": "2024"
         },
         {
-          "id": "doj-1blh8",
-          "publisher": "DOJ",
-          "title": "Arizona Woman Sentenced in $17M IT Worker Fraud Scheme That Illegally Generated Revenue for North Korea",
-          "url": "https://www.justice.gov/usao-dc/pr/arizona-woman-sentenced-17m-it-worker-fraud-scheme-illegally-generated-revenue-north"
+          "id": "eu-ai-act-article-99-penalties",
+          "publisher": "EU AI Act explorer (Future of Life Institute)",
+          "title": "EU AI Act, Article 99: Penalties (Regulation (EU) 2024/1689)",
+          "url": "https://artificialintelligenceact.eu/article/99/",
+          "year": "2024"
         },
         {
-          "id": "techcrunch-wzk5f",
-          "publisher": "TechCrunch",
-          "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
-          "url": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike"
+          "id": "eeoc-i4xt5",
+          "publisher": "EEOC",
+          "title": "iTutorGroup to Pay $365,000 to Settle EEOC Discriminatory Hiring Suit",
+          "url": "https://www.eeoc.gov/newsroom/itutorgroup-pay-365000-settle-eeoc-discriminatory-hiring-suit",
+          "year": "2023"
         },
         {
-          "id": "the-register-p6skk",
-          "publisher": "The Register",
-          "title": "Amazon blocked fake DPRK workers",
-          "url": "https://www.theregister.com/2025/12/18/amazon_blocked_fake_dprk_workers"
+          "id": "quinn-emanuel-6v4fd",
+          "publisher": "Quinn Emanuel",
+          "title": "When Machines Discriminate: The Rise of AI Bias Lawsuits",
+          "url": "https://www.quinnemanuel.com/the-firm/publications/when-machines-discriminate-the-rise-of-ai-bias-lawsuits",
+          "year": "2024"
         },
         {
-          "id": "fortune-1jz0w",
-          "publisher": "Fortune",
-          "title": "North Korea IT workers stealing billions; financial firms next target, CrowdStrike",
-          "url": "https://fortune.com/2026/05/14/north-korea-it-workers-stealing-billions-financial-firms-next-target-crowdstrike"
+          "id": "tech-funding-news-ha9xq",
+          "publisher": "Tech Funding News",
+          "title": "Warden AI funding HR AI compliance Workday lawsuit",
+          "url": "https://techfundingnews.com/warden-ai-funding-hr-ai-compliance-workday-lawsuit",
+          "year": "2025"
         },
         {
-          "id": "hypr-1i4kc",
-          "publisher": "HYPR",
-          "title": "HR Interview & Onboarding Fraud Guide",
-          "url": "https://www.hypr.com/blog/hr-interview-onboarding-fraud-guide"
+          "id": "sec-1lvp2",
+          "publisher": "SEC",
+          "title": "Workday Form 8-K (Exhibit 99.1)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001327811/000132781126000010/wday-01312026x991.htm",
+          "year": "2026"
         },
         {
-          "id": "mordor-intelligence-mdkl7",
-          "publisher": "Mordor Intelligence",
-          "title": "Identity Verification for Employee Onboarding Market",
-          "url": "https://www.mordorintelligence.com/industry-reports/identity-verification-for-employee-onboarding-market"
+          "id": "seyfarth-shaw-1wrqt",
+          "publisher": "Seyfarth Shaw",
+          "title": "Mobley v. Workday: Court Holds AI Service Providers Could Be Directly Liable for Employment Discrimination Under Agent Theory",
+          "url": "https://www.seyfarth.com/news-insights/mobley-v-workday-court-holds-ai-service-providers-could-be-directly-liable-for-employment-discrimination-under-agent-theory.html",
+          "year": "2024"
         },
         {
-          "id": "smestreet-i3bof",
-          "publisher": "SMEStreet",
-          "title": "InCruiter Identifies AI Deepfake in Recruitment Process",
-          "url": "https://smestreet.in/technology/incruiter-identifies-ai-deepfake-in-recruitment-process-11258759"
+          "id": "built-in-me7gq",
+          "publisher": "Built In",
+          "title": "Eightfold AI Hiring Lawsuit",
+          "url": "https://builtin.com/articles/eightfold-ai-hiring-lawsuit",
+          "year": "2026"
         },
         {
-          "id": "doj-as96c",
-          "publisher": "DOJ",
-          "title": "Two US Nationals Sentenced for Facilitating Fraudulent Remote IT Worker Scheme",
-          "url": "https://www.justice.gov/opa/pr/two-us-nationals-sentenced-facilitating-fraudulent-remote-information-technology-worker"
+          "id": "u-s-department-of-justice-7a9ov",
+          "publisher": "U.S. Department of Justice",
+          "title": "Justice Department Concludes EEOC Disparate-Impact Guidelines Violate Constitution",
+          "url": "https://www.justice.gov/opa/pr/justice-department-concludes-eeoc-disparate-impact-guidelines-violate-constitution",
+          "year": "2026"
         }
       ]
     },
@@ -5683,347 +5691,26 @@
       ]
     },
     {
-      "slug": "ai-hiring-liability-mobley-workday-2026",
-      "title": "AI Hiring Liability After Mobley v. Workday",
-      "url": "https://airecruiter.co/blog/ai-hiring-liability-mobley-workday-2026",
+      "slug": "hiring-fraud-deepfake-verification-stack-2026",
+      "title": "Hiring Fraud and the Verification Stack 2026",
+      "url": "https://airecruiter.co/blog/hiring-fraud-deepfake-verification-stack-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-15",
-      "dateModified": "2026-10-13",
-      "correction": "The AI-in-HR market figure now quotes Grand View Research's own published estimate for 2026, $6.3 billion. This report previously gave about $5 billion for 2025, a value interpolated on the firm's growth path between its published 2023 and 2030 figures.",
-      "excerpt": "Mobley v. Workday turns thousands of employer defendants into one nationwide vendor. How AI hiring liability migrated from buyer to builder, and what to do.",
-      "readMinutes": 69,
-      "citation": "AIRecruiter.co Research (2026). AI Hiring Liability After Mobley v. Workday. AIRecruiter.co. https://airecruiter.co/blog/ai-hiring-liability-mobley-workday-2026",
+      "excerpt": "Hiring became a security problem in 2026. Inside the deepfake threat, the DPRK IT-worker pipeline, and the identity verification stack built in one quarter.",
+      "readMinutes": 67,
+      "citation": "AIRecruiter.co Research (2026). Hiring Fraud and the Verification Stack 2026. AIRecruiter.co. https://airecruiter.co/blog/hiring-fraud-deepfake-verification-stack-2026",
       "sources": [
         {
-          "id": "proskauer-law-and-the-workplace-1gaab",
-          "publisher": "Proskauer (Law and the Workplace)",
-          "title": "AI Bias Lawsuit Against Workday Reaches Next Stage as Court Grants Conditional Certification of ADEA Claim",
-          "url": "https://www.lawandtheworkplace.com/2025/06/ai-bias-lawsuit-against-workday-reaches-next-stage-as-court-grants-conditional-certification-of-adea-claim",
-          "year": "2025"
+          "id": "unit-42-11sql",
+          "publisher": "Unit 42",
+          "title": "North Korean Synthetic Identity Creation",
+          "url": "https://unit42.paloaltonetworks.com/north-korean-synthetic-identity-creation"
         },
         {
-          "id": "grand-view-research-ai-hr",
-          "publisher": "Grand View Research",
-          "title": "Artificial Intelligence In HR Market Size & Share Report, 2030",
-          "url": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-hr-market-report"
-        },
-        {
-          "id": "gartner-ldpj8",
-          "publisher": "Gartner",
-          "title": "Gartner Says AI Revolution and Cost Pressures Are Two Forces Driving the Top Four Trends for Talent Acquisition in 2026",
-          "url": "https://www.gartner.com/en/newsroom/press-releases/2025-10-07-gartner-says-ai-revolution-and-cost-pressures-are-two-forces-driving-the-top-four-trends-for-talent-acquisition-in-2026",
-          "year": "2025"
-        },
-        {
-          "id": "warden-ai-ucqpl",
-          "publisher": "Warden AI",
-          "title": "AI Bias in Hiring: What 150+ Bias Audits Reveal",
-          "url": "https://www.warden-ai.com/resources/bias-audits-hiring",
-          "year": "2026"
-        },
-        {
-          "id": "university-of-washington-1r4hd",
-          "publisher": "University of Washington",
-          "title": "UW research finds racial and gender bias in AI tools ranking job applicants' names",
-          "url": "https://www.washington.edu/populationhealth/2024/12/12/uw-research-finds-racial-and-gender-bias-in-ai-tools-ranking-job-applicants-names",
-          "year": "2024"
-        },
-        {
-          "id": "eu-ai-act-article-99-penalties",
-          "publisher": "EU AI Act explorer (Future of Life Institute)",
-          "title": "EU AI Act, Article 99: Penalties (Regulation (EU) 2024/1689)",
-          "url": "https://artificialintelligenceact.eu/article/99/",
-          "year": "2024"
-        },
-        {
-          "id": "eeoc-i4xt5",
-          "publisher": "EEOC",
-          "title": "iTutorGroup to Pay $365,000 to Settle EEOC Discriminatory Hiring Suit",
-          "url": "https://www.eeoc.gov/newsroom/itutorgroup-pay-365000-settle-eeoc-discriminatory-hiring-suit",
-          "year": "2023"
-        },
-        {
-          "id": "quinn-emanuel-6v4fd",
-          "publisher": "Quinn Emanuel",
-          "title": "When Machines Discriminate: The Rise of AI Bias Lawsuits",
-          "url": "https://www.quinnemanuel.com/the-firm/publications/when-machines-discriminate-the-rise-of-ai-bias-lawsuits",
-          "year": "2024"
-        },
-        {
-          "id": "tech-funding-news-ha9xq",
-          "publisher": "Tech Funding News",
-          "title": "Warden AI funding HR AI compliance Workday lawsuit",
-          "url": "https://techfundingnews.com/warden-ai-funding-hr-ai-compliance-workday-lawsuit",
-          "year": "2025"
-        },
-        {
-          "id": "sec-1lvp2",
-          "publisher": "SEC",
-          "title": "Workday Form 8-K (Exhibit 99.1)",
-          "url": "https://www.sec.gov/Archives/edgar/data/0001327811/000132781126000010/wday-01312026x991.htm",
-          "year": "2026"
-        },
-        {
-          "id": "seyfarth-shaw-1wrqt",
-          "publisher": "Seyfarth Shaw",
-          "title": "Mobley v. Workday: Court Holds AI Service Providers Could Be Directly Liable for Employment Discrimination Under Agent Theory",
-          "url": "https://www.seyfarth.com/news-insights/mobley-v-workday-court-holds-ai-service-providers-could-be-directly-liable-for-employment-discrimination-under-agent-theory.html",
-          "year": "2024"
-        },
-        {
-          "id": "built-in-me7gq",
-          "publisher": "Built In",
-          "title": "Eightfold AI Hiring Lawsuit",
-          "url": "https://builtin.com/articles/eightfold-ai-hiring-lawsuit",
-          "year": "2026"
-        },
-        {
-          "id": "u-s-department-of-justice-7a9ov",
-          "publisher": "U.S. Department of Justice",
-          "title": "Justice Department Concludes EEOC Disparate-Impact Guidelines Violate Constitution",
-          "url": "https://www.justice.gov/opa/pr/justice-department-concludes-eeoc-disparate-impact-guidelines-violate-constitution",
-          "year": "2026"
-        }
-      ]
-    },
-    {
-      "slug": "ta-market-map-2026",
-      "title": "The Talent Acquisition Tech Market Map: 2026",
-      "url": "https://airecruiter.co/blog/ta-market-map-2026",
-      "author": "AIRecruiter.co Research",
-      "datePublished": "2026-06-01",
-      "excerpt": "A research-grade map of the recruiting technology landscape across ten categories, the consolidation wave reshaping it, the funding behind it, and a framework buyers can use to navigate it without overpaying or overbuying.",
-      "readMinutes": 51,
-      "citation": "AIRecruiter.co Research (2026). The Talent Acquisition Tech Market Map: 2026. AIRecruiter.co. https://airecruiter.co/blog/ta-market-map-2026",
-      "sources": [
-        {
-          "id": "shrm-1jkz5",
-          "publisher": "SHRM",
-          "title": "AI in HR (2025 Talent Trends)",
-          "url": "https://www.shrm.org/topics-tools/research/2025-talent-trends/ai-in-hr",
-          "year": "2025"
-        },
-        {
-          "id": "hr-dive-1t2ee",
-          "publisher": "HR Dive",
-          "title": "Recruiters increasing their AI usage as pressure to hire intensifies",
-          "url": "https://www.hrdive.com/news/recruiters-increasing-their-ai-usage-as-pressure-to-hire-intensifies/809051"
-        },
-        {
-          "id": "linkedin-talent-solutions-23mrg",
-          "publisher": "LinkedIn (Talent Solutions)",
-          "title": "LinkedIn (Talent Solutions)",
-          "url": "https://business.linkedin.com/hire/hiring-assistant"
-        },
-        {
-          "id": "selectsoftware-reviews-uti7z",
-          "publisher": "SelectSoftware Reviews",
-          "title": "AI Recruiting Statistics",
-          "url": "https://www.selectsoftwarereviews.com/blog/ai-recruiting-statistics"
-        },
-        {
-          "id": "venero-capital-1ccjd",
-          "publisher": "Venero Capital",
-          "title": "WorkTech Consolidation: Key Insights from HR Tech Jungle 2025",
-          "url": "https://www.venerocapitaladvisors.com/news/worktech-consolidation-key-insights-from-hr-tech-jungle-2025",
-          "year": "2025"
-        },
-        {
-          "id": "workday-10q-q3-fy2026",
-          "publisher": "Workday",
-          "title": "Workday Form 10-Q for the quarter ended October 31, 2025",
-          "url": "https://s21.q4cdn.com/950027458/files/doc_financials/2026/q3/WDAY-Workday-Inc-10-Q-2025-11-26-pdf_.pdf",
-          "year": "2025"
-        },
-        {
-          "id": "workday-1oo4m",
-          "publisher": "Workday",
-          "title": "Workday",
-          "url": "https://newsroom.workday.com/2025-10-01-Workday-Completes-Acquisition-of-Paradox"
-        },
-        {
-          "id": "global-legal-chronicle-1fuhn",
-          "publisher": "Global Legal Chronicle",
-          "title": "Workday Acquires Paradox in $1 Billion Deal",
-          "url": "https://globallegalchronicle.com/workday-acquires-paradox-in-1-billion-deal"
-        },
-        {
-          "id": "hro-today-hr-tech-report-10x9g",
-          "publisher": "HRO Today (HR Tech Report)",
-          "title": "HRO Today (HR Tech Report)",
-          "url": "https://www.hrotoday.com/category/market-intelligence/research/hr-tech-report"
-        },
-        {
-          "id": "linkedin-future-of-recruiting-1ihw1",
-          "publisher": "LinkedIn (Future of Recruiting)",
-          "title": "LinkedIn (Future of Recruiting)",
-          "url": "https://business.linkedin.com/talent-solutions/resources/future-of-recruiting"
-        },
-        {
-          "id": "icims-dic44",
-          "publisher": "iCIMS",
-          "title": "Apps Run the World 2025 ATS Market Share",
-          "url": "https://www.icims.com/company/newsroom/appsruntheworld2025",
-          "year": "2025"
-        },
-        {
-          "id": "paradox-zblzn",
-          "publisher": "Paradox",
-          "title": "Why Paradox",
-          "url": "https://www.paradox.ai/why-paradox"
-        },
-        {
-          "id": "techcrunch-145zp",
-          "publisher": "TechCrunch",
-          "title": "Mercor quintuples valuation to $10B with $350M Series C",
-          "url": "https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c"
-        },
-        {
-          "id": "techcrunch-1tvb9",
-          "publisher": "TechCrunch",
-          "title": "Sources: AI Training Startup Mercor Eyes $10B Valuation on $450M Run Rate",
-          "url": "https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450m-run-rate"
-        },
-        {
-          "id": "techcrunch-mercor-2b-2026",
-          "publisher": "TechCrunch",
-          "title": "Mercor is in talks for a $20B valuation",
-          "url": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
-          "year": "2026"
-        },
-        {
-          "id": "hr-executive-1jfwt",
-          "publisher": "HR Executive",
-          "title": "Why Investors Are Pouring Billions Into These HR Tech Categories",
-          "url": "https://hrexecutive.com/why-investors-are-pouring-billions-into-these-hr-tech-categories"
-        },
-        {
-          "id": "the-hire-hub-11kp1",
-          "publisher": "The Hire Hub",
-          "title": "Deepfake Candidates: How to Protect Your Hiring Process",
-          "url": "https://www.thehirehub.ai/blog/deepfake-candidates-how-to-protect-your-hiring-process"
-        }
-      ]
-    },
-    {
-      "slug": "state-of-ai-recruiting-2026",
-      "title": "The State of AI in Recruiting: 2026",
-      "url": "https://airecruiter.co/blog/state-of-ai-recruiting-2026",
-      "author": "AIRecruiter.co Research",
-      "datePublished": "2026-06-01",
-      "dateModified": "2026-09-28",
-      "correction": "Frontier-model references now name OpenAI's GPT-6 Astra (introduced September 3, 2026, succeeding GPT-5.6) and Anthropic's Claude Opus 5.5 (released September 22, 2026, succeeding Claude Opus 5). The labor-market snapshot is the June 2026 JOLTS reading (released August 4, 2026), refreshed on August 5, 2026.",
-      "excerpt": "AI adoption in recruiting jumped about 65% in a year, with 43% of organizations now using it and 52% of talent leaders planning to add autonomous agents. This is a data-driven look at what is working, what is hype, and what talent leaders should do next.",
-      "readMinutes": 51,
-      "citation": "AIRecruiter.co Research (2026). The State of AI in Recruiting: 2026. AIRecruiter.co. https://airecruiter.co/blog/state-of-ai-recruiting-2026",
-      "sources": [
-        {
-          "id": "shrm-1jkz5",
-          "publisher": "SHRM",
-          "title": "AI in HR (2025 Talent Trends)",
-          "url": "https://www.shrm.org/topics-tools/research/2025-talent-trends/ai-in-hr",
-          "year": "2025"
-        },
-        {
-          "id": "hr-dive-1t2ee",
-          "publisher": "HR Dive",
-          "title": "Recruiters increasing their AI usage as pressure to hire intensifies",
-          "url": "https://www.hrdive.com/news/recruiters-increasing-their-ai-usage-as-pressure-to-hire-intensifies/809051"
-        },
-        {
-          "id": "korn-ferry-jq8ha",
-          "publisher": "Korn Ferry",
-          "title": "Korn Ferry",
-          "url": "https://www.kornferry.com/about-us/press/korn-ferry-research-unveils-top-talent-acquisition-trends-shaping-2026"
-        },
-        {
-          "id": "linkedin-future-of-recruiting-2025-z3y17",
-          "publisher": "LinkedIn (Future of Recruiting 2025)",
-          "title": "LinkedIn (Future of Recruiting 2025)",
-          "url": "https://www.linkedin.com/business/talent/blog/talent-acquisition/future-of-recruiting-2025"
-        },
-        {
-          "id": "selectsoftware-reviews-uti7z",
-          "publisher": "SelectSoftware Reviews",
-          "title": "AI Recruiting Statistics",
-          "url": "https://www.selectsoftwarereviews.com/blog/ai-recruiting-statistics"
-        },
-        {
-          "id": "workday-10q-q3-fy2026",
-          "publisher": "Workday",
-          "title": "Workday Form 10-Q for the quarter ended October 31, 2025",
-          "url": "https://s21.q4cdn.com/950027458/files/doc_financials/2026/q3/WDAY-Workday-Inc-10-Q-2025-11-26-pdf_.pdf",
-          "year": "2025"
-        },
-        {
-          "id": "workday-1oo4m",
-          "publisher": "Workday",
-          "title": "Workday",
-          "url": "https://newsroom.workday.com/2025-10-01-Workday-Completes-Acquisition-of-Paradox"
-        },
-        {
-          "id": "global-legal-chronicle-1fuhn",
-          "publisher": "Global Legal Chronicle",
-          "title": "Workday Acquires Paradox in $1 Billion Deal",
-          "url": "https://globallegalchronicle.com/workday-acquires-paradox-in-1-billion-deal"
-        },
-        {
-          "id": "techcrunch-145zp",
-          "publisher": "TechCrunch",
-          "title": "Mercor quintuples valuation to $10B with $350M Series C",
-          "url": "https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c"
-        },
-        {
-          "id": "gartner-9o5le",
-          "publisher": "Gartner",
-          "title": "Gartner",
-          "url": "https://www.gartner.com/en/newsroom/press-releases/2025-07-31-gartner-survey-shows-just-26-percent-of-job-applicants-trust-ai-will-fairly-evaluate-them"
-        },
-        {
-          "id": "shrm-1trkn",
-          "publisher": "SHRM",
-          "title": "State of AI in HR 2026: Full Report",
-          "url": "https://www.shrm.org/topics-tools/research/state-of-ai-hr-2026/full-report",
-          "year": "2026"
-        },
-        {
-          "id": "shrm-17puq",
-          "publisher": "SHRM",
-          "title": "2025 Talent Acquisition Benchmarking Report",
-          "url": "https://www.shrm.org/topics-tools/research/2025-recruiting-benchmarking",
-          "year": "2025"
-        },
-        {
-          "id": "korn-ferry-1spu9",
-          "publisher": "Korn Ferry",
-          "title": "Talent Acquisition Trends",
-          "url": "https://www.kornferry.com/insights/featured-topics/talent-recruitment/talent-acquisition-trends"
-        },
-        {
-          "id": "crunchbase-news-6suac",
-          "publisher": "Crunchbase News",
-          "title": "AI HR Software Startup Funding and M&A",
-          "url": "https://news.crunchbase.com/venture/ai-hr-software-startup-funding-ma"
-        },
-        {
-          "id": "venero-capital-1ccjd",
-          "publisher": "Venero Capital",
-          "title": "WorkTech Consolidation: Key Insights from HR Tech Jungle 2025",
-          "url": "https://www.venerocapitaladvisors.com/news/worktech-consolidation-key-insights-from-hr-tech-jungle-2025",
-          "year": "2025"
-        },
-        {
-          "id": "techcrunch-mercor-2b-2026",
-          "publisher": "TechCrunch",
-          "title": "Mercor is in talks for a $20B valuation",
-          "url": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
-          "year": "2026"
-        },
-        {
-          "id": "the-hire-hub-11kp1",
-          "publisher": "The Hire Hub",
-          "title": "Deepfake Candidates: How to Protect Your Hiring Process",
-          "url": "https://www.thehirehub.ai/blog/deepfake-candidates-how-to-protect-your-hiring-process"
+          "id": "checkr-1b467",
+          "publisher": "Checkr",
+          "title": "The Hiring Hoax: What 3,000 Managers Revealed about Hiring Fraud",
+          "url": "https://checkr.com/resources/articles/hiring-hoax-manager-survey-2025"
         },
         {
           "id": "greenhouse-thiwf",
@@ -6032,11 +5719,70 @@
           "url": "https://www.greenhouse.com/newsroom/an-ai-trust-crisis-70-of-hiring-managers-trust-ai-to-make-faster-and-better-hiring-decisions-only-8-of-job-seekers-call-it-fair"
         },
         {
-          "id": "recruit-ai-suite-1vxf0",
-          "publisher": "Recruit AI Suite",
-          "title": "LinkedIn Recruiting Statistics 2026",
-          "url": "https://copilot.recruitaisuite.com/blog/linkedin-recruiting-statistics-2026",
-          "year": "2026"
+          "id": "gartner-19pet",
+          "publisher": "Gartner",
+          "title": "Gartner Predicts 30% of Enterprises Will Consider Identity Verification Solutions Unreliable in Isolation Due to Deepfakes by 2026",
+          "url": "https://www.gartner.com/en/newsroom/press-releases/2024-02-01-gartner-predicts-30-percent-of-enterprises-will-consider-identity-verification-and-authentication-solutions-unreliable-in-isolation-due-to-deepfakes-by-2026"
+        },
+        {
+          "id": "ftc-9adyi",
+          "publisher": "FTC",
+          "title": "New FTC Data Show a Big Jump in Reported Losses to Fraud in 2024",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2025/03/new-ftc-data-show-big-jump-reported-losses-fraud-125-billion-2024"
+        },
+        {
+          "id": "linkedin-rdf75",
+          "publisher": "LinkedIn",
+          "title": "LinkedIn Community Report",
+          "url": "https://about.linkedin.com/transparency/community-report"
+        },
+        {
+          "id": "doj-1blh8",
+          "publisher": "DOJ",
+          "title": "Arizona Woman Sentenced in $17M IT Worker Fraud Scheme That Illegally Generated Revenue for North Korea",
+          "url": "https://www.justice.gov/usao-dc/pr/arizona-woman-sentenced-17m-it-worker-fraud-scheme-illegally-generated-revenue-north"
+        },
+        {
+          "id": "techcrunch-wzk5f",
+          "publisher": "TechCrunch",
+          "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
+          "url": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike"
+        },
+        {
+          "id": "the-register-p6skk",
+          "publisher": "The Register",
+          "title": "Amazon blocked fake DPRK workers",
+          "url": "https://www.theregister.com/2025/12/18/amazon_blocked_fake_dprk_workers"
+        },
+        {
+          "id": "fortune-1jz0w",
+          "publisher": "Fortune",
+          "title": "North Korea IT workers stealing billions; financial firms next target, CrowdStrike",
+          "url": "https://fortune.com/2026/05/14/north-korea-it-workers-stealing-billions-financial-firms-next-target-crowdstrike"
+        },
+        {
+          "id": "hypr-1i4kc",
+          "publisher": "HYPR",
+          "title": "HR Interview & Onboarding Fraud Guide",
+          "url": "https://www.hypr.com/blog/hr-interview-onboarding-fraud-guide"
+        },
+        {
+          "id": "mordor-intelligence-mdkl7",
+          "publisher": "Mordor Intelligence",
+          "title": "Identity Verification for Employee Onboarding Market",
+          "url": "https://www.mordorintelligence.com/industry-reports/identity-verification-for-employee-onboarding-market"
+        },
+        {
+          "id": "smestreet-i3bof",
+          "publisher": "SMEStreet",
+          "title": "InCruiter Identifies AI Deepfake in Recruitment Process",
+          "url": "https://smestreet.in/technology/incruiter-identifies-ai-deepfake-in-recruitment-process-11258759"
+        },
+        {
+          "id": "doj-as96c",
+          "publisher": "DOJ",
+          "title": "Two US Nationals Sentenced for Facilitating Fraudulent Remote IT Worker Scheme",
+          "url": "https://www.justice.gov/opa/pr/two-us-nationals-sentenced-facilitating-fraudulent-remote-information-technology-worker"
         }
       ]
     },
@@ -6045,7 +5791,9 @@
       "title": "Staffing and Agency Tech: 2026 Outlook",
       "url": "https://airecruiter.co/blog/agency-benchmark-q2-2026",
       "author": "AIRecruiter.co Research",
-      "datePublished": "2026-05-21",
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-10-15",
+      "correction": "Publication date corrected. This report was dated May 21, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. It has since been revised: figures from after that date, such as the American Staffing Association's June 2026 productivity report and Mercor's July 2026 valuation talks, were added later.",
       "excerpt": "How staffing firms and recruiting agencies are adopting AI, and where contingent demand is shifting.",
       "readMinutes": 47,
       "citation": "AIRecruiter.co Research (2026). Staffing and Agency Tech: 2026 Outlook. AIRecruiter.co. https://airecruiter.co/blog/agency-benchmark-q2-2026",
@@ -6177,13 +5925,166 @@
       ]
     },
     {
+      "slug": "ats-market-share-2026",
+      "title": "ATS Market Structure and Buyer Sentiment 2026",
+      "url": "https://airecruiter.co/blog/ats-market-share-2026",
+      "author": "AIRecruiter.co Research",
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-10-15",
+      "correction": "Publication date corrected. This report was dated March 30, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here.",
+      "excerpt": "The leaders, the challengers, and the consolidation reshaping the applicant-tracking system market.",
+      "readMinutes": 47,
+      "citation": "AIRecruiter.co Research (2026). ATS Market Structure and Buyer Sentiment 2026. AIRecruiter.co. https://airecruiter.co/blog/ats-market-share-2026",
+      "sources": [
+        {
+          "id": "venero-capital-1ccjd",
+          "publisher": "Venero Capital",
+          "title": "WorkTech Consolidation: Key Insights from HR Tech Jungle 2025",
+          "url": "https://www.venerocapitaladvisors.com/news/worktech-consolidation-key-insights-from-hr-tech-jungle-2025",
+          "year": "2025"
+        },
+        {
+          "id": "icims-dic44",
+          "publisher": "iCIMS",
+          "title": "Apps Run the World 2025 ATS Market Share",
+          "url": "https://www.icims.com/company/newsroom/appsruntheworld2025",
+          "year": "2025"
+        },
+        {
+          "id": "eightfold-ai-1m8me",
+          "publisher": "Eightfold AI",
+          "title": "The ATS Reimagined: New Research on What's Working, What's Not, and What's Next",
+          "url": "https://eightfold.ai/learn/the-ats-reimagined-new-research-on-whats-working-whats-not-and-whats-next"
+        },
+        {
+          "id": "ashby-vkxwh",
+          "publisher": "Ashby",
+          "title": "Ashby Series D",
+          "url": "https://www.ashbyhq.com/blog/culture/series-d"
+        },
+        {
+          "id": "workday-hiredscore-customer-story-19pcq",
+          "publisher": "Workday (HiredScore customer story)",
+          "title": "Workday (HiredScore customer story)",
+          "url": "https://www.workday.com/en-us/customer-stories/a-h/automotive-company-zero-emissions-talent-pipeline.html"
+        },
+        {
+          "id": "smartrecruiters-cfec7",
+          "publisher": "SmartRecruiters",
+          "title": "SAP Completes Acquisition of SmartRecruiters",
+          "url": "https://www.smartrecruiters.com/news/sap-completes-acquisition-of-smartrecruiters"
+        },
+        {
+          "id": "cio-15iit",
+          "publisher": "CIO",
+          "title": "SAP Sets Timeline to Replace SuccessFactors Recruiting Module with SmartRecruiters",
+          "url": "https://www.cio.com/article/4068172/sap-sets-timeline-to-replace-successfactors-recruiting-module-with-smartrecruiters.html"
+        },
+        {
+          "id": "oracle-1hmfz",
+          "publisher": "Oracle",
+          "title": "Oracle Named a Leader in 2025 Gartner Magic Quadrant for Talent Acquisition (Recruiting) Suites",
+          "url": "https://www.oracle.com/news/announcement/oracle-named-a-leader-in-2025-gartner-magic-quadrant-for-talent-acquisition-recruiting-suites-2025-04-09",
+          "year": "2025"
+        },
+        {
+          "id": "workday-8x0qx",
+          "publisher": "Workday",
+          "title": "Workday Homepage",
+          "url": "https://www.workday.com/en-us/homepage.html"
+        },
+        {
+          "id": "workday-adventhealth-orchestration",
+          "publisher": "Workday",
+          "title": "AdventHealth's HR Orchestration Journey",
+          "url": "https://blog.workday.com/en-us/adventhealths-hr-orchestration-journey.html"
+        }
+      ]
+    },
+    {
+      "slug": "interview-intelligence-deep-dive-2026",
+      "title": "Interview Intelligence: Category Deep Dive",
+      "url": "https://airecruiter.co/blog/interview-intelligence-deep-dive-2026",
+      "author": "AIRecruiter.co Research",
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-10-15",
+      "correction": "Publication date corrected. This report was dated May 7, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. Earlier correction, October 6, 2026: Corrected the interview-validity figures. We had presented 0.51 (structured) and 0.38 (unstructured) as current and linked them to a 2016 update that in fact puts both formats at 0.58; those are Schmidt and Hunter's 1998 estimates. The guide now gives all three estimates and leads with the 2022 re-analysis by Sackett and colleagues (0.42 structured, 0.19 unstructured), and drops a 0.63 composite figure its linked source did not support.",
+      "excerpt": "A deep dive on the fastest-consolidating assessment category and what it means for interview quality and fairness.",
+      "readMinutes": 47,
+      "citation": "AIRecruiter.co Research (2026). Interview Intelligence: Category Deep Dive. AIRecruiter.co. https://airecruiter.co/blog/interview-intelligence-deep-dive-2026",
+      "sources": [
+        {
+          "id": "sackett-2022-selection-validity",
+          "publisher": "Journal of Applied Psychology (Sackett, Zhang, Berry and Lievens)",
+          "title": "Revisiting Meta-Analytic Estimates of Validity in Personnel Selection (author manuscript)",
+          "url": "https://gwern.net/doc/statistics/meta-analysis/2021-sackett.pdf",
+          "year": "2022"
+        },
+        {
+          "id": "university-of-baltimore-1d28b",
+          "publisher": "University of Baltimore",
+          "title": "The Validity and Utility of Selection Methods: 100 Years of Research (Schmidt and Oh)",
+          "url": "https://home.ubalt.edu/tmitch/645/session%204/Schmidt%20&%20Oh%20validity%20and%20util%20100%20yrs%20of%20research%20Wk%20PPR%202016.pdf"
+        },
+        {
+          "id": "sacra-1czrb",
+          "publisher": "Sacra",
+          "title": "Otter Company Profile",
+          "url": "https://sacra.com/c/otter"
+        },
+        {
+          "id": "tool-directory-dr92i",
+          "publisher": "Tool Directory",
+          "title": "AI Notetakers 2026: Otter, Fireflies, Granola, Fathom, Read",
+          "url": "https://tooldirectory.ai/blog/ai-notetakers-2026-otter-fireflies-granola-fathom-read",
+          "year": "2026"
+        },
+        {
+          "id": "hirevue-1n611",
+          "publisher": "HireVue",
+          "title": "AI in Hiring",
+          "url": "https://www.hirevue.com/ai-in-hiring"
+        },
+        {
+          "id": "metaview-czxj9",
+          "publisher": "Metaview",
+          "title": "Metaview Series B",
+          "url": "https://www.metaview.ai/resources/blog/series-b"
+        },
+        {
+          "id": "fortune-3jmsw",
+          "publisher": "Fortune",
+          "title": "Uber, Palantir Alums Metaview Raise $35M for AI Revolution in Recruitment Hiring",
+          "url": "https://fortune.com/2025/06/25/uber-palantir-alums-metaview-raise-35m-ai-revolution-recruitment-hiring"
+        },
+        {
+          "id": "cb-insights-76zhx",
+          "publisher": "CB Insights",
+          "title": "BrightHire Company Profile",
+          "url": "https://www.cbinsights.com/company/brighthire"
+        },
+        {
+          "id": "employ-1748g",
+          "publisher": "Employ",
+          "title": "Employ Acquires Pillar AI Interview Intelligence Platform",
+          "url": "https://www.employinc.com/news_item/employ-acquires-pillar-ai-interview-intelligence-platform"
+        },
+        {
+          "id": "globenewswire-vj2zv",
+          "publisher": "GlobeNewswire",
+          "title": "HireVue Acquires Hireguide Technology to Accelerate Agentic AI Hiring",
+          "url": "https://www.globenewswire.com/news-release/2026/03/10/3252648/0/en/Hirevue-Acquires-Hireguide-Technology-to-Accelerate-Agentic-AI-Hiring.html"
+        }
+      ]
+    },
+    {
       "slug": "sourcing-landscape-2026",
       "title": "The Sourcing Tools Landscape: 2026 Buyer Guide",
       "url": "https://airecruiter.co/blog/sourcing-landscape-2026",
       "author": "AIRecruiter.co Research",
-      "datePublished": "2026-05-14",
-      "dateModified": "2026-10-07",
-      "correction": "Noted that Headway, a mental-health care company, acquired Tezi in early 2026, so its agent Max is no longer sold as a recruiting product. Fetcher's prices are now cited to its own pricing page, which also lists a one-seat Self-serve plan at $115 a month, so the accessible tier starts there rather than at $379.",
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-10-15",
+      "correction": "Publication date corrected. This report was dated May 14, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. Earlier correction, October 7, 2026: Noted that Headway, a mental-health care company, acquired Tezi in early 2026, so its agent Max is no longer sold as a recruiting product. Fetcher's prices are now cited to its own pricing page, which also lists a one-seat Self-serve plan at $115 a month, so the accessible tier starts there rather than at $379.",
       "excerpt": "A side-by-side analysis of sourcing and candidate-discovery platforms, with selection criteria for in-house and agency teams.",
       "readMinutes": 55,
       "citation": "AIRecruiter.co Research (2026). The Sourcing Tools Landscape: 2026 Buyer Guide. AIRecruiter.co. https://airecruiter.co/blog/sourcing-landscape-2026",
@@ -6351,91 +6252,86 @@
       ]
     },
     {
-      "slug": "interview-intelligence-deep-dive-2026",
-      "title": "Interview Intelligence: Category Deep Dive",
-      "url": "https://airecruiter.co/blog/interview-intelligence-deep-dive-2026",
+      "slug": "state-of-ai-recruiting-2026",
+      "title": "The State of AI in Recruiting: 2026",
+      "url": "https://airecruiter.co/blog/state-of-ai-recruiting-2026",
       "author": "AIRecruiter.co Research",
-      "datePublished": "2026-05-07",
-      "dateModified": "2026-10-06",
-      "correction": "Corrected the interview-validity figures. We had presented 0.51 (structured) and 0.38 (unstructured) as current and linked them to a 2016 update that in fact puts both formats at 0.58; those are Schmidt and Hunter's 1998 estimates. The guide now gives all three estimates and leads with the 2022 re-analysis by Sackett and colleagues (0.42 structured, 0.19 unstructured), and drops a 0.63 composite figure its linked source did not support.",
-      "excerpt": "A deep dive on the fastest-consolidating assessment category and what it means for interview quality and fairness.",
-      "readMinutes": 47,
-      "citation": "AIRecruiter.co Research (2026). Interview Intelligence: Category Deep Dive. AIRecruiter.co. https://airecruiter.co/blog/interview-intelligence-deep-dive-2026",
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-10-15",
+      "correction": "Publication date corrected. This report was dated June 1, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. It has since been revised: figures from after that date, such as Mercor's July 2026 valuation talks, were added later. Earlier correction, September 28, 2026: Frontier-model references now name OpenAI's GPT-6 Astra (introduced September 3, 2026, succeeding GPT-5.6) and Anthropic's Claude Opus 5.5 (released September 22, 2026, succeeding Claude Opus 5). The labor-market snapshot is the June 2026 JOLTS reading (released August 4, 2026), refreshed on August 5, 2026.",
+      "excerpt": "AI adoption in recruiting jumped about 65% in a year, with 43% of organizations now using it and 52% of talent leaders planning to add autonomous agents. This is a data-driven look at what is working, what is hype, and what talent leaders should do next.",
+      "readMinutes": 51,
+      "citation": "AIRecruiter.co Research (2026). The State of AI in Recruiting: 2026. AIRecruiter.co. https://airecruiter.co/blog/state-of-ai-recruiting-2026",
       "sources": [
         {
-          "id": "sackett-2022-selection-validity",
-          "publisher": "Journal of Applied Psychology (Sackett, Zhang, Berry and Lievens)",
-          "title": "Revisiting Meta-Analytic Estimates of Validity in Personnel Selection (author manuscript)",
-          "url": "https://gwern.net/doc/statistics/meta-analysis/2021-sackett.pdf",
-          "year": "2022"
+          "id": "shrm-1jkz5",
+          "publisher": "SHRM",
+          "title": "AI in HR (2025 Talent Trends)",
+          "url": "https://www.shrm.org/topics-tools/research/2025-talent-trends/ai-in-hr",
+          "year": "2025"
         },
         {
-          "id": "university-of-baltimore-1d28b",
-          "publisher": "University of Baltimore",
-          "title": "The Validity and Utility of Selection Methods: 100 Years of Research (Schmidt and Oh)",
-          "url": "https://home.ubalt.edu/tmitch/645/session%204/Schmidt%20&%20Oh%20validity%20and%20util%20100%20yrs%20of%20research%20Wk%20PPR%202016.pdf"
+          "id": "hr-dive-1t2ee",
+          "publisher": "HR Dive",
+          "title": "Recruiters increasing their AI usage as pressure to hire intensifies",
+          "url": "https://www.hrdive.com/news/recruiters-increasing-their-ai-usage-as-pressure-to-hire-intensifies/809051"
         },
         {
-          "id": "sacra-1czrb",
-          "publisher": "Sacra",
-          "title": "Otter Company Profile",
-          "url": "https://sacra.com/c/otter"
+          "id": "korn-ferry-jq8ha",
+          "publisher": "Korn Ferry",
+          "title": "Korn Ferry",
+          "url": "https://www.kornferry.com/about-us/press/korn-ferry-research-unveils-top-talent-acquisition-trends-shaping-2026"
         },
         {
-          "id": "tool-directory-dr92i",
-          "publisher": "Tool Directory",
-          "title": "AI Notetakers 2026: Otter, Fireflies, Granola, Fathom, Read",
-          "url": "https://tooldirectory.ai/blog/ai-notetakers-2026-otter-fireflies-granola-fathom-read",
+          "id": "linkedin-future-of-recruiting-2025-z3y17",
+          "publisher": "LinkedIn (Future of Recruiting 2025)",
+          "title": "LinkedIn (Future of Recruiting 2025)",
+          "url": "https://www.linkedin.com/business/talent/blog/talent-acquisition/future-of-recruiting-2025"
+        },
+        {
+          "id": "selectsoftware-reviews-uti7z",
+          "publisher": "SelectSoftware Reviews",
+          "title": "AI Recruiting Statistics",
+          "url": "https://www.selectsoftwarereviews.com/blog/ai-recruiting-statistics"
+        },
+        {
+          "id": "workday-10q-q3-fy2026",
+          "publisher": "Workday",
+          "title": "Workday Form 10-Q for the quarter ended October 31, 2025",
+          "url": "https://s21.q4cdn.com/950027458/files/doc_financials/2026/q3/WDAY-Workday-Inc-10-Q-2025-11-26-pdf_.pdf",
+          "year": "2025"
+        },
+        {
+          "id": "workday-1oo4m",
+          "publisher": "Workday",
+          "title": "Workday",
+          "url": "https://newsroom.workday.com/2025-10-01-Workday-Completes-Acquisition-of-Paradox"
+        },
+        {
+          "id": "global-legal-chronicle-1fuhn",
+          "publisher": "Global Legal Chronicle",
+          "title": "Workday Acquires Paradox in $1 Billion Deal",
+          "url": "https://globallegalchronicle.com/workday-acquires-paradox-in-1-billion-deal"
+        },
+        {
+          "id": "techcrunch-145zp",
+          "publisher": "TechCrunch",
+          "title": "Mercor quintuples valuation to $10B with $350M Series C",
+          "url": "https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c"
+        },
+        {
+          "id": "gartner-9o5le",
+          "publisher": "Gartner",
+          "title": "Gartner",
+          "url": "https://www.gartner.com/en/newsroom/press-releases/2025-07-31-gartner-survey-shows-just-26-percent-of-job-applicants-trust-ai-will-fairly-evaluate-them"
+        },
+        {
+          "id": "shrm-1trkn",
+          "publisher": "SHRM",
+          "title": "State of AI in HR 2026: Full Report",
+          "url": "https://www.shrm.org/topics-tools/research/state-of-ai-hr-2026/full-report",
           "year": "2026"
         },
-        {
-          "id": "hirevue-1n611",
-          "publisher": "HireVue",
-          "title": "AI in Hiring",
-          "url": "https://www.hirevue.com/ai-in-hiring"
-        },
-        {
-          "id": "metaview-czxj9",
-          "publisher": "Metaview",
-          "title": "Metaview Series B",
-          "url": "https://www.metaview.ai/resources/blog/series-b"
-        },
-        {
-          "id": "fortune-3jmsw",
-          "publisher": "Fortune",
-          "title": "Uber, Palantir Alums Metaview Raise $35M for AI Revolution in Recruitment Hiring",
-          "url": "https://fortune.com/2025/06/25/uber-palantir-alums-metaview-raise-35m-ai-revolution-recruitment-hiring"
-        },
-        {
-          "id": "cb-insights-76zhx",
-          "publisher": "CB Insights",
-          "title": "BrightHire Company Profile",
-          "url": "https://www.cbinsights.com/company/brighthire"
-        },
-        {
-          "id": "employ-1748g",
-          "publisher": "Employ",
-          "title": "Employ Acquires Pillar AI Interview Intelligence Platform",
-          "url": "https://www.employinc.com/news_item/employ-acquires-pillar-ai-interview-intelligence-platform"
-        },
-        {
-          "id": "globenewswire-vj2zv",
-          "publisher": "GlobeNewswire",
-          "title": "HireVue Acquires Hireguide Technology to Accelerate Agentic AI Hiring",
-          "url": "https://www.globenewswire.com/news-release/2026/03/10/3252648/0/en/Hirevue-Acquires-Hireguide-Technology-to-Accelerate-Agentic-AI-Hiring.html"
-        }
-      ]
-    },
-    {
-      "slug": "time-to-hire-benchmarks-2026",
-      "title": "Hiring Effort Benchmarks by Function",
-      "url": "https://airecruiter.co/blog/time-to-hire-benchmarks-2026",
-      "author": "AIRecruiter.co Research",
-      "datePublished": "2026-04-30",
-      "excerpt": "Interview load, time to fill, and applications per hire across engineering, product, data, sales, and support.",
-      "readMinutes": 47,
-      "citation": "AIRecruiter.co Research (2026). Hiring Effort Benchmarks by Function. AIRecruiter.co. https://airecruiter.co/blog/time-to-hire-benchmarks-2026",
-      "sources": [
         {
           "id": "shrm-17puq",
           "publisher": "SHRM",
@@ -6444,67 +6340,126 @@
           "year": "2025"
         },
         {
-          "id": "ashby-1xx2w",
-          "publisher": "Ashby",
-          "title": "Recruiting Operations Benchmarks: Talent Trends",
-          "url": "https://www.ashbyhq.com/talent-trends-report/reports/recruiting-operations-benchmarks-talent-trends"
+          "id": "korn-ferry-1spu9",
+          "publisher": "Korn Ferry",
+          "title": "Talent Acquisition Trends",
+          "url": "https://www.kornferry.com/insights/featured-topics/talent-recruitment/talent-acquisition-trends"
         },
         {
-          "id": "ashby-1vx29",
-          "publisher": "Ashby",
-          "title": "2026 Recruiter Productivity Trends Report",
-          "url": "https://www.ashbyhq.com/talent-trends-report/reports/2023-recruiter-productivity-trends-report",
-          "year": "2026"
+          "id": "crunchbase-news-6suac",
+          "publisher": "Crunchbase News",
+          "title": "AI HR Software Startup Funding and M&A",
+          "url": "https://news.crunchbase.com/venture/ai-hr-software-startup-funding-ma"
         },
-        {
-          "id": "optifai-3jd0h",
-          "publisher": "Optifai",
-          "title": "Sales Team Turnover Rate",
-          "url": "https://optif.ai/learn/questions/sales-team-turnover-rate"
-        },
-        {
-          "id": "xactly-citing-hubspot-139hm",
-          "publisher": "Xactly (citing HubSpot)",
-          "title": "Xactly (citing HubSpot)",
-          "url": "https://www.xactlycorp.com/blog/motivation/sales-turnover-statistics"
-        },
-        {
-          "id": "eweek-k458p",
-          "publisher": "eWeek",
-          "title": "AI Job Applications Flood LinkedIn",
-          "url": "https://www.eweek.com/news/ai-job-applications-linkedin"
-        },
-        {
-          "id": "greenhouse-txr7j",
-          "publisher": "Greenhouse",
-          "title": "63% of Job Seekers Have Faced an AI Interview, Most Haven't Had a Good One Yet",
-          "url": "https://www.greenhouse.com/newsroom/63-of-job-seekers-have-faced-an-ai-interview-most-havent-had-a-good-one-yet"
-        },
-        {
-          "id": "mitratech-jbpp9",
-          "publisher": "Mitratech",
-          "title": "What 2025 Time-to-Fill Benchmarks Reveal About Hiring Agility and Risk",
-          "url": "https://mitratech.com/resource-hub/blog/what-2025-time-to-fill-benchmarks-reveal-about-hiring-agility-and-risk",
-          "year": "2025"
-        }
-      ]
-    },
-    {
-      "slug": "ats-market-share-2026",
-      "title": "ATS Market Structure and Buyer Sentiment 2026",
-      "url": "https://airecruiter.co/blog/ats-market-share-2026",
-      "author": "AIRecruiter.co Research",
-      "datePublished": "2026-03-30",
-      "excerpt": "The leaders, the challengers, and the consolidation reshaping the applicant-tracking system market.",
-      "readMinutes": 47,
-      "citation": "AIRecruiter.co Research (2026). ATS Market Structure and Buyer Sentiment 2026. AIRecruiter.co. https://airecruiter.co/blog/ats-market-share-2026",
-      "sources": [
         {
           "id": "venero-capital-1ccjd",
           "publisher": "Venero Capital",
           "title": "WorkTech Consolidation: Key Insights from HR Tech Jungle 2025",
           "url": "https://www.venerocapitaladvisors.com/news/worktech-consolidation-key-insights-from-hr-tech-jungle-2025",
           "year": "2025"
+        },
+        {
+          "id": "techcrunch-mercor-2b-2026",
+          "publisher": "TechCrunch",
+          "title": "Mercor is in talks for a $20B valuation",
+          "url": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
+          "year": "2026"
+        },
+        {
+          "id": "the-hire-hub-11kp1",
+          "publisher": "The Hire Hub",
+          "title": "Deepfake Candidates: How to Protect Your Hiring Process",
+          "url": "https://www.thehirehub.ai/blog/deepfake-candidates-how-to-protect-your-hiring-process"
+        },
+        {
+          "id": "greenhouse-thiwf",
+          "publisher": "Greenhouse",
+          "title": "An AI Trust Crisis: 70% of Hiring Managers Trust AI, Only 8% of Job Seekers Call It Fair",
+          "url": "https://www.greenhouse.com/newsroom/an-ai-trust-crisis-70-of-hiring-managers-trust-ai-to-make-faster-and-better-hiring-decisions-only-8-of-job-seekers-call-it-fair"
+        },
+        {
+          "id": "recruit-ai-suite-1vxf0",
+          "publisher": "Recruit AI Suite",
+          "title": "LinkedIn Recruiting Statistics 2026",
+          "url": "https://copilot.recruitaisuite.com/blog/linkedin-recruiting-statistics-2026",
+          "year": "2026"
+        }
+      ]
+    },
+    {
+      "slug": "ta-market-map-2026",
+      "title": "The Talent Acquisition Tech Market Map: 2026",
+      "url": "https://airecruiter.co/blog/ta-market-map-2026",
+      "author": "AIRecruiter.co Research",
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-10-15",
+      "correction": "Publication date corrected. This report was dated June 1, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. It has since been revised: figures from after that date, such as Mercor's July 2026 valuation talks, were added later.",
+      "excerpt": "A research-grade map of the recruiting technology landscape across ten categories, the consolidation wave reshaping it, the funding behind it, and a framework buyers can use to navigate it without overpaying or overbuying.",
+      "readMinutes": 51,
+      "citation": "AIRecruiter.co Research (2026). The Talent Acquisition Tech Market Map: 2026. AIRecruiter.co. https://airecruiter.co/blog/ta-market-map-2026",
+      "sources": [
+        {
+          "id": "shrm-1jkz5",
+          "publisher": "SHRM",
+          "title": "AI in HR (2025 Talent Trends)",
+          "url": "https://www.shrm.org/topics-tools/research/2025-talent-trends/ai-in-hr",
+          "year": "2025"
+        },
+        {
+          "id": "hr-dive-1t2ee",
+          "publisher": "HR Dive",
+          "title": "Recruiters increasing their AI usage as pressure to hire intensifies",
+          "url": "https://www.hrdive.com/news/recruiters-increasing-their-ai-usage-as-pressure-to-hire-intensifies/809051"
+        },
+        {
+          "id": "linkedin-talent-solutions-23mrg",
+          "publisher": "LinkedIn (Talent Solutions)",
+          "title": "LinkedIn (Talent Solutions)",
+          "url": "https://business.linkedin.com/hire/hiring-assistant"
+        },
+        {
+          "id": "selectsoftware-reviews-uti7z",
+          "publisher": "SelectSoftware Reviews",
+          "title": "AI Recruiting Statistics",
+          "url": "https://www.selectsoftwarereviews.com/blog/ai-recruiting-statistics"
+        },
+        {
+          "id": "venero-capital-1ccjd",
+          "publisher": "Venero Capital",
+          "title": "WorkTech Consolidation: Key Insights from HR Tech Jungle 2025",
+          "url": "https://www.venerocapitaladvisors.com/news/worktech-consolidation-key-insights-from-hr-tech-jungle-2025",
+          "year": "2025"
+        },
+        {
+          "id": "workday-10q-q3-fy2026",
+          "publisher": "Workday",
+          "title": "Workday Form 10-Q for the quarter ended October 31, 2025",
+          "url": "https://s21.q4cdn.com/950027458/files/doc_financials/2026/q3/WDAY-Workday-Inc-10-Q-2025-11-26-pdf_.pdf",
+          "year": "2025"
+        },
+        {
+          "id": "workday-1oo4m",
+          "publisher": "Workday",
+          "title": "Workday",
+          "url": "https://newsroom.workday.com/2025-10-01-Workday-Completes-Acquisition-of-Paradox"
+        },
+        {
+          "id": "global-legal-chronicle-1fuhn",
+          "publisher": "Global Legal Chronicle",
+          "title": "Workday Acquires Paradox in $1 Billion Deal",
+          "url": "https://globallegalchronicle.com/workday-acquires-paradox-in-1-billion-deal"
+        },
+        {
+          "id": "hro-today-hr-tech-report-10x9g",
+          "publisher": "HRO Today (HR Tech Report)",
+          "title": "HRO Today (HR Tech Report)",
+          "url": "https://www.hrotoday.com/category/market-intelligence/research/hr-tech-report"
+        },
+        {
+          "id": "linkedin-future-of-recruiting-1ihw1",
+          "publisher": "LinkedIn (Future of Recruiting)",
+          "title": "LinkedIn (Future of Recruiting)",
+          "url": "https://business.linkedin.com/talent-solutions/resources/future-of-recruiting"
         },
         {
           "id": "icims-dic44",
@@ -6514,53 +6469,41 @@
           "year": "2025"
         },
         {
-          "id": "eightfold-ai-1m8me",
-          "publisher": "Eightfold AI",
-          "title": "The ATS Reimagined: New Research on What's Working, What's Not, and What's Next",
-          "url": "https://eightfold.ai/learn/the-ats-reimagined-new-research-on-whats-working-whats-not-and-whats-next"
+          "id": "paradox-zblzn",
+          "publisher": "Paradox",
+          "title": "Why Paradox",
+          "url": "https://www.paradox.ai/why-paradox"
         },
         {
-          "id": "ashby-vkxwh",
-          "publisher": "Ashby",
-          "title": "Ashby Series D",
-          "url": "https://www.ashbyhq.com/blog/culture/series-d"
+          "id": "techcrunch-145zp",
+          "publisher": "TechCrunch",
+          "title": "Mercor quintuples valuation to $10B with $350M Series C",
+          "url": "https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c"
         },
         {
-          "id": "workday-hiredscore-customer-story-19pcq",
-          "publisher": "Workday (HiredScore customer story)",
-          "title": "Workday (HiredScore customer story)",
-          "url": "https://www.workday.com/en-us/customer-stories/a-h/automotive-company-zero-emissions-talent-pipeline.html"
+          "id": "techcrunch-1tvb9",
+          "publisher": "TechCrunch",
+          "title": "Sources: AI Training Startup Mercor Eyes $10B Valuation on $450M Run Rate",
+          "url": "https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450m-run-rate"
         },
         {
-          "id": "smartrecruiters-cfec7",
-          "publisher": "SmartRecruiters",
-          "title": "SAP Completes Acquisition of SmartRecruiters",
-          "url": "https://www.smartrecruiters.com/news/sap-completes-acquisition-of-smartrecruiters"
+          "id": "techcrunch-mercor-2b-2026",
+          "publisher": "TechCrunch",
+          "title": "Mercor is in talks for a $20B valuation",
+          "url": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
+          "year": "2026"
         },
         {
-          "id": "cio-15iit",
-          "publisher": "CIO",
-          "title": "SAP Sets Timeline to Replace SuccessFactors Recruiting Module with SmartRecruiters",
-          "url": "https://www.cio.com/article/4068172/sap-sets-timeline-to-replace-successfactors-recruiting-module-with-smartrecruiters.html"
+          "id": "hr-executive-1jfwt",
+          "publisher": "HR Executive",
+          "title": "Why Investors Are Pouring Billions Into These HR Tech Categories",
+          "url": "https://hrexecutive.com/why-investors-are-pouring-billions-into-these-hr-tech-categories"
         },
         {
-          "id": "oracle-1hmfz",
-          "publisher": "Oracle",
-          "title": "Oracle Named a Leader in 2025 Gartner Magic Quadrant for Talent Acquisition (Recruiting) Suites",
-          "url": "https://www.oracle.com/news/announcement/oracle-named-a-leader-in-2025-gartner-magic-quadrant-for-talent-acquisition-recruiting-suites-2025-04-09",
-          "year": "2025"
-        },
-        {
-          "id": "workday-8x0qx",
-          "publisher": "Workday",
-          "title": "Workday Homepage",
-          "url": "https://www.workday.com/en-us/homepage.html"
-        },
-        {
-          "id": "workday-adventhealth-orchestration",
-          "publisher": "Workday",
-          "title": "AdventHealth's HR Orchestration Journey",
-          "url": "https://blog.workday.com/en-us/adventhealths-hr-orchestration-journey.html"
+          "id": "the-hire-hub-11kp1",
+          "publisher": "The Hire Hub",
+          "title": "Deepfake Candidates: How to Protect Your Hiring Process",
+          "url": "https://www.thehirehub.ai/blog/deepfake-candidates-how-to-protect-your-hiring-process"
         }
       ]
     },
@@ -6569,7 +6512,9 @@
       "title": "Talent Marketplaces and AI-Native Hiring: Sizing to 2028",
       "url": "https://airecruiter.co/blog/talent-marketplaces-forecast-2026",
       "author": "AIRecruiter.co Research",
-      "datePublished": "2026-03-12",
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-10-15",
+      "correction": "Publication date corrected. This report was dated March 12, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. It has since been revised: figures from after that date, such as Mercor's July 2026 valuation talks, were added later.",
       "excerpt": "Market sizing and a forecast for freelance, contingent, employer-of-record, and AI-data-labor platforms.",
       "readMinutes": 47,
       "citation": "AIRecruiter.co Research (2026). Talent Marketplaces and AI-Native Hiring: Sizing to 2028. AIRecruiter.co. https://airecruiter.co/blog/talent-marketplaces-forecast-2026",
@@ -6695,6 +6640,71 @@
           "publisher": "Marketing AI Institute",
           "title": "Mercor Valuation",
           "url": "https://www.marketingaiinstitute.com/blog/mercor-valuation"
+        }
+      ]
+    },
+    {
+      "slug": "time-to-hire-benchmarks-2026",
+      "title": "Hiring Effort Benchmarks by Function",
+      "url": "https://airecruiter.co/blog/time-to-hire-benchmarks-2026",
+      "author": "AIRecruiter.co Research",
+      "datePublished": "2026-06-03",
+      "dateModified": "2026-10-15",
+      "correction": "Publication date corrected. This report was dated April 30, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here.",
+      "excerpt": "Interview load, time to fill, and applications per hire across engineering, product, data, sales, and support.",
+      "readMinutes": 47,
+      "citation": "AIRecruiter.co Research (2026). Hiring Effort Benchmarks by Function. AIRecruiter.co. https://airecruiter.co/blog/time-to-hire-benchmarks-2026",
+      "sources": [
+        {
+          "id": "shrm-17puq",
+          "publisher": "SHRM",
+          "title": "2025 Talent Acquisition Benchmarking Report",
+          "url": "https://www.shrm.org/topics-tools/research/2025-recruiting-benchmarking",
+          "year": "2025"
+        },
+        {
+          "id": "ashby-1xx2w",
+          "publisher": "Ashby",
+          "title": "Recruiting Operations Benchmarks: Talent Trends",
+          "url": "https://www.ashbyhq.com/talent-trends-report/reports/recruiting-operations-benchmarks-talent-trends"
+        },
+        {
+          "id": "ashby-1vx29",
+          "publisher": "Ashby",
+          "title": "2026 Recruiter Productivity Trends Report",
+          "url": "https://www.ashbyhq.com/talent-trends-report/reports/2023-recruiter-productivity-trends-report",
+          "year": "2026"
+        },
+        {
+          "id": "optifai-3jd0h",
+          "publisher": "Optifai",
+          "title": "Sales Team Turnover Rate",
+          "url": "https://optif.ai/learn/questions/sales-team-turnover-rate"
+        },
+        {
+          "id": "xactly-citing-hubspot-139hm",
+          "publisher": "Xactly (citing HubSpot)",
+          "title": "Xactly (citing HubSpot)",
+          "url": "https://www.xactlycorp.com/blog/motivation/sales-turnover-statistics"
+        },
+        {
+          "id": "eweek-k458p",
+          "publisher": "eWeek",
+          "title": "AI Job Applications Flood LinkedIn",
+          "url": "https://www.eweek.com/news/ai-job-applications-linkedin"
+        },
+        {
+          "id": "greenhouse-txr7j",
+          "publisher": "Greenhouse",
+          "title": "63% of Job Seekers Have Faced an AI Interview, Most Haven't Had a Good One Yet",
+          "url": "https://www.greenhouse.com/newsroom/63-of-job-seekers-have-faced-an-ai-interview-most-havent-had-a-good-one-yet"
+        },
+        {
+          "id": "mitratech-jbpp9",
+          "publisher": "Mitratech",
+          "title": "What 2025 Time-to-Fill Benchmarks Reveal About Hiring Agility and Risk",
+          "url": "https://mitratech.com/resource-hub/blog/what-2025-time-to-fill-benchmarks-reveal-about-hiring-agility-and-risk",
+          "year": "2025"
         }
       ]
     }
