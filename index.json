@@ -4,7 +4,7 @@
   "url": "https://airecruiter.co/data",
   "methodology": "https://airecruiter.co/methodology",
   "sourceRegistry": "https://airecruiter.co/research/sources",
-  "dateModified": "2026-10-15",
+  "dateModified": "2026-10-19",
   "citation": "The AIRecruiter.co Index. AIRecruiter.co, accessed [date accessed]. https://airecruiter.co/data. Archived: https://doi.org/10.5281/zenodo.23250163",
   "identifier": "https://doi.org/10.5281/zenodo.23250163",
   "archive": "https://zenodo.org/records/23250163",
@@ -15,7 +15,7 @@
     "statistics": 116,
     "trackers": 6,
     "reports": 16,
-    "citedSources": 201,
+    "citedSources": 200,
     "confidence": {
       "verified": 52,
       "reported": 51,
@@ -482,13 +482,6 @@
       "kind": "vendor"
     },
     {
-      "id": "pin-1wl2w",
-      "publisher": "Pin",
-      "title": "Semantic Search in Recruitment",
-      "url": "https://www.pin.com/blog/semantic-search-recruitment",
-      "kind": "vendor"
-    },
-    {
       "id": "pin-gh41d",
       "publisher": "Pin",
       "title": "LinkedIn Recruiter New Features",
@@ -711,21 +704,6 @@
       "title": "SeekOut Software Pricing & Plans 2026",
       "url": "https://www.vendr.com/marketplace/seekout",
       "kind": "industry"
-    },
-    {
-      "id": "the-hire-hub-11kp1",
-      "publisher": "The Hire Hub",
-      "title": "Deepfake Candidates: How to Protect Your Hiring Process",
-      "url": "https://www.thehirehub.ai/blog/deepfake-candidates-how-to-protect-your-hiring-process",
-      "kind": "vendor"
-    },
-    {
-      "id": "the-hire-hub-1l933",
-      "publisher": "The Hire Hub",
-      "title": "Beyond the Resume: Why Semantic Search Is the Future of Tech Sourcing in 2026",
-      "url": "https://www.thehirehub.ai/blog/beyond-the-resume-why-semantic-search-is-the-future-of-tech-sourcing-in-2026",
-      "kind": "industry",
-      "year": "2026"
     },
     {
       "id": "the-motley-fool-184tr",
@@ -1476,6 +1454,22 @@
       "kind": "company"
     },
     {
+      "id": "getreal-deepfake-readiness-2025",
+      "publisher": "GetReal Security",
+      "title": "New GetReal Security Research: 41% of Enterprises Surveyed Report Having Hired and Onboarded Fraudulent Candidates",
+      "url": "https://www.prnewswire.com/news-releases/new-getreal-security-research-41-of-enterprises-surveyed-report-having-hired-and-onboarded-fraudulent-candidates-302638982.html",
+      "kind": "vendor",
+      "year": "2025"
+    },
+    {
+      "id": "hbs-hidden-workers-2021",
+      "publisher": "Harvard Business School and Accenture",
+      "title": "Hidden Workers: Untapped Talent",
+      "url": "https://www.hbs.edu/ris/Publication%20Files/hiddenworkers09032021_Fuller_white_paper_33a2047f-41dd-47b1-9a8d-bd08cf3bfa94.pdf",
+      "kind": "research",
+      "year": "2021"
+    },
+    {
       "id": "linkedin-global-recruiting-trends-2018",
       "publisher": "LinkedIn Talent Solutions",
       "title": "Global Recruiting Trends 2018: The 4 Ideas Changing How You Hire",
@@ -2008,14 +2002,14 @@
     },
     {
       "id": "sourcing-top-ai-use-case",
-      "label": "Recruiters citing sourcing as top AI use",
+      "label": "Recruiters saying AI helps most with sourcing",
       "value": 58,
       "unit": "%",
       "formatted": "58%",
       "asOf": "2018",
       "topic": "sourcing-channels",
       "confidence": "reported",
-      "context": "In LinkedIn's 2018 global survey, 58% of recruiters using AI named candidate sourcing its single most useful application, ahead of screening and nurturing.",
+      "context": "In LinkedIn's 2018 global survey of recruiters and hiring managers, 58% said AI is most helpful for sourcing candidates, narrowly ahead of screening (56%) and nurturing candidates (55%).",
       "sources": [
         {
           "id": "linkedin-global-recruiting-trends-2018",
@@ -6083,8 +6077,8 @@
       "url": "https://airecruiter.co/blog/sourcing-landscape-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-03",
-      "dateModified": "2026-10-15",
-      "correction": "Publication date corrected. This report was dated May 14, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. Earlier correction, October 7, 2026: Noted that Headway, a mental-health care company, acquired Tezi in early 2026, so its agent Max is no longer sold as a recruiting product. Fetcher's prices are now cited to its own pricing page, which also lists a one-seat Self-serve plan at $115 a month, so the accessible tier starts there rather than at $379.",
+      "dateModified": "2026-10-19",
+      "correction": "Corrected October 19, 2026: Removed two figures we could not trace to a primary source: a claim that semantic sourcing tools expand candidate pools by 340%, attributed on vendor blogs to unnamed Gartner benchmarks (Gartner's own 2026 talent acquisition trends release contains no such figure), and a claim that 40% of viable mid- and junior-level candidates come from sources keyword tools miss. The LinkedIn 2018 survey figure now matches LinkedIn's wording (58% said AI helps most with sourcing, narrowly ahead of screening at 56%), and the hidden-workers figure now quotes the Harvard Business School study itself. Earlier correction, October 15, 2026: Publication date corrected. This report was dated May 14, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. Earlier correction, October 7, 2026: Noted that Headway, a mental-health care company, acquired Tezi in early 2026, so its agent Max is no longer sold as a recruiting product. Fetcher's prices are now cited to its own pricing page, which also lists a one-seat Self-serve plan at $115 a month, so the accessible tier starts there rather than at $379.",
       "excerpt": "A side-by-side analysis of sourcing and candidate-discovery platforms, with selection criteria for in-house and agency teams.",
       "readMinutes": 55,
       "citation": "AIRecruiter.co Research (2026). The Sourcing Tools Landscape: 2026 Buyer Guide. AIRecruiter.co. https://airecruiter.co/blog/sourcing-landscape-2026",
@@ -6132,12 +6126,6 @@
           "publisher": "DHRMap",
           "title": "Talent intelligence leader Loxo raises $115M to revolutionize AI recruiting with Tritium Partners investment",
           "url": "https://www.dhrmap.com/news/talent-intelligence-leader-loxo-raises-115m-to-revolutionize-ai-recruiting-with-tritium-partners-investment"
-        },
-        {
-          "id": "pin-1wl2w",
-          "publisher": "Pin",
-          "title": "Semantic Search in Recruitment",
-          "url": "https://www.pin.com/blog/semantic-search-recruitment"
         },
         {
           "id": "pin-gh41d",
@@ -6207,11 +6195,11 @@
           "year": "2026"
         },
         {
-          "id": "the-hire-hub-1l933",
-          "publisher": "The Hire Hub",
-          "title": "Beyond the Resume: Why Semantic Search Is the Future of Tech Sourcing in 2026",
-          "url": "https://www.thehirehub.ai/blog/beyond-the-resume-why-semantic-search-is-the-future-of-tech-sourcing-in-2026",
-          "year": "2026"
+          "id": "hbs-hidden-workers-2021",
+          "publisher": "Harvard Business School and Accenture",
+          "title": "Hidden Workers: Untapped Talent",
+          "url": "https://www.hbs.edu/ris/Publication%20Files/hiddenworkers09032021_Fuller_white_paper_33a2047f-41dd-47b1-9a8d-bd08cf3bfa94.pdf",
+          "year": "2021"
         },
         {
           "id": "juicebox-hshwr",
@@ -6257,8 +6245,8 @@
       "url": "https://airecruiter.co/blog/state-of-ai-recruiting-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-03",
-      "dateModified": "2026-10-15",
-      "correction": "Publication date corrected. This report was dated June 1, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. It has since been revised: figures from after that date, such as Mercor's July 2026 valuation talks, were added later. Earlier correction, September 28, 2026: Frontier-model references now name OpenAI's GPT-6 Astra (introduced September 3, 2026, succeeding GPT-5.6) and Anthropic's Claude Opus 5.5 (released September 22, 2026, succeeding Claude Opus 5). The labor-market snapshot is the June 2026 JOLTS reading (released August 4, 2026), refreshed on August 5, 2026.",
+      "dateModified": "2026-10-19",
+      "correction": "Corrected October 19, 2026: The hiring-fraud figure now quotes its original source: 41% of IT, cybersecurity, risk and fraud leaders at organizations with at least 1,000 employees said their company had hired and onboarded a fraudulent candidate (a September 2025 survey of 668 leaders by GetReal Security, a deepfake-detection company). We had cited it through a recruiting-software blog as '41% of companies have already hired a fraudulent candidate without knowing it', which overstated what the survey measured. Earlier correction, October 15, 2026: Publication date corrected. This report was dated June 1, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. It has since been revised: figures from after that date, such as Mercor's July 2026 valuation talks, were added later. Earlier correction, September 28, 2026: Frontier-model references now name OpenAI's GPT-6 Astra (introduced September 3, 2026, succeeding GPT-5.6) and Anthropic's Claude Opus 5.5 (released September 22, 2026, succeeding Claude Opus 5). The labor-market snapshot is the June 2026 JOLTS reading (released August 4, 2026), refreshed on August 5, 2026.",
       "excerpt": "AI adoption in recruiting jumped about 65% in a year, with 43% of organizations now using it and 52% of talent leaders planning to add autonomous agents. This is a data-driven look at what is working, what is hype, and what talent leaders should do next.",
       "readMinutes": 51,
       "citation": "AIRecruiter.co Research (2026). The State of AI in Recruiting: 2026. AIRecruiter.co. https://airecruiter.co/blog/state-of-ai-recruiting-2026",
@@ -6366,16 +6354,23 @@
           "year": "2026"
         },
         {
-          "id": "the-hire-hub-11kp1",
-          "publisher": "The Hire Hub",
-          "title": "Deepfake Candidates: How to Protect Your Hiring Process",
-          "url": "https://www.thehirehub.ai/blog/deepfake-candidates-how-to-protect-your-hiring-process"
+          "id": "checkr-1b467",
+          "publisher": "Checkr",
+          "title": "The Hiring Hoax: What 3,000 Managers Revealed about Hiring Fraud",
+          "url": "https://checkr.com/resources/articles/hiring-hoax-manager-survey-2025"
         },
         {
           "id": "greenhouse-thiwf",
           "publisher": "Greenhouse",
           "title": "An AI Trust Crisis: 70% of Hiring Managers Trust AI, Only 8% of Job Seekers Call It Fair",
           "url": "https://www.greenhouse.com/newsroom/an-ai-trust-crisis-70-of-hiring-managers-trust-ai-to-make-faster-and-better-hiring-decisions-only-8-of-job-seekers-call-it-fair"
+        },
+        {
+          "id": "getreal-deepfake-readiness-2025",
+          "publisher": "GetReal Security",
+          "title": "New GetReal Security Research: 41% of Enterprises Surveyed Report Having Hired and Onboarded Fraudulent Candidates",
+          "url": "https://www.prnewswire.com/news-releases/new-getreal-security-research-41-of-enterprises-surveyed-report-having-hired-and-onboarded-fraudulent-candidates-302638982.html",
+          "year": "2025"
         },
         {
           "id": "recruit-ai-suite-1vxf0",
@@ -6392,8 +6387,8 @@
       "url": "https://airecruiter.co/blog/ta-market-map-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-03",
-      "dateModified": "2026-10-15",
-      "correction": "Publication date corrected. This report was dated June 1, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. It has since been revised: figures from after that date, such as Mercor's July 2026 valuation talks, were added later.",
+      "dateModified": "2026-10-19",
+      "correction": "Corrected October 19, 2026: The hiring-fraud figure now quotes its original source: 41% of IT, cybersecurity, risk and fraud leaders at organizations with at least 1,000 employees said their company had hired and onboarded a fraudulent candidate (a September 2025 survey of 668 leaders by GetReal Security, a deepfake-detection company). We had cited it through a recruiting-software blog as '41% of companies have already hired a fraudulent candidate without knowing it', which overstated what the survey measured. Earlier correction, October 15, 2026: Publication date corrected. This report was dated June 1, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. It has since been revised: figures from after that date, such as Mercor's July 2026 valuation talks, were added later.",
       "excerpt": "A research-grade map of the recruiting technology landscape across ten categories, the consolidation wave reshaping it, the funding behind it, and a framework buyers can use to navigate it without overpaying or overbuying.",
       "readMinutes": 51,
       "citation": "AIRecruiter.co Research (2026). The Talent Acquisition Tech Market Map: 2026. AIRecruiter.co. https://airecruiter.co/blog/ta-market-map-2026",
@@ -6500,10 +6495,17 @@
           "url": "https://hrexecutive.com/why-investors-are-pouring-billions-into-these-hr-tech-categories"
         },
         {
-          "id": "the-hire-hub-11kp1",
-          "publisher": "The Hire Hub",
-          "title": "Deepfake Candidates: How to Protect Your Hiring Process",
-          "url": "https://www.thehirehub.ai/blog/deepfake-candidates-how-to-protect-your-hiring-process"
+          "id": "gartner-9o5le",
+          "publisher": "Gartner",
+          "title": "Gartner",
+          "url": "https://www.gartner.com/en/newsroom/press-releases/2025-07-31-gartner-survey-shows-just-26-percent-of-job-applicants-trust-ai-will-fairly-evaluate-them"
+        },
+        {
+          "id": "getreal-deepfake-readiness-2025",
+          "publisher": "GetReal Security",
+          "title": "New GetReal Security Research: 41% of Enterprises Surveyed Report Having Hired and Onboarded Fraudulent Candidates",
+          "url": "https://www.prnewswire.com/news-releases/new-getreal-security-research-41-of-enterprises-surveyed-report-having-hired-and-onboarded-fraudulent-candidates-302638982.html",
+          "year": "2025"
         }
       ]
     },
