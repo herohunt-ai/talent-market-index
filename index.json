@@ -4,7 +4,7 @@
   "url": "https://airecruiter.co/data",
   "methodology": "https://airecruiter.co/methodology",
   "sourceRegistry": "https://airecruiter.co/research/sources",
-  "dateModified": "2026-10-19",
+  "dateModified": "2026-10-20",
   "citation": "The AIRecruiter.co Index. AIRecruiter.co, accessed [date accessed]. https://airecruiter.co/data. Archived: https://doi.org/10.5281/zenodo.23250163",
   "identifier": "https://doi.org/10.5281/zenodo.23250163",
   "archive": "https://zenodo.org/records/23250163",
@@ -12,13 +12,13 @@
   "licenseNote": "Free to cite and reuse with attribution to AIRecruiter.co and a link to the cited figure.",
   "temporalCoverage": "2000/2026",
   "counts": {
-    "statistics": 116,
+    "statistics": 113,
     "trackers": 6,
     "reports": 16,
-    "citedSources": 200,
+    "citedSources": 197,
     "confidence": {
       "verified": 52,
-      "reported": 51,
+      "reported": 48,
       "modeled": 13
     }
   },
@@ -482,13 +482,6 @@
       "kind": "vendor"
     },
     {
-      "id": "pin-gh41d",
-      "publisher": "Pin",
-      "title": "LinkedIn Recruiter New Features",
-      "url": "https://www.pin.com/blog/linkedin-recruiter-new-features",
-      "kind": "vendor"
-    },
-    {
       "id": "pr-newswire-16pr6",
       "publisher": "PR Newswire",
       "title": "ConverzAI Secures $16M Series A to Transform Recruitment with AI-Powered Virtual Recruiters",
@@ -508,14 +501,6 @@
       "title": "Justice Department Investigates Allegations That Deel Recruited Spy at Rival Firm Rippling",
       "url": "https://www.pymnts.com/legal/2026/justice-department-investigates-allegations-that-deel-recruited-spy-at-rival-firm-rippling",
       "kind": "news"
-    },
-    {
-      "id": "recruit-ai-suite-1vxf0",
-      "publisher": "Recruit AI Suite",
-      "title": "LinkedIn Recruiting Statistics 2026",
-      "url": "https://copilot.recruitaisuite.com/blog/linkedin-recruiting-statistics-2026",
-      "kind": "vendor",
-      "year": "2026"
     },
     {
       "id": "recruiter-daily-h995o",
@@ -552,13 +537,6 @@
       "title": "SeekOut",
       "url": "https://www.seekout.com",
       "kind": "company"
-    },
-    {
-      "id": "selectsoftware-reviews-uti7z",
-      "publisher": "SelectSoftware Reviews",
-      "title": "AI Recruiting Statistics",
-      "url": "https://www.selectsoftwarereviews.com/blog/ai-recruiting-statistics",
-      "kind": "industry"
     },
     {
       "id": "shrm-1jkz5",
@@ -1133,13 +1111,6 @@
       "kind": "news"
     },
     {
-      "id": "hypr-1i4kc",
-      "publisher": "HYPR",
-      "title": "HR Interview & Onboarding Fraud Guide",
-      "url": "https://www.hypr.com/blog/hr-interview-onboarding-fraud-guide",
-      "kind": "vendor"
-    },
-    {
       "id": "mordor-intelligence-mdkl7",
       "publisher": "Mordor Intelligence",
       "title": "Identity Verification for Employee Onboarding Market",
@@ -1251,14 +1222,6 @@
       "publisher": "MarTech",
       "title": "Gartner: 40% of agentic AI projects will fail, making humans indispensable",
       "url": "https://martech.org/gartner-40-of-agentic-ai-projects-will-fail-making-humans-indispensable/",
-      "kind": "industry",
-      "year": "2026"
-    },
-    {
-      "id": "incruiter-12b60",
-      "publisher": "InCruiter",
-      "title": "AI in Recruitment 2026: Trends, Stats, What Works",
-      "url": "https://incruiter.com/blog/ai-in-recruitment-2026-trends-stats-what-works/",
       "kind": "industry",
       "year": "2026"
     },
@@ -1526,6 +1489,22 @@
       "year": "2026"
     },
     {
+      "id": "hypr-sopia-2025",
+      "publisher": "HYPR",
+      "title": "HYPR 2025 State of Passwordless Identity Assurance Report (announcement)",
+      "url": "https://www.hypr.com/press-releases/hypr-2025-state-of-passwordless-identity-assurance-report",
+      "kind": "industry",
+      "year": "2025"
+    },
+    {
+      "id": "venero-q3-2026-future-of-work",
+      "publisher": "Venero Capital Advisors",
+      "title": "Record M&A, repriced SaaS and AI everywhere: Venero's Q3 2026 Future of Work report",
+      "url": "https://www.venerocapitaladvisors.com/news/record-m-a-a-repriced-saas-market-and-ai-everywhere-veneros-q3-2026-future-of-work-report",
+      "kind": "industry",
+      "year": "2026"
+    },
+    {
       "id": "tezi-headway-acquisition-2026",
       "publisher": "Tezi",
       "title": "Headway acquires Tezi (Tezi's own announcement, archived; tezi.ai is offline)",
@@ -1701,14 +1680,14 @@
     },
     {
       "id": "genai-workload-reduction",
-      "label": "Workload cut for recruiters using GenAI",
+      "label": "Work week saved by TA pros using GenAI",
       "value": 20,
       "unit": "%",
       "formatted": "20%",
       "asOf": "2025",
       "topic": "ai-in-hiring",
       "confidence": "verified",
-      "context": "Recruiters using generative AI report a 20% drop in workload, equivalent to recovering one full workday every week.",
+      "context": "Talent acquisition professionals who are experimenting with or integrating generative AI report saving about 20% of their work week, roughly one full workday, in LinkedIn's survey of 1,271 recruiting professionals at manager level or above in 23 countries (September 2024).",
       "sources": [
         {
           "id": "linkedin-future-of-recruiting-2025-z3y17",
@@ -1809,29 +1788,6 @@
       ],
       "reports": [
         "https://airecruiter.co/blog/agency-benchmark-q2-2026"
-      ]
-    },
-    {
-      "id": "ai-human-time-to-hire-cut",
-      "label": "Time-to-hire cut with AI screen plus human interview",
-      "value": 40,
-      "unit": "%",
-      "formatted": "40%",
-      "asOf": "2026",
-      "topic": "hiring-speed",
-      "confidence": "reported",
-      "context": "Combining AI screening with human-led final interviews is reported to cut time-to-hire by 40% while improving retention, though the figure lacks a confirmable primary study.",
-      "sources": [
-        {
-          "id": "selectsoftware-reviews-uti7z",
-          "publisher": "SelectSoftware Reviews",
-          "title": "AI Recruiting Statistics",
-          "url": "https://www.selectsoftwarereviews.com/blog/ai-recruiting-statistics"
-        }
-      ],
-      "reports": [
-        "https://airecruiter.co/blog/state-of-ai-recruiting-2026",
-        "https://airecruiter.co/blog/ta-market-map-2026"
       ]
     },
     {
@@ -2025,14 +1981,15 @@
     },
     {
       "id": "worktech-quarterly-acquisitions",
-      "label": "Talent-tech acquisitions in Q3 2025",
+      "label": "WorkTech acquisitions in Q3 2025",
       "value": 110,
       "unit": "",
       "formatted": "110",
       "asOf": "Q3 2025",
       "topic": "recruiting-tech-market",
       "confidence": "verified",
-      "context": "The worktech sector recorded 110 acquisitions in Q3 2025, its largest quarterly volume on record amid 90-100 deals per quarter.",
+      "context": "Venero Capital counted 110 acquisitions of WorkTech (HR and work technology) companies in Q3 2025, consolidation it called at levels not seen in years, with 90 to 100 a quarter through 2025.",
+      "trendNote": "Venero counted 131 in Q3 2026, a record by its count, against 88 to 117 a quarter in the three years before",
       "sources": [
         {
           "id": "venero-capital-1ccjd",
@@ -2040,6 +1997,13 @@
           "title": "WorkTech Consolidation: Key Insights from HR Tech Jungle 2025",
           "url": "https://www.venerocapitaladvisors.com/news/worktech-consolidation-key-insights-from-hr-tech-jungle-2025",
           "year": "2025"
+        },
+        {
+          "id": "venero-q3-2026-future-of-work",
+          "publisher": "Venero Capital Advisors",
+          "title": "Record M&A, repriced SaaS and AI everywhere: Venero's Q3 2026 Future of Work report",
+          "url": "https://www.venerocapitaladvisors.com/news/record-m-a-a-repriced-saas-market-and-ai-everywhere-veneros-q3-2026-future-of-work-report",
+          "year": "2026"
         }
       ],
       "reports": [
@@ -2383,28 +2347,6 @@
       ],
       "reports": [
         "https://airecruiter.co/blog/time-to-hire-benchmarks-2026"
-      ]
-    },
-    {
-      "id": "ai-human-retention-lift",
-      "label": "Retention lift with AI screen plus human interview",
-      "value": 25,
-      "unit": "%",
-      "formatted": "25%",
-      "asOf": "2026",
-      "topic": "assessment-interview",
-      "confidence": "reported",
-      "context": "The combined AI-screening-plus-human-interview model is reported to lift first-year retention by 25%, a figure widely cited but lacking primary research.",
-      "sources": [
-        {
-          "id": "selectsoftware-reviews-uti7z",
-          "publisher": "SelectSoftware Reviews",
-          "title": "AI Recruiting Statistics",
-          "url": "https://www.selectsoftwarereviews.com/blog/ai-recruiting-statistics"
-        }
-      ],
-      "reports": [
-        "https://airecruiter.co/blog/state-of-ai-recruiting-2026"
       ]
     },
     {
@@ -3597,21 +3539,22 @@
     },
     {
       "id": "organizations-that-experienced-a-deepfak",
-      "label": "Organizations that experienced a deepfake incident in prior year",
+      "label": "Organizations hit by a deepfake attack in the past year",
       "value": 95,
       "unit": "%",
       "formatted": "95%",
-      "asOf": "2026",
+      "asOf": "2025",
       "topic": "candidate-trust",
       "confidence": "reported",
-      "context": "HYPR's report shows even organizations with defenses are getting hit: near-universal deepfake exposure and nearly 40% suffering a GenAI-related breach.",
-      "trendNote": "nearly 40% had a GenAI-related breach",
+      "context": "In HYPR's 2025 survey of 750 IT security decision-makers, 95% said their organization was hit by some form of deepfake attack in the past year, including altered images and manipulated live or recorded audio and video.",
+      "trendNote": "nearly 40% suffered a GenAI-related security incident",
       "sources": [
         {
-          "id": "hypr-1i4kc",
+          "id": "hypr-sopia-2025",
           "publisher": "HYPR",
-          "title": "HR Interview & Onboarding Fraud Guide",
-          "url": "https://www.hypr.com/blog/hr-interview-onboarding-fraud-guide"
+          "title": "HYPR 2025 State of Passwordless Identity Assurance Report (announcement)",
+          "url": "https://www.hypr.com/press-releases/hypr-2025-state-of-passwordless-identity-assurance-report",
+          "year": "2025"
         }
       ],
       "reports": [
@@ -3662,29 +3605,6 @@
       ],
       "reports": [
         "https://airecruiter.co/blog/hiring-fraud-deepfake-verification-stack-2026"
-      ]
-    },
-    {
-      "id": "cost-per-hire-reduction-from-ai-in-recru",
-      "label": "Cost-per-hire reduction from AI in recruiting",
-      "value": 30,
-      "unit": "%",
-      "formatted": "30%",
-      "asOf": "2026",
-      "topic": "people-analytics",
-      "confidence": "reported",
-      "context": "The average return organizations actually get, alongside about 31% faster hiring, well below the up-to-70% ceiling vendors advertise, though these figures are widely cited but lack a confirmable primary study.",
-      "sources": [
-        {
-          "id": "incruiter-12b60",
-          "publisher": "InCruiter",
-          "title": "AI in Recruitment 2026: Trends, Stats, What Works",
-          "url": "https://incruiter.com/blog/ai-in-recruitment-2026-trends-stats-what-works/",
-          "year": "2026"
-        }
-      ],
-      "reports": [
-        "https://airecruiter.co/blog/agentic-ai-recruiters-2026"
       ]
     },
     {
@@ -4315,6 +4235,29 @@
       "reports": [
         "https://airecruiter.co/blog/ai-interviewers-2026"
       ]
+    }
+  ],
+  "withdrawn": [
+    {
+      "id": "ai-human-time-to-hire-cut",
+      "label": "Time-to-hire cut with AI screen plus human interview",
+      "formatted": "40%",
+      "withdrawn": "2026-10-20",
+      "reason": "Traced to a staffing firm's marketing brochure (PrideStaff, 2025) that names no study or sample; the page it cites for the figure does not contain it. SelectSoftware Reviews, which we had cited, repeats the brochure."
+    },
+    {
+      "id": "ai-human-retention-lift",
+      "label": "Retention lift with AI screen plus human interview",
+      "formatted": "25%",
+      "withdrawn": "2026-10-20",
+      "reason": "Comes from the same brochure sentence as the 40% time-to-hire figure, with the same broken citation: no study, survey or sample behind it could be found."
+    },
+    {
+      "id": "cost-per-hire-reduction-from-ai-in-recru",
+      "label": "Cost-per-hire reduction from AI in recruiting",
+      "formatted": "30%",
+      "withdrawn": "2026-10-20",
+      "reason": "The vendor blog we cited (InCruiter) gives no source for it. The earliest version we found is an unsourced 2023 claim that AI 'can reduce cost-per-hire by up to 30%', which later posts restated as an average; the 31% faster hiring quoted beside it does not appear in the SHRM work it is credited to."
     }
   ],
   "trackers": [
@@ -5147,8 +5090,8 @@
       "url": "https://airecruiter.co/blog/ai-recruiting-statistics-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-08-31",
-      "dateModified": "2026-10-06",
-      "correction": "Updated the interview-validity figures to the 2022 re-analysis by Sackett and colleagues (0.42 structured, 0.19 unstructured). The 0.51 and 0.38 we quoted before are Schmidt and Hunter's 1998 estimates, which the newer research revises.",
+      "dateModified": "2026-10-20",
+      "correction": "Corrected October 20, 2026: The ROI section no longer presents a 30% cost-per-hire reduction and 31% faster hiring as the average result: neither traces to a study. Withdrew a 25% first-year retention figure for AI screening plus human interviews, which traces to a staffing firm's brochure whose cited source does not contain it; the paragraph now cites the Jabarian and Henkel field experiment. HYPR's deepfake figures now quote HYPR's own release, and the Q3 2025 acquisition count is labeled WorkTech, the wider sector Venero Capital counts. Earlier: Updated the interview-validity figures to the 2022 re-analysis by Sackett and colleagues (0.42 structured, 0.19 unstructured). The 0.51 and 0.38 we quoted before are Schmidt and Hunter's 1998 estimates, which the newer research revises.",
       "excerpt": "The definitive index of AI recruiting statistics for 2026: 75+ figures on adoption, ROI, the vendor market, fraud, and bias, each tied to a primary source.",
       "readMinutes": 54,
       "citation": "AIRecruiter.co Research (2026). AI Recruiting Statistics 2026: The Definitive Index. AIRecruiter.co. https://airecruiter.co/blog/ai-recruiting-statistics-2026",
@@ -5160,19 +5103,12 @@
       "url": "https://airecruiter.co/blog/agentic-ai-recruiters-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-07-13",
-      "dateModified": "2026-10-07",
-      "correction": "Noted that Headway, a mental-health care company, acquired Tezi in early 2026, so its agent Max is no longer sold as a recruiting product. Earlier updates: on September 28, 2026 the build-versus-buy section's frontier-model references moved to Anthropic's Claude Opus 5.5 (released September 22, 2026) and OpenAI's GPT-6 Astra (introduced September 3, 2026); on August 8, 2026 a correction fixed HeroHunt.ai's headquarters (Amsterdam, not San Francisco) and clarified the publisher disclosure.",
+      "dateModified": "2026-10-20",
+      "correction": "Corrected October 20, 2026: Withdrew figures we could not trace to a primary source: a 30% average cost-per-hire reduction with 31% faster hiring (an unsourced 2023 'up to 30%' restated as an average) and a projection credited to Gartner that 30% of recruitment teams will rely on AI agents by 2028 (not in the Gartner release it is credited to); the two charts built on them are removed. The ROI section now cites LinkedIn's survey directly and the Jabarian and Henkel field experiment. Earlier: Noted that Headway, a mental-health care company, acquired Tezi in early 2026, so its agent Max is no longer sold as a recruiting product. Earlier updates: on September 28, 2026 the build-versus-buy section's frontier-model references moved to Anthropic's Claude Opus 5.5 (released September 22, 2026) and OpenAI's GPT-6 Astra (introduced September 3, 2026); on August 8, 2026 a correction fixed HeroHunt.ai's headquarters (Amsterdam, not San Francisco) and clarified the publisher disclosure.",
       "excerpt": "A first-principles guide to autonomous AI recruiting agents in 2026: what they actually automate, the real players and funding, honest ROI, and where they break.",
       "readMinutes": 61,
       "citation": "AIRecruiter.co Research (2026). Agentic AI Recruiters: The 2026 Deep Guide. AIRecruiter.co. https://airecruiter.co/blog/agentic-ai-recruiters-2026",
       "sources": [
-        {
-          "id": "incruiter-12b60",
-          "publisher": "InCruiter",
-          "title": "AI in Recruitment 2026: Trends, Stats, What Works",
-          "url": "https://incruiter.com/blog/ai-in-recruitment-2026-trends-stats-what-works/",
-          "year": "2026"
-        },
         {
           "id": "fortune-1etrb",
           "publisher": "Fortune",
@@ -5214,6 +5150,12 @@
           "title": "Time-to-hire metrics and AI",
           "url": "https://www.pin.com/blog/time-to-hire-metrics-ai/",
           "year": "2026"
+        },
+        {
+          "id": "linkedin-future-of-recruiting-2025-z3y17",
+          "publisher": "LinkedIn (Future of Recruiting 2025)",
+          "title": "LinkedIn (Future of Recruiting 2025)",
+          "url": "https://www.linkedin.com/business/talent/blog/talent-acquisition/future-of-recruiting-2025"
         },
         {
           "id": "readysetexec-1xi7o",
@@ -5690,6 +5632,8 @@
       "url": "https://airecruiter.co/blog/hiring-fraud-deepfake-verification-stack-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-15",
+      "dateModified": "2026-10-20",
+      "correction": "Corrected October 20, 2026: The deepfake-loss figure now cites Surfshark's own count and says what it covers (all deepfake fraud, mostly investment scams, not hiring); the claim of single incidents above 680,000 dollars, which had no traceable source, is removed. HYPR's figures now quote its own release: 95% of organizations hit by a deepfake attack and nearly 40% by a GenAI-related security incident, in a survey of 750 IT security decision-makers.",
       "excerpt": "Hiring became a security problem in 2026. Inside the deepfake threat, the DPRK IT-worker pipeline, and the identity verification stack built in one quarter.",
       "readMinutes": 67,
       "citation": "AIRecruiter.co Research (2026). Hiring Fraud and the Verification Stack 2026. AIRecruiter.co. https://airecruiter.co/blog/hiring-fraud-deepfake-verification-stack-2026",
@@ -5755,10 +5699,11 @@
           "url": "https://fortune.com/2026/05/14/north-korea-it-workers-stealing-billions-financial-firms-next-target-crowdstrike"
         },
         {
-          "id": "hypr-1i4kc",
+          "id": "hypr-sopia-2025",
           "publisher": "HYPR",
-          "title": "HR Interview & Onboarding Fraud Guide",
-          "url": "https://www.hypr.com/blog/hr-interview-onboarding-fraud-guide"
+          "title": "HYPR 2025 State of Passwordless Identity Assurance Report (announcement)",
+          "url": "https://www.hypr.com/press-releases/hypr-2025-state-of-passwordless-identity-assurance-report",
+          "year": "2025"
         },
         {
           "id": "mordor-intelligence-mdkl7",
@@ -5924,10 +5869,10 @@
       "url": "https://airecruiter.co/blog/ats-market-share-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-03",
-      "dateModified": "2026-10-15",
-      "correction": "Publication date corrected. This report was dated March 30, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here.",
+      "dateModified": "2026-10-20",
+      "correction": "Corrected October 20, 2026: The 94% figure on the value of applicant tracking software now cites its original source, Capterra's 2015 survey of 102 HR and talent professionals, and says what it measured (users saying the software improved their hiring process), instead of a review blog that worded it as 94% of recruiters; the 5.6x valuation multiple now links the Venero Capital page that states it. Earlier: Publication date corrected. This report was dated March 30, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here.",
       "excerpt": "The leaders, the challengers, and the consolidation reshaping the applicant-tracking system market.",
-      "readMinutes": 47,
+      "readMinutes": 48,
       "citation": "AIRecruiter.co Research (2026). ATS Market Structure and Buyer Sentiment 2026. AIRecruiter.co. https://airecruiter.co/blog/ats-market-share-2026",
       "sources": [
         {
@@ -5936,6 +5881,13 @@
           "title": "WorkTech Consolidation: Key Insights from HR Tech Jungle 2025",
           "url": "https://www.venerocapitaladvisors.com/news/worktech-consolidation-key-insights-from-hr-tech-jungle-2025",
           "year": "2025"
+        },
+        {
+          "id": "venero-q3-2026-future-of-work",
+          "publisher": "Venero Capital Advisors",
+          "title": "Record M&A, repriced SaaS and AI everywhere: Venero's Q3 2026 Future of Work report",
+          "url": "https://www.venerocapitaladvisors.com/news/record-m-a-a-repriced-saas-market-and-ai-everywhere-veneros-q3-2026-future-of-work-report",
+          "year": "2026"
         },
         {
           "id": "icims-dic44",
@@ -6077,10 +6029,10 @@
       "url": "https://airecruiter.co/blog/sourcing-landscape-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-03",
-      "dateModified": "2026-10-19",
-      "correction": "Corrected October 19, 2026: Removed two figures we could not trace to a primary source: a claim that semantic sourcing tools expand candidate pools by 340%, attributed on vendor blogs to unnamed Gartner benchmarks (Gartner's own 2026 talent acquisition trends release contains no such figure), and a claim that 40% of viable mid- and junior-level candidates come from sources keyword tools miss. The LinkedIn 2018 survey figure now matches LinkedIn's wording (58% said AI helps most with sourcing, narrowly ahead of screening at 56%), and the hidden-workers figure now quotes the Harvard Business School study itself. Earlier correction, October 15, 2026: Publication date corrected. This report was dated May 14, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. Earlier correction, October 7, 2026: Noted that Headway, a mental-health care company, acquired Tezi in early 2026, so its agent Max is no longer sold as a recruiting product. Fetcher's prices are now cited to its own pricing page, which also lists a one-seat Self-serve plan at $115 a month, so the accessible tier starts there rather than at $379.",
+      "dateModified": "2026-10-20",
+      "correction": "Corrected October 20, 2026: LinkedIn Hiring Assistant results now cite LinkedIn's own September 2025 announcement instead of another vendor's blog, and hireEZ's source count cites hireEZ. Corrected October 19, 2026: Removed two figures we could not trace to a primary source: a claim that semantic sourcing tools expand candidate pools by 340%, attributed on vendor blogs to unnamed Gartner benchmarks (Gartner's own 2026 talent acquisition trends release contains no such figure), and a claim that 40% of viable mid- and junior-level candidates come from sources keyword tools miss. The LinkedIn 2018 survey figure now matches LinkedIn's wording (58% said AI helps most with sourcing, narrowly ahead of screening at 56%), and the hidden-workers figure now quotes the Harvard Business School study itself. Earlier correction, October 15, 2026: Publication date corrected. This report was dated May 14, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. Earlier correction, October 7, 2026: Noted that Headway, a mental-health care company, acquired Tezi in early 2026, so its agent Max is no longer sold as a recruiting product. Fetcher's prices are now cited to its own pricing page, which also lists a one-seat Self-serve plan at $115 a month, so the accessible tier starts there rather than at $379.",
       "excerpt": "A side-by-side analysis of sourcing and candidate-discovery platforms, with selection criteria for in-house and agency teams.",
-      "readMinutes": 55,
+      "readMinutes": 56,
       "citation": "AIRecruiter.co Research (2026). The Sourcing Tools Landscape: 2026 Buyer Guide. AIRecruiter.co. https://airecruiter.co/blog/sourcing-landscape-2026",
       "sources": [
         {
@@ -6126,12 +6078,6 @@
           "publisher": "DHRMap",
           "title": "Talent intelligence leader Loxo raises $115M to revolutionize AI recruiting with Tritium Partners investment",
           "url": "https://www.dhrmap.com/news/talent-intelligence-leader-loxo-raises-115m-to-revolutionize-ai-recruiting-with-tritium-partners-investment"
-        },
-        {
-          "id": "pin-gh41d",
-          "publisher": "Pin",
-          "title": "LinkedIn Recruiter New Features",
-          "url": "https://www.pin.com/blog/linkedin-recruiter-new-features"
         },
         {
           "id": "staffing-industry-analysts-o2249",
@@ -6245,10 +6191,10 @@
       "url": "https://airecruiter.co/blog/state-of-ai-recruiting-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-03",
-      "dateModified": "2026-10-19",
-      "correction": "Corrected October 19, 2026: The hiring-fraud figure now quotes its original source: 41% of IT, cybersecurity, risk and fraud leaders at organizations with at least 1,000 employees said their company had hired and onboarded a fraudulent candidate (a September 2025 survey of 668 leaders by GetReal Security, a deepfake-detection company). We had cited it through a recruiting-software blog as '41% of companies have already hired a fraudulent candidate without knowing it', which overstated what the survey measured. Earlier correction, October 15, 2026: Publication date corrected. This report was dated June 1, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. It has since been revised: figures from after that date, such as Mercor's July 2026 valuation talks, were added later. Earlier correction, September 28, 2026: Frontier-model references now name OpenAI's GPT-6 Astra (introduced September 3, 2026, succeeding GPT-5.6) and Anthropic's Claude Opus 5.5 (released September 22, 2026, succeeding Claude Opus 5). The labor-market snapshot is the June 2026 JOLTS reading (released August 4, 2026), refreshed on August 5, 2026.",
+      "dateModified": "2026-10-20",
+      "correction": "Corrected October 20, 2026: Withdrew the claim that combining AI screening with human final interviews cuts time-to-hire by 40% and lifts first-year retention by 25%: it traces to a staffing firm's brochure whose cited source does not contain it. The section now cites the pre-registered field experiment by Jabarian and Henkel (2026). The 98% hiring-manager figure now cites Insight Global's own survey, the 61% quality-of-hire figure and the Hiring Assistant results cite LinkedIn, and the Eightfold and Phenom facts cite the companies instead of other vendors' blogs. Corrected October 19, 2026: The hiring-fraud figure now quotes its original source: 41% of IT, cybersecurity, risk and fraud leaders at organizations with at least 1,000 employees said their company had hired and onboarded a fraudulent candidate (a September 2025 survey of 668 leaders by GetReal Security, a deepfake-detection company). We had cited it through a recruiting-software blog as '41% of companies have already hired a fraudulent candidate without knowing it', which overstated what the survey measured. Earlier correction, October 15, 2026: Publication date corrected. This report was dated June 1, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. It has since been revised: figures from after that date, such as Mercor's July 2026 valuation talks, were added later. Earlier correction, September 28, 2026: Frontier-model references now name OpenAI's GPT-6 Astra (introduced September 3, 2026, succeeding GPT-5.6) and Anthropic's Claude Opus 5.5 (released September 22, 2026, succeeding Claude Opus 5). The labor-market snapshot is the June 2026 JOLTS reading (released August 4, 2026), refreshed on August 5, 2026.",
       "excerpt": "AI adoption in recruiting jumped about 65% in a year, with 43% of organizations now using it and 52% of talent leaders planning to add autonomous agents. This is a data-driven look at what is working, what is hype, and what talent leaders should do next.",
-      "readMinutes": 51,
+      "readMinutes": 52,
       "citation": "AIRecruiter.co Research (2026). The State of AI in Recruiting: 2026. AIRecruiter.co. https://airecruiter.co/blog/state-of-ai-recruiting-2026",
       "sources": [
         {
@@ -6275,12 +6221,6 @@
           "publisher": "LinkedIn (Future of Recruiting 2025)",
           "title": "LinkedIn (Future of Recruiting 2025)",
           "url": "https://www.linkedin.com/business/talent/blog/talent-acquisition/future-of-recruiting-2025"
-        },
-        {
-          "id": "selectsoftware-reviews-uti7z",
-          "publisher": "SelectSoftware Reviews",
-          "title": "AI Recruiting Statistics",
-          "url": "https://www.selectsoftwarereviews.com/blog/ai-recruiting-statistics"
         },
         {
           "id": "workday-10q-q3-fy2026",
@@ -6321,11 +6261,25 @@
           "year": "2026"
         },
         {
+          "id": "icims-aptitude-ai-adoption-2026",
+          "publisher": "iCIMS and Aptitude Research",
+          "title": "Candidates Are Outpacing Employers in AI Adoption as Organizations Race to Modernize Hiring",
+          "url": "https://www.icims.com/company/newsroom/aiadoptionreport2026/",
+          "year": "2026"
+        },
+        {
           "id": "shrm-17puq",
           "publisher": "SHRM",
           "title": "2025 Talent Acquisition Benchmarking Report",
           "url": "https://www.shrm.org/topics-tools/research/2025-recruiting-benchmarking",
           "year": "2025"
+        },
+        {
+          "id": "arxiv-voice-ai-in-firms-2026",
+          "publisher": "arXiv (Jabarian and Henkel)",
+          "title": "Voice AI in Firms: A Natural Field Experiment on Automated Job Interviews (v2)",
+          "url": "https://arxiv.org/abs/2607.28222",
+          "year": "2026"
         },
         {
           "id": "korn-ferry-1spu9",
@@ -6371,13 +6325,6 @@
           "title": "New GetReal Security Research: 41% of Enterprises Surveyed Report Having Hired and Onboarded Fraudulent Candidates",
           "url": "https://www.prnewswire.com/news-releases/new-getreal-security-research-41-of-enterprises-surveyed-report-having-hired-and-onboarded-fraudulent-candidates-302638982.html",
           "year": "2025"
-        },
-        {
-          "id": "recruit-ai-suite-1vxf0",
-          "publisher": "Recruit AI Suite",
-          "title": "LinkedIn Recruiting Statistics 2026",
-          "url": "https://copilot.recruitaisuite.com/blog/linkedin-recruiting-statistics-2026",
-          "year": "2026"
         }
       ]
     },
@@ -6387,8 +6334,8 @@
       "url": "https://airecruiter.co/blog/ta-market-map-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-03",
-      "dateModified": "2026-10-19",
-      "correction": "Corrected October 19, 2026: The hiring-fraud figure now quotes its original source: 41% of IT, cybersecurity, risk and fraud leaders at organizations with at least 1,000 employees said their company had hired and onboarded a fraudulent candidate (a September 2025 survey of 668 leaders by GetReal Security, a deepfake-detection company). We had cited it through a recruiting-software blog as '41% of companies have already hired a fraudulent candidate without knowing it', which overstated what the survey measured. Earlier correction, October 15, 2026: Publication date corrected. This report was dated June 1, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. It has since been revised: figures from after that date, such as Mercor's July 2026 valuation talks, were added later.",
+      "dateModified": "2026-10-20",
+      "correction": "Corrected October 20, 2026: Withdrew the claim that AI screening with a human final interview cuts time-to-hire by 40% and lifts first-year retention by 25%, which traces to a staffing firm's brochure whose cited source does not contain it; the section now cites the Jabarian and Henkel field experiment. hireEZ's index is now its own figure of more than 1 billion profiles (the 800 million came from an outdated blog), SeekOut, Eightfold, Phenom and LinkedIn facts cite the companies, Eightfold's AI Interviewer is dated October 2025 (not 2026), and the hireEZ and SeekOut contract figures cite Vendr directly; the claim that SeekOut enterprise contracts reach 90,000 dollars, a misreading of Vendr's mid-size range, is removed. Corrected October 19, 2026: The hiring-fraud figure now quotes its original source: 41% of IT, cybersecurity, risk and fraud leaders at organizations with at least 1,000 employees said their company had hired and onboarded a fraudulent candidate (a September 2025 survey of 668 leaders by GetReal Security, a deepfake-detection company). We had cited it through a recruiting-software blog as '41% of companies have already hired a fraudulent candidate without knowing it', which overstated what the survey measured. Earlier correction, October 15, 2026: Publication date corrected. This report was dated June 1, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. It has since been revised: figures from after that date, such as Mercor's July 2026 valuation talks, were added later.",
       "excerpt": "A research-grade map of the recruiting technology landscape across ten categories, the consolidation wave reshaping it, the funding behind it, and a framework buyers can use to navigate it without overpaying or overbuying.",
       "readMinutes": 51,
       "citation": "AIRecruiter.co Research (2026). The Talent Acquisition Tech Market Map: 2026. AIRecruiter.co. https://airecruiter.co/blog/ta-market-map-2026",
@@ -6413,17 +6360,18 @@
           "url": "https://business.linkedin.com/hire/hiring-assistant"
         },
         {
-          "id": "selectsoftware-reviews-uti7z",
-          "publisher": "SelectSoftware Reviews",
-          "title": "AI Recruiting Statistics",
-          "url": "https://www.selectsoftwarereviews.com/blog/ai-recruiting-statistics"
-        },
-        {
           "id": "venero-capital-1ccjd",
           "publisher": "Venero Capital",
           "title": "WorkTech Consolidation: Key Insights from HR Tech Jungle 2025",
           "url": "https://www.venerocapitaladvisors.com/news/worktech-consolidation-key-insights-from-hr-tech-jungle-2025",
           "year": "2025"
+        },
+        {
+          "id": "venero-q3-2026-future-of-work",
+          "publisher": "Venero Capital Advisors",
+          "title": "Record M&A, repriced SaaS and AI everywhere: Venero's Q3 2026 Future of Work report",
+          "url": "https://www.venerocapitaladvisors.com/news/record-m-a-a-repriced-saas-market-and-ai-everywhere-veneros-q3-2026-future-of-work-report",
+          "year": "2026"
         },
         {
           "id": "workday-10q-q3-fy2026",
@@ -6651,8 +6599,8 @@
       "url": "https://airecruiter.co/blog/time-to-hire-benchmarks-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-03",
-      "dateModified": "2026-10-15",
-      "correction": "Publication date corrected. This report was dated April 30, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here.",
+      "dateModified": "2026-10-20",
+      "correction": "Corrected October 20, 2026: The applicants-per-hire figure now cites CareerPlug's own 2025 report (180 applicants per hire in 2024, across more than 60,000 small businesses) instead of another vendor's blog, and no longer rounds it to a 0.6% conversion rate the source does not state. Earlier: Publication date corrected. This report was dated April 30, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here.",
       "excerpt": "Interview load, time to fill, and applications per hire across engineering, product, data, sales, and support.",
       "readMinutes": 47,
       "citation": "AIRecruiter.co Research (2026). Hiring Effort Benchmarks by Function. AIRecruiter.co. https://airecruiter.co/blog/time-to-hire-benchmarks-2026",
