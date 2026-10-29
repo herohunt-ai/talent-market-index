@@ -4,7 +4,7 @@
   "url": "https://airecruiter.co/data",
   "methodology": "https://airecruiter.co/methodology",
   "sourceRegistry": "https://airecruiter.co/research/sources",
-  "dateModified": "2026-10-26",
+  "dateModified": "2026-10-28",
   "citation": "The AIRecruiter.co Index. AIRecruiter.co, accessed [date accessed]. https://airecruiter.co/data. Archived: https://doi.org/10.5281/zenodo.23250163",
   "identifier": "https://doi.org/10.5281/zenodo.23250163",
   "archive": "https://zenodo.org/records/23250163",
@@ -15,7 +15,7 @@
     "statistics": 113,
     "trackers": 6,
     "reports": 16,
-    "citedSources": 197,
+    "citedSources": 200,
     "confidence": {
       "verified": 52,
       "reported": 48,
@@ -735,13 +735,6 @@
       "url": "https://www.venerocapitaladvisors.com/news/worktech-consolidation-key-insights-from-hr-tech-jungle-2025",
       "kind": "industry",
       "year": "2025"
-    },
-    {
-      "id": "whichpayroll-dfujh",
-      "publisher": "WhichPayroll",
-      "title": "EOR Pricing Models",
-      "url": "https://whichpayroll.com/features/eor-pricing-models",
-      "kind": "industry"
     },
     {
       "id": "wikipedia-1masu",
@@ -1509,6 +1502,38 @@
       "publisher": "Tezi",
       "title": "Headway acquires Tezi (Tezi's own announcement, archived; tezi.ai is offline)",
       "url": "https://web.archive.org/web/20260422234640/https://tezi.ai/",
+      "kind": "company",
+      "year": "2026"
+    },
+    {
+      "id": "pebl-eor-pricing",
+      "publisher": "Pebl (Velocity Global)",
+      "title": "Employer of Record Pricing ($399 per employee per month)",
+      "url": "https://hellopebl.com/eor-pricing/",
+      "kind": "company",
+      "year": "2026"
+    },
+    {
+      "id": "deel-eor-pricing",
+      "publisher": "Deel",
+      "title": "Deel pricing (EOR from $599 per employee per month)",
+      "url": "https://www.deel.com/pricing/",
+      "kind": "company",
+      "year": "2026"
+    },
+    {
+      "id": "remote-eor-pricing",
+      "publisher": "Remote",
+      "title": "Remote pricing (Employer of Record from $599 per employee per month, annual contracts)",
+      "url": "https://remote.com/pricing",
+      "kind": "company",
+      "year": "2026"
+    },
+    {
+      "id": "oyster-eor-pricing",
+      "publisher": "Oyster HR",
+      "title": "Oyster pricing (Employer of Record, USD 699 per employee per month)",
+      "url": "https://www.oysterhr.com/pricing",
       "kind": "company",
       "year": "2026"
     },
@@ -5093,7 +5118,7 @@
       "dateModified": "2026-10-20",
       "correction": "Corrected October 20, 2026: The ROI section no longer presents a 30% cost-per-hire reduction and 31% faster hiring as the average result: neither traces to a study. Withdrew a 25% first-year retention figure for AI screening plus human interviews, which traces to a staffing firm's brochure whose cited source does not contain it; the paragraph now cites the Jabarian and Henkel field experiment. HYPR's deepfake figures now quote HYPR's own release, and the Q3 2025 acquisition count is labeled WorkTech, the wider sector Venero Capital counts. Earlier: Updated the interview-validity figures to the 2022 re-analysis by Sackett and colleagues (0.42 structured, 0.19 unstructured). The 0.51 and 0.38 we quoted before are Schmidt and Hunter's 1998 estimates, which the newer research revises.",
       "excerpt": "The definitive index of AI recruiting statistics for 2026: 75+ figures on adoption, ROI, the vendor market, fraud, and bias, each tied to a primary source.",
-      "readMinutes": 54,
+      "readMinutes": 55,
       "citation": "AIRecruiter.co Research (2026). AI Recruiting Statistics 2026: The Definitive Index. AIRecruiter.co. https://airecruiter.co/blog/ai-recruiting-statistics-2026",
       "sources": []
     },
@@ -6463,8 +6488,8 @@
       "url": "https://airecruiter.co/blog/talent-marketplaces-forecast-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-03",
-      "dateModified": "2026-10-15",
-      "correction": "Publication date corrected. This report was dated March 12, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. It has since been revised: figures from after that date, such as Mercor's July 2026 valuation talks, were added later.",
+      "dateModified": "2026-10-28",
+      "correction": "Corrected October 28, 2026: The employer-of-record fees now quote each provider's own pricing page, read that day: 399 dollars per employee per month at Pebl, 599 at Deel and Remote, and 699 at Oyster. The report had given about 599 dollars for both Pebl and Oyster, from a pricing blog, and described that figure as consistent across the challengers. Earlier correction: publication date corrected. This report was dated March 12, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. It has since been revised: figures from after that date, such as Mercor's July 2026 valuation talks, were added later.",
       "excerpt": "Market sizing and a forecast for freelance, contingent, employer-of-record, and AI-data-labor platforms.",
       "readMinutes": 47,
       "citation": "AIRecruiter.co Research (2026). Talent Marketplaces and AI-Native Hiring: Sizing to 2028. AIRecruiter.co. https://airecruiter.co/blog/talent-marketplaces-forecast-2026",
@@ -6526,10 +6551,32 @@
           "url": "https://getlatka.com/companies/toptal"
         },
         {
-          "id": "whichpayroll-dfujh",
-          "publisher": "WhichPayroll",
-          "title": "EOR Pricing Models",
-          "url": "https://whichpayroll.com/features/eor-pricing-models"
+          "id": "pebl-eor-pricing",
+          "publisher": "Pebl (Velocity Global)",
+          "title": "Employer of Record Pricing ($399 per employee per month)",
+          "url": "https://hellopebl.com/eor-pricing/",
+          "year": "2026"
+        },
+        {
+          "id": "deel-eor-pricing",
+          "publisher": "Deel",
+          "title": "Deel pricing (EOR from $599 per employee per month)",
+          "url": "https://www.deel.com/pricing/",
+          "year": "2026"
+        },
+        {
+          "id": "remote-eor-pricing",
+          "publisher": "Remote",
+          "title": "Remote pricing (Employer of Record from $599 per employee per month, annual contracts)",
+          "url": "https://remote.com/pricing",
+          "year": "2026"
+        },
+        {
+          "id": "oyster-eor-pricing",
+          "publisher": "Oyster HR",
+          "title": "Oyster pricing (Employer of Record, USD 699 per employee per month)",
+          "url": "https://www.oysterhr.com/pricing",
+          "year": "2026"
         },
         {
           "id": "deel-e1ivs",
@@ -6595,15 +6642,15 @@
     },
     {
       "slug": "time-to-hire-benchmarks-2026",
-      "title": "Hiring Effort Benchmarks by Function",
+      "title": "Time to Hire Benchmarks 2026, by Industry and Function",
       "url": "https://airecruiter.co/blog/time-to-hire-benchmarks-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-03",
-      "dateModified": "2026-10-20",
-      "correction": "Corrected October 20, 2026: The applicants-per-hire figure now cites CareerPlug's own 2025 report (180 applicants per hire in 2024, across more than 60,000 small businesses) instead of another vendor's blog, and no longer rounds it to a 0.6% conversion rate the source does not state. Earlier: Publication date corrected. This report was dated April 30, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here.",
-      "excerpt": "Interview load, time to fill, and applications per hire across engineering, product, data, sales, and support.",
-      "readMinutes": 47,
-      "citation": "AIRecruiter.co Research (2026). Hiring Effort Benchmarks by Function. AIRecruiter.co. https://airecruiter.co/blog/time-to-hire-benchmarks-2026",
+      "dateModified": "2026-10-28",
+      "correction": "Updated October 28, 2026: Added a short answer with time to fill and time to hire by industry and seniority from Pinpoint's applicant-tracking benchmarks and Greenhouse's 2022 to 2025 time-to-fill trend, each read on the publisher's own page that day, and removed an unsourced line that put the US average near 35 days and the global average near 38. Earlier, corrected October 20, 2026: The applicants-per-hire figure now cites CareerPlug's own 2025 report (180 applicants per hire in 2024, across more than 60,000 small businesses) instead of another vendor's blog, and no longer rounds it to a 0.6% conversion rate the source does not state. Earlier: Publication date corrected. This report was dated April 30, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here.",
+      "excerpt": "Time to fill and time to hire in 2026 by industry and seniority, Greenhouse's 2022 to 2025 trend, SHRM's medians, and interview load by function.",
+      "readMinutes": 52,
+      "citation": "AIRecruiter.co Research (2026). Time to Hire Benchmarks 2026, by Industry and Function. AIRecruiter.co. https://airecruiter.co/blog/time-to-hire-benchmarks-2026",
       "sources": [
         {
           "id": "shrm-17puq",
