@@ -4,7 +4,7 @@
   "url": "https://airecruiter.co/data",
   "methodology": "https://airecruiter.co/methodology",
   "sourceRegistry": "https://airecruiter.co/research/sources",
-  "dateModified": "2026-10-28",
+  "dateModified": "2026-10-31",
   "citation": "The AIRecruiter.co Index. AIRecruiter.co, accessed [date accessed]. https://airecruiter.co/data. Archived: https://doi.org/10.5281/zenodo.23250163",
   "identifier": "https://doi.org/10.5281/zenodo.23250163",
   "archive": "https://zenodo.org/records/23250163",
@@ -15,7 +15,7 @@
     "statistics": 113,
     "trackers": 6,
     "reports": 16,
-    "citedSources": 200,
+    "citedSources": 201,
     "confidence": {
       "verified": 52,
       "reported": 48,
@@ -1534,6 +1534,14 @@
       "publisher": "Oyster HR",
       "title": "Oyster pricing (Employer of Record, USD 699 per employee per month)",
       "url": "https://www.oysterhr.com/pricing",
+      "kind": "company",
+      "year": "2026"
+    },
+    {
+      "id": "hirevue-our-customers",
+      "publisher": "HireVue",
+      "title": "Our customers (1,000+ customers worldwide, 40% of the Fortune 100)",
+      "url": "https://www.hirevue.com/our-customers",
       "kind": "company",
       "year": "2026"
     },
@@ -4011,13 +4019,20 @@
       "topic": "assessment-interview",
       "confidence": "reported",
       "context": "The durable moat in interview intelligence is the proprietary, outcome-linked interview corpus. HireVue reports hosting over 70 million video interviews, the accumulated data asset that made it an acquirer rather than a target.",
-      "trendNote": "with 1,000+ validation studies; serves ~60% of the Fortune 100",
+      "trendNote": "with 1,000+ validation studies; 40% of the Fortune 100 by its customers page in October 2026 (its March 2026 release said over 60%)",
       "sources": [
         {
           "id": "hirevue-1n611",
           "publisher": "HireVue",
           "title": "AI in Hiring",
           "url": "https://www.hirevue.com/ai-in-hiring"
+        },
+        {
+          "id": "hirevue-our-customers",
+          "publisher": "HireVue",
+          "title": "Our customers (1,000+ customers worldwide, 40% of the Fortune 100)",
+          "url": "https://www.hirevue.com/our-customers",
+          "year": "2026"
         }
       ],
       "reports": [
@@ -5978,8 +5993,8 @@
       "url": "https://airecruiter.co/blog/interview-intelligence-deep-dive-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-03",
-      "dateModified": "2026-10-15",
-      "correction": "Publication date corrected. This report was dated May 7, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. Earlier correction, October 6, 2026: Corrected the interview-validity figures. We had presented 0.51 (structured) and 0.38 (unstructured) as current and linked them to a 2016 update that in fact puts both formats at 0.58; those are Schmidt and Hunter's 1998 estimates. The guide now gives all three estimates and leads with the 2022 re-analysis by Sackett and colleagues (0.42 structured, 0.19 unstructured), and drops a 0.63 composite figure its linked source did not support.",
+      "dateModified": "2026-10-31",
+      "correction": "HireVue's Fortune 100 share dated. We gave its March 2026 figure, over 60% of the Fortune 100, as current; its customers page said 40% on October 31, 2026, and the report now gives both with their dates. Earlier correction, October 15, 2026: Publication date corrected. This report was dated May 7, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here. Earlier correction, October 6, 2026: Corrected the interview-validity figures. We had presented 0.51 (structured) and 0.38 (unstructured) as current and linked them to a 2016 update that in fact puts both formats at 0.58; those are Schmidt and Hunter's 1998 estimates. The guide now gives all three estimates and leads with the 2022 re-analysis by Sackett and colleagues (0.42 structured, 0.19 unstructured), and drops a 0.63 composite figure its linked source did not support.",
       "excerpt": "A deep dive on the fastest-consolidating assessment category and what it means for interview quality and fairness.",
       "readMinutes": 47,
       "citation": "AIRecruiter.co Research (2026). Interview Intelligence: Category Deep Dive. AIRecruiter.co. https://airecruiter.co/blog/interview-intelligence-deep-dive-2026",
@@ -6015,6 +6030,13 @@
           "publisher": "HireVue",
           "title": "AI in Hiring",
           "url": "https://www.hirevue.com/ai-in-hiring"
+        },
+        {
+          "id": "hirevue-our-customers",
+          "publisher": "HireVue",
+          "title": "Our customers (1,000+ customers worldwide, 40% of the Fortune 100)",
+          "url": "https://www.hirevue.com/our-customers",
+          "year": "2026"
         },
         {
           "id": "metaview-czxj9",
