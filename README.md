@@ -19,8 +19,8 @@ The six trackers are built from U.S. Bureau of Labor Statistics data (via FRED) 
 |---|---|---|---|
 | Unemployment rate | 4.2% | September 2026 | [Unemployment Rate (UNRATE)](https://fred.stlouisfed.org/series/UNRATE) |
 | Labor force participation | 61.8% | September 2026 | [Labor Force Participation Rate (CIVPART)](https://fred.stlouisfed.org/series/CIVPART) |
-| Job openings rate | 4.3% | August 2026 | [Job Openings: Total Nonfarm, rate (JTSJOR)](https://fred.stlouisfed.org/series/JTSJOR) |
-| Quits rate | 1.9% | August 2026 | [Quits: Total Nonfarm, rate (JTSQUR)](https://fred.stlouisfed.org/series/JTSQUR) |
+| Job openings rate | 4.5% | September 2026 | [Job Openings: Total Nonfarm, rate (JTSJOR)](https://fred.stlouisfed.org/series/JTSJOR) |
+| Quits rate | 2.1% | September 2026 | [Quits: Total Nonfarm, rate (JTSQUR)](https://fred.stlouisfed.org/series/JTSQUR) |
 | Staffing industry employment | 2.49M | September 2026 | [All Employees: Temporary Help Services (TEMPHELPS)](https://fred.stlouisfed.org/series/TEMPHELPS) |
 | Cost of talent | $32.60 | September 2026 | [Average Hourly Earnings, Production and Nonsupervisory (AHETPI)](https://fred.stlouisfed.org/series/AHETPI) |
 
@@ -70,7 +70,7 @@ Every row is labeled by how the figure was established:
 - **reported** (48 rows): reported by a credible source but without a fully resolvable underlying study.
 - **modeled** (13 rows): an estimate or projection.
 
-Temporal coverage: **2000/2026**. Data as of: **2026-10-31**.
+Temporal coverage: **2000/2026**. Data as of: **2026-11-04**.
 
 ## How the data is collected
 
@@ -102,7 +102,7 @@ print(verified[["statistic", "formatted", "primary_source_publisher", "primary_s
 
 ## How to cite
 
-> The AIRecruiter.co Talent Market Index. AIRecruiter.co (an independent research publication by HeroHunt.ai), https://airecruiter.co/data. CC-BY-4.0. Data as of 2026-10-31. https://doi.org/10.5281/zenodo.23250163
+> The AIRecruiter.co Talent Market Index. AIRecruiter.co (an independent research publication by HeroHunt.ai), https://airecruiter.co/data. CC-BY-4.0. Data as of 2026-11-04. https://doi.org/10.5281/zenodo.23250163
 
 Dated, versioned snapshots of this dataset are archived on Zenodo: [doi.org/10.5281/zenodo.23250163](https://doi.org/10.5281/zenodo.23250163) always resolves to the latest version.
 

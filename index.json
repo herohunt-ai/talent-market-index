@@ -4,7 +4,7 @@
   "url": "https://airecruiter.co/data",
   "methodology": "https://airecruiter.co/methodology",
   "sourceRegistry": "https://airecruiter.co/research/sources",
-  "dateModified": "2026-10-31",
+  "dateModified": "2026-11-04",
   "citation": "The AIRecruiter.co Index. AIRecruiter.co, accessed [date accessed]. https://airecruiter.co/data. Archived: https://doi.org/10.5281/zenodo.23250163",
   "identifier": "https://doi.org/10.5281/zenodo.23250163",
   "archive": "https://zenodo.org/records/23250163",
@@ -4568,8 +4568,8 @@
       "frequency": "Annual average, 2001-2025",
       "geo": "United States",
       "confidence": "verified",
-      "latestAsOf": "August 2026",
-      "latest": "4.3%",
+      "latestAsOf": "September 2026",
+      "latest": "4.5%",
       "source": {
         "id": "bls-fred-jtsjor",
         "publisher": "U.S. Bureau of Labor Statistics, JOLTS, via FRED",
@@ -4679,7 +4679,7 @@
         },
         {
           "year": 2026,
-          "value": 4.3,
+          "value": 4.5,
           "partial": true
         }
       ]
@@ -4693,8 +4693,8 @@
       "frequency": "Annual average, 2001-2025",
       "geo": "United States",
       "confidence": "verified",
-      "latestAsOf": "August 2026",
-      "latest": "1.9%",
+      "latestAsOf": "September 2026",
+      "latest": "2.1%",
       "source": {
         "id": "bls-fred-jtsqur",
         "publisher": "U.S. Bureau of Labor Statistics, JOLTS, via FRED",
@@ -4804,7 +4804,7 @@
         },
         {
           "year": 2026,
-          "value": 1.9,
+          "value": 2.1,
           "partial": true
         }
       ]
@@ -5393,10 +5393,10 @@
       "url": "https://airecruiter.co/blog/ai-hiring-liability-mobley-workday-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-15",
-      "dateModified": "2026-10-13",
-      "correction": "The AI-in-HR market figure now quotes Grand View Research's own published estimate for 2026, $6.3 billion. This report previously gave about $5 billion for 2025, a value interpolated on the firm's growth path between its published 2023 and 2030 figures.",
+      "dateModified": "2026-11-02",
+      "correction": "Added November 2, 2026: our own count of how many S&P 100 companies take applications on Workday. Earlier: The AI-in-HR market figure now quotes Grand View Research's own published estimate for 2026, $6.3 billion. This report previously gave about $5 billion for 2025, a value interpolated on the firm's growth path between its published 2023 and 2030 figures.",
       "excerpt": "Mobley v. Workday turns thousands of employer defendants into one nationwide vendor. How AI hiring liability migrated from buyer to builder, and what to do.",
-      "readMinutes": 69,
+      "readMinutes": 70,
       "citation": "AIRecruiter.co Research (2026). AI Hiring Liability After Mobley v. Workday. AIRecruiter.co. https://airecruiter.co/blog/ai-hiring-liability-mobley-workday-2026",
       "sources": [
         {
@@ -5905,15 +5905,15 @@
     },
     {
       "slug": "ats-market-share-2026",
-      "title": "ATS Market Structure and Buyer Sentiment 2026",
+      "title": "ATS Market Share 2026: Leaders and Buyer Sentiment",
       "url": "https://airecruiter.co/blog/ats-market-share-2026",
       "author": "AIRecruiter.co Research",
       "datePublished": "2026-06-03",
-      "dateModified": "2026-10-20",
-      "correction": "Corrected October 20, 2026: The 94% figure on the value of applicant tracking software now cites its original source, Capterra's 2015 survey of 102 HR and talent professionals, and says what it measured (users saying the software improved their hiring process), instead of a review blog that worded it as 94% of recruiters; the 5.6x valuation multiple now links the Venero Capital page that states it. Earlier: Publication date corrected. This report was dated March 30, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here.",
-      "excerpt": "The leaders, the challengers, and the consolidation reshaping the applicant-tracking system market.",
+      "dateModified": "2026-11-02",
+      "correction": "Added November 2, 2026: our own company-by-company count of which system takes applications at the S&P 100, and Jobscan's Fortune 500 figure beside Workday's customer claim. Earlier: Corrected October 20, 2026: The 94% figure on the value of applicant tracking software now cites its original source, Capterra's 2015 survey of 102 HR and talent professionals, and says what it measured (users saying the software improved their hiring process), instead of a review blog that worded it as 94% of recruiters; the 5.6x valuation multiple now links the Venero Capital page that states it. Earlier: Publication date corrected. This report was dated March 30, 2026, before airecruiter.co went live on June 3, 2026, so it now carries June 3, 2026, the earliest day it can have been public here.",
+      "excerpt": "Workday takes applications at 50 of the 99 S&P 100 companies by our own check. The leaders, the challengers and the consolidation reshaping the applicant-tracking market.",
       "readMinutes": 48,
-      "citation": "AIRecruiter.co Research (2026). ATS Market Structure and Buyer Sentiment 2026. AIRecruiter.co. https://airecruiter.co/blog/ats-market-share-2026",
+      "citation": "AIRecruiter.co Research (2026). ATS Market Share 2026: Leaders and Buyer Sentiment. AIRecruiter.co. https://airecruiter.co/blog/ats-market-share-2026",
       "sources": [
         {
           "id": "venero-capital-1ccjd",
